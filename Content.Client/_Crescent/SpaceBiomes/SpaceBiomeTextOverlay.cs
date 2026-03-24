@@ -35,8 +35,10 @@ public sealed class SpaceBiomeTextOverlay : Overlay
     public SpaceBiomeTextOverlay()
     {
         IoCManager.InjectDependencies(this);
-        _font = _cache.GetFont("/Fonts/Fondamento-Regular.ttf", 25);
-        _descriptionfont = _cache.GetFont("/Fonts/Fondamento-Regular.ttf", 15);
+        // Ru-Locale-Start
+        _font = _cache.GetFont("/Fonts/IMFellEnglish-Regular.otf", 25);
+        _descriptionfont = _cache.GetFont("/Fonts/IMFellEnglish-Regular.otf", 15);
+        // Ru-Locale-End
     }
 
     public void Reset()
