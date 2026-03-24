@@ -24,7 +24,7 @@ shuttle-console-dock-toggle = Показ стыковочных портов
 shuttle-console-Nav = НАВИГАЦИЯ
 shuttle-console-Map = БСС
 shuttle-console-Dock = СТЫКОВКА
-Loc shuttle-console-Crew = КОМАНДА
+shuttle-console-Crew = КОМАНДА
 
 # MAP
 
