@@ -10,7 +10,7 @@
       uiWindowPos: 0,3
       strippingWindowPos: 0,0
       dependsOn: jumpsuit
-      displayName: Pocket 1
+      displayName: inventory-slot-pocket1 # Ru-Localization
 
     - name: pocket2
       slotTexture: pocket
@@ -32,7 +32,7 @@
       uiWindowPos: 2,1
       strippingWindowPos: 2,0
       dependsOn: jumpsuit
-      displayName: ID
+      displayName: inventory-slot-id # Ru-Localization
 
     - name: back
       slotTexture: back
@@ -42,7 +42,7 @@
       stripTime: 6
       uiWindowPos: 3,0
       strippingWindowPos: 0,1
-      displayName: Back
+      displayName: inventory-slot-back # Ru-Localization
 
     - name: belt
       slotTexture: belt
@@ -52,7 +52,7 @@
       stripTime: 4
       uiWindowPos: 3,1
       strippingWindowPos: 1,1
-      displayName: Belt
+      displayName: inventory-slot-belt # Ru-Localization
 
     - name: suitstorage
       slotTexture: suit_storage
@@ -61,7 +61,7 @@
       uiWindowPos: 2,0
       strippingWindowPos: 2,1
       dependsOn: outerClothing
-      displayName: Suit Storage
+      displayName: inventory-slot-suit-storage # Ru-Localization
 
 # "Not strippable", "hidden"
     - name: shoes
@@ -70,7 +70,7 @@
       stripTime: 999999
       uiWindowPos: 1,0
       strippingWindowPos: 21,23
-      displayName: Shoes
+      displayName: inventory-slot-shoes # Ru-Localization
 
     - name: jumpsuit
       slotTexture: uniform
@@ -78,7 +78,7 @@
       stripTime: 6
       uiWindowPos: 0,1
       strippingWindowPos: 20,22
-      displayName: Jumpsuit
+      displayName: inventory-slot-jumpsuit # Ru-Localization
 
     - name: outerClothing
       slotTexture: suit
@@ -86,7 +86,7 @@
       stripTime: 999999
       uiWindowPos: 1,1
       strippingWindowPos: 21,22
-      displayName: Suit
+      displayName: inventory-slot-outer-clothing # Ru-Localization
 
     - name: gloves
       stripTime: 999999
@@ -94,7 +94,7 @@
       slotFlags: GLOVES
       uiWindowPos: 2,1
       strippingWindowPos: 22,22
-      displayName: Gloves
+      displayName: inventory-slot-gloves # Ru-Localization
 
     - name: neck
       stripTime: 999999
@@ -102,7 +102,7 @@
       slotFlags: NECK
       uiWindowPos: 0,2
       strippingWindowPos: 20,21
-      displayName: Neck
+      displayName: inventory-slot-neck # Ru-Localization
 
     - name: mask
       stripTime: 999999
@@ -110,7 +110,7 @@
       slotFlags: MASK
       uiWindowPos: 1,2
       strippingWindowPos: 21,21
-      displayName: Mask
+      displayName: inventory-slot-mask # Ru-Localization
 
     - name: eyes
       slotTexture: glasses
@@ -118,7 +118,7 @@
       stripTime: 999999
       uiWindowPos: 0,3
       strippingWindowPos: 20,20
-      displayName: Eyes
+      displayName: inventory-slot-eyes # Ru-Localization
 
     - name: ears
       slotTexture: ears
@@ -134,4 +134,4 @@
       slotFlags: HEAD
       uiWindowPos: 1,3
       strippingWindowPos: 21,20
-      displayName: Head
+      displayName: inventory-slot-head # Ru-Localization
