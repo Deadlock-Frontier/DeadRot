@@ -33,7 +33,7 @@ namespace Content.Shared.Localizations
             _loc.LoadCulture(culture);
             _loc.LoadCulture(fallbackCulture); // Ru-Localization
             _loc.SetFallbackCluture(fallbackCulture); // Ru-Localization
-            _loc.AddFunction(culture, "MANY", FormatMany); // Ru-Localization
+            _loc.AddFunction(culture, "MANY", FormatMany); // RU-Localization: To prevent problems in auto-generated locale files
             _loc.AddFunction(culture, "PRESSURE", FormatPressure);
             _loc.AddFunction(culture, "POWERWATTS", FormatPowerWatts);
             _loc.AddFunction(culture, "POWERJOULES", FormatPowerJoules);
