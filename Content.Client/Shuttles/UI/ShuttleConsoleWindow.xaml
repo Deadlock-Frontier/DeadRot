@@ -16,14 +16,14 @@
                     ToggleMode="True"
                     HorizontalExpand="True"
                     VerticalExpand="True"
-                    Text="NAV"
-                    Margin="5"/>
+                    Text="{Loc shuttle-console-Nav}"
+                    Margin="5"/><!--Ru Locale-->
             <Button Name="MapModeButton"
                     ToggleMode="True"
                     HorizontalExpand="True"
                     VerticalExpand="True"
-                    Text="MAP"
-                    Margin="5"/>
+                    Text="{Loc shuttle-console-Map}"
+                    Margin="5"/> <!--Ru Locale-->
             <Button Name="DockModeButton"
                     ToggleMode="True"
                     HorizontalExpand="True"
@@ -34,8 +34,8 @@
                     ToggleMode="True"
                     HorizontalExpand="True"
                     VerticalExpand="True"
-                    Text="CREW"
-                    Margin="5"/>
+                    Text="{Loc shuttle-console-Crew}"
+                    Margin="5"/> <!--Ru Locale-->
         </BoxContainer>
         <!-- Contents box -->
         <BoxContainer Name="Contents"

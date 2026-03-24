@@ -13,6 +13,19 @@
     - shrieks
     - screeches
     - yells
+    - yelled
+    - yelling
+    # RU-Localization-Start
+    - кричит
+    - кричит.
+    - кричит!
+    - орёт
+    - орёт.
+    - орёт!
+    - визжит
+    - визжит.
+    - визжит!
+    # RU-Localization-End
 
 - type: emote
   id: Laugh
@@ -28,6 +41,19 @@
     - chuckles
     - giggles
     - chortles
+    - chortling
+    - chortled # Frontier
+    # RU-Localization-Start
+    - смеется
+    - смеётся
+    - смеются
+    - хохочет
+    - хихикает
+    - хихикнул
+    - хихикнула
+    - хихикнуло
+    - ржёт
+    # RU-Localization-End
 
 - type: emote
   id: Honk
@@ -41,6 +67,13 @@
     - HarpyEmotes
   chatTriggers:
     - honks
+    - honked
+    - honking
+    # RU-Localization-Start
+    - хонк
+    - хонкнул
+    - хонкает
+    # RU-Localization-End
 
 - type: emote
   id: Sigh
@@ -53,6 +86,15 @@
   chatMessages: ["chat-emote-msg-sigh"]
   chatTriggers:
     - sighs
+    - sighed
+    - sighing # Frontier
+    # RU-Localization-Start
+    - вздыхает
+    - вздохнул
+    - вздохнула
+    - вздохнуло
+    - вздохнули
+    # RU-Localization-End
 
 - type: emote
   id: Whistle
@@ -65,6 +107,15 @@
   chatMessages: ["chat-emote-msg-whistle"]
   chatTriggers:
     - whistles
+    - whistleblowing
+    - whistled # Frontier
+    # RU-Localization-Start
+    - свистит
+    - свистнул
+    - свистнула
+    - свистнуло
+    - свистнули
+    # RU-Localization-End
 
 - type: emote
   id: Crying
@@ -78,6 +129,15 @@
   chatTriggers:
     - cries
     - sobs
+    - sobbing
+    - sobbed # Frontier
+    - cried # Frontier
+    # RU-Localization-Start
+    - плачет
+    - рыдает
+    - хнычет
+    - хнычут
+    # RU-Localization-End
 
 - type: emote
   id: Squish
@@ -93,6 +153,11 @@
   chatMessages: ["chat-emote-msg-squish"]
   chatTriggers:
     - squishes
+    - squished # Frontier
+    # RU-Localization-Start
+    - хлюпает
+    - хлюпают
+    # RU-Localization-End
 
 - type: emote
   id: Chitter
@@ -108,6 +173,12 @@
   chatMessages: ["chat-emote-msg-chitter"]
   chatTriggers:
    - chitters
+   - chittered
+   - chittering # Frontier
+   # RU-Localization-Start
+   - стрекочет
+   - стрекочут
+   # RU-Localization-End
 
 - type: emote
   id: Squeak
@@ -123,6 +194,12 @@
   chatMessages: ["chat-emote-msg-squeak"]
   chatTriggers:
    - squeaks
+   - squeaked
+   - squeaking # Frontier
+   # RU-Localization-Start
+   - пищит
+   - пищат
+   # RU-Localization-End
 
 - type: emote
   id: Click
@@ -138,6 +215,12 @@
   chatMessages: ["chat-emote-msg-click"]
   chatTriggers:
    - clicks
+   - clicked # Frontier
+   - clicking # Frontier
+   # RU-Localization-Start
+   - кликает
+   - кликают
+   # RU-Localization-End
 
 # hand emotes
 - type: emote
@@ -154,6 +237,21 @@
   chatMessages: ["chat-emote-msg-clap"]
   chatTriggers:
     - claps
+    - clapping
+    - clapped
+    # RU-Localization-Start
+    - хлопает
+    - хлопнул
+    - хлопнула
+    - хлопнули
+    - хлопает в ладоши
+    - хлопнул в ладоши
+    - хлопнула в ладоши
+    - хлопнуло в ладоши
+    - хлопнули в ладоши
+    - апплодирует
+    - апплодируют
+    # RU-Localization-End
 
 - type: emote
   id: Snap
@@ -174,7 +272,30 @@
     - snaps her fingers
     - snaps their fingers
     - snaps its fingers
-    - snaps its' fingers
+    - snapping fingers
+    - snapped fingers
+    # RU-Localization-Start
+    - щелкает
+    - щелкнул
+    - щелкнула
+    - щелкнуло
+    - щелкнули
+    - щёлкает
+    - щёлкнул
+    - щёлкнула
+    - щёлкнуло
+    - щёлкнули
+    - щелкает пальцами
+    - щелкнул пальцами
+    - щелкнула пальцами
+    - щелкнуло пальцами
+    - щелкнули пальцами
+    - щёлкает пальцами
+    - щёлкнул пальцами
+    - щёлкнула пальцами
+    - щёлкнуло пальцами
+    - щёлкнули пальцами
+    # RU-Localization-End
 
 - type: emote
   id: Salute
@@ -190,6 +311,35 @@
   chatMessages: ["chat-emote-msg-salute"]
   chatTriggers:
     - salutes
+    - saluted # Frontier
+    - saluting # Frontier
+    # RU-Localization-Start
+    - салютует
+    - салютуют
+    - отдаёт честь
+    - отдают честь
+    - отдал честь
+    - отдала честь
+    - отдало честь
+    - отдали честь
+    # RU-Localization-End
+
+- type: emote
+  id: Gasp
+  name: chat-emote-name-gasp
+  whitelist:
+    components:
+    - Respirator
+  chatMessages: ["chat-emote-msg-gasp"]
+  chatTriggers:
+   - gasp
+   - gasps
+   - gasped
+   - gasping # Frontier
+   # RU-Localization-Start
+   - задыхается
+   - задыхаются
+   # RU-Localization-End
 
 - type: emote
   id: DefaultDeathgasp
@@ -202,8 +352,12 @@
     tags:
     - SiliconEmotes
   chatMessages: ["chat-emote-msg-deathgasp"]
-  chatTriggers:
-  - deathgasp
+  chatTriggers: # Mono - D-V ready for some more 1984 - Readds deathgasp
+    - deathgasp
+    # RU-Localization-Start
+    - умирает
+    - умирают
+    # RU-Localization-End
 
 - type: emote
   id: MonkeyDeathgasp
@@ -234,13 +388,29 @@
   chatMessages: ["chat-emote-msg-buzz"]
   chatTriggers:
     - buzzes
+    # RU-Localization-Start
+    - жужжит
+    - жужжат
+    - зажужжал
+    - зажужжала
+    - зажжужало
+    - зажжужали
+    # RU-Localization-End
 
 - type: emote
   id: Weh
   name: chat-emote-name-weh
   category: Vocal
   icon: Interface/Emotes/weh.png
-  chatMessages: [ wehs ]
+  chatMessages: ["chat-emote-msg-weh"]
+  chatTriggers: # Floof - you can weh now
+    - weh
+    - wehs
+    # RU-Localization-Start
+    - вехает
+    - вехают
+    - вех
+    # RU-Localization-End
 
 - type: emote
   id: Chirp
@@ -256,6 +426,12 @@
   chatMessages: ["chat-emote-msg-chirp"]
   chatTriggers:
     - chirps
+    - chirped
+    - chirping
+    # RU-Localization-Start
+    - чирикает
+    - чирикают
+    # RU-Localization-End
 
 # Machine Emotes
 - type: emote
@@ -282,6 +458,13 @@
   chatMessages: [ boops ]
   chatTriggers:
     - boops
+    - beeped
+    - beeping
+    # RU-Localization-Start
+    - бип
+    - бипает
+    - бипают
+    # RU-Localization-End
 
 - type: emote
   id: Chime
@@ -295,6 +478,13 @@
   chatMessages: ["chat-emote-msg-chime"]
   chatTriggers:
     - chimes
+    - chimed
+    - chiming
+    # RU-Localization-Start
+    - дзынь
+    - дзынькает
+    - дзынькают
+    # RU-Localization-End
 
 - type: emote
   id: Buzz-Two
@@ -308,6 +498,17 @@
   chatMessages: ["chat-emote-msg-buzzestwo"]
   chatTriggers:
     - buzzes twice
+    - buzzing twice
+    - buzzed twice
+    - buzzedtwice # Frontier
+    # RU-Localization-Start
+    - бипбуп
+    - бип буп
+    - бип-буп
+    - бипбип
+    - бип бип
+    - бип-бип
+    # RU-Localization-End
 
 - type: emote
   id: Ping
@@ -362,4 +563,9 @@
     - BorgChassis
   chatMessages: [ wurble ]
   chatTriggers:
-    - wurble
+    - ping
+    - pinged
+    - pinging
+    # RU-Localization-Start
+    - пинг
+    # RU-Localization-End

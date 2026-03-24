@@ -61,7 +61,7 @@
       uiWindowPos: 0,3
       strippingWindowPos: 0,4
       dependsOn: jumpsuit
-      displayName: Pocket 1
+      displayName: inventory-slot-pocket1 # Ru-Localization
       stripHidden: true
     - name: pocket2
       slotTexture: pocket
@@ -71,7 +71,7 @@
       uiWindowPos: 2,3
       strippingWindowPos: 1,4
       dependsOn: jumpsuit
-      displayName: Pocket 2
+      displayName: inventory-slot-pocket2 # Ru-Localization
       stripHidden: true
     - name: suitstorage
       slotTexture: suit_storage
@@ -81,7 +81,7 @@
       uiWindowPos: 2,0
       strippingWindowPos: 2,5
       dependsOn: outerClothing
-      displayName: Suit Storage
+      displayName: inventory-slot-suit-storage # Ru-Localization
     - name: id
       slotTexture: id
       slotFlags: IDCARD
@@ -90,7 +90,7 @@
       uiWindowPos: 2,1
       strippingWindowPos: 2,4
       dependsOn: jumpsuit
-      displayName: ID
+      displayName: inventory-slot-id # Ru-Localization
     - name: belt
       slotTexture: belt
       slotFlags: BELT
@@ -98,7 +98,7 @@
       stripTime: 6
       uiWindowPos: 3,1
       strippingWindowPos: 1,5
-      displayName: Belt
+      displayName: inventory-slot-belt # Ru-Localization
     - name: back
       slotTexture: back
       slotFlags: BACK
@@ -106,4 +106,4 @@
       stripTime: 6
       uiWindowPos: 3,0
       strippingWindowPos: 0,5
-      displayName: Back
+      displayName: inventory-slot-back # Ru-Localization
