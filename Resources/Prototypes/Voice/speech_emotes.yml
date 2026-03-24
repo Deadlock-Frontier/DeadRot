@@ -570,7 +570,6 @@
   chatMessages: [ wurble ]
   chatTriggers:
     - ping
-    - pings
     - pinged
     - pinging
     # RU-Localization-Start
