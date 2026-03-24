@@ -52,7 +52,7 @@
     uiWindowPos: 0,3
     strippingWindowPos: 0,4
     dependsOn: jumpsuit
-    displayName: inventory-slot-pocket-1 # Ru-Localization
+    displayName: inventory-slot-pocket1 # Ru-Localization
     stripHidden: true
   - name: pocket2
     slotTexture: pocket
@@ -63,7 +63,7 @@
     uiWindowPos: 2,3
     strippingWindowPos: 1,4
     dependsOn: jumpsuit
-    displayName: inventory-slot-pocket-2 # Ru-Localization
+    displayName: inventory-slot-pocket2 # Ru-Localization
     stripHidden: true
   - name: suitstorage
     slotTexture: suit_storage
