@@ -1,9 +1,7 @@
 - files: ["gazer"]
   license: "CC-BY-NC-SA-3.0"
-  copyright: "Sector Crescent"
-  source: "Hullrot Development Team"
+  copyright: "Sector Crescent, made by Hullrot Development Team" # DeadLock-Edit
 
 - files: ["rotter"]
   license: "CC-BY-NC-SA-3.0"
-  copyright: "Sector Crescent"
-  source: "Hullrot Development Team"
+  copyright: "Sector Crescent, made by Hullrot Development Team" # DeadLock-Edit
