@@ -1,62 +1,28 @@
+<!-- Guidelines: https://docs.spacestation14.io/en/getting-started/pr-guideline -->
+
+## Описание
+<!-- Что меняет ваш Pull Request? -->
+
+## Почему / Баланс
+<!-- Объясните как именно ваш Pull Request меняет игру и игровой процесс в целом. Укажите проблему что он может решить. -->
+
+## Медиа
+<!-- Прикрепите медиафайлы, которые демонстрируют ваше изменение игры (текстуры, работа механики и т.д)  -->
+
+## Требования
+<!-- Подтвердите следующее, поставив X в скобках [X]: -->
+- [ ] Я прочитал(а) и следую [Рекомендациям по оформлению Pull Request и Changelog](https://docs.spacestation14.com/en/general-development/codebase-info/pull-request-guidelines.html).
+- [ ] Я добавил(а) медиафайлы к этому PR или он не требует демонстрации в игре.
+<!-- Вы должны понимать, что несоблюдение вышеуказанного может привести к закрытию вашего PR по усмотрению сопровождающего -->
+
+**Список изменений**
+<!-- Добавьте запись в Changelog, чтобы игроки знали о новых функциях или изменениях, которые могут повлиять на игровой процесс.
+Убедитесь, что вы прочитали рекомендации и вынесли этот шаблон Changelog из блока комментариев, чтобы он отображался.
+Changelog должен иметь символ :cl:, чтобы бот распознал изменения и добавил их в список изменений игры. -->
 <!--
-This is a semi-strict format, you can add/remove sections as needed but the order/format should be kept the same
-Remove these comments before submitting
--->
-
-# Description
-
-<!--
-Explain this PR in as much detail as applicable
-
-Some example prompts to consider:
-How might this affect the game? The codebase?
-What might be some alternatives to this?
-How/Who does this benefit/hurt [the game/codebase]?
--->
-
-Description.
-
----
-
-# TODO
-
-<!--
-A list of everything you have to do before this PR is "complete"
-You probably won't have to complete everything before merging but it's good to leave future references
--->
-
-- [ ] Task
-- [x] Completed Task
-
----
-
-<!--
-This is default collapsed, readers click to expand it and see all your media
-The PR media section can get very large at times, so this is a good way to keep it clean
-The title is written using HTML tags
-The title must be within the <summary> tags or you won't see it
--->
-
-<details><summary><h1>Media</h1></summary>
-<p>
-
-![Example Media Embed](https://example.com/thisimageisntreal.png)
-
-</p>
-</details>
-
----
-
-# Changelog
-
-<!--
-You can add an author after the `:cl:` to change the name that appears in the changelog (ex: `:cl: Death`)
-Leaving it blank will default to your GitHub display name
-This includes all available types for the changelog
--->
-
 :cl:
-- add: Added fun :D
-- tweak: Tweaked fun
-- fix: Fixed fun!
-- remove: Removed fun :(
+- add: Добавлено веселье!
+- remove: Удалено веселье!
+- tweak: Изменено веселье!
+- fix: Исправлено веселье!
+-->
