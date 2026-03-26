@@ -89,7 +89,7 @@ language-DroneTalk-name = Дрон
 language-DroneTalk-description = Непонятно большинству людей, не знакомых с дронами!
 # Tajaran and Shadow stuffs
 language-SiikMaas-name = Сиик'маас
-language-SiikMaas-description = Древний религиозный язык таяр, ныне наиболее распространённый и изучаемый язык Адхомаи.
+language-SiikMaas-description = Древний религиозный язык, ныне наиболее распространённый и изучаемый язык Адхомаи.
 language-NalRasan-name = Наль'расаан
 language-NalRasan-description = Язык с богатой жестикуляцией, созданный охотниками М'сай для скрытности, позднее адаптирован повстанцами для тайного общения во время Великой Войны.
 language-SiikTajr-name = Сиик'таяр
@@ -104,6 +104,3 @@ language-Qiilour-name = Киилур
 language-Qiilour-description = Родной и основной язык Ксельтий, на Киилуре в той или иной степени говорит почти каждый представитель вида. Это утончённый сплав нескольких древних наречий - таких как Теленарии, Воскарн и Древнексельтекский, - ныне утерянных в веках.
 
 # Languages Added here by Mono
-
-language-Blob-name = Блоб
-language-Blob-description = Глорп!

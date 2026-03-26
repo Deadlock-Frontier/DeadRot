@@ -56,4 +56,3 @@ chat-language-Xeno-name = Xeno
 chat-language-DroneTalk-name = Drone
 
 # Added here by Mono
-chat-language-Blob-name = Blob

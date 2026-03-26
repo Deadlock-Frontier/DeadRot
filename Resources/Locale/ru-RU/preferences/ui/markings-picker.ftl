@@ -6,6 +6,7 @@ markings-rank-up = Вверх
 markings-rank-down = Вниз
 markings-search = Поиск
 marking-points-remaining = Черт осталось: { $points }
+markings-category-Face = Лицо
 marking-used = { $marking-name }
 marking-used-forced = { $marking-name } (Принудительно)
 marking-slot-add = Добавить
@@ -24,6 +25,17 @@ markings-category-Snout = Морда
 markings-category-SnoutCover = Морда (снаружи)
 markings-category-UndergarmentTop = Нижнее бельё (верх)
 markings-category-UndergarmentBottom = Нижнее бельё (низ)
+
+# Categories
+
+markings-category-RightArm = Правая рука
+markings-category-RightHand = Правая кисть
+markings-category-LeftArm = Левая рука
+markings-category-LeftHand = Левая кисть
+markings-category-RightLeg = Правая нога
+markings-category-RightFoot = Правая стопа
+markings-category-LeftLeg = Левая нога
+markings-category-LeftFoot = Левая стопа
 markings-category-Chest = Грудь
 markings-category-Arms = Руки
 markings-category-Legs = Ноги

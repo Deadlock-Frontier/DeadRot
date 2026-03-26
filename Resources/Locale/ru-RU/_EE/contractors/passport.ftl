@@ -5,7 +5,7 @@ passport-height = Рост: { $height } см
 passport-year-of-birth = Год рождения: { $year }
 passport-pid = Номер: { $pid }
 
-bieselite_view_biesel_passport = Ещё один гражданин Республики Байзель.
-solarian_view_biesel_passport = Представитель нации, основанной мятежниками и повстанцами.
-bieselite_view_sol_passport = Представитель государства, исповедующего человеческое превосходство.
-solarian_view_sol_passport = Соларианец, как и я.
+bieselite_view_biesel_passport = Ещё один член Республики Бизиль.
+solarian_view_biesel_passport = Член нации, основанной повстанцами и инсургентами.
+bieselite_view_sol_passport = Член нации человеческих супремасистов.
+solarian_view_sol_passport = Соратник-солярец.
