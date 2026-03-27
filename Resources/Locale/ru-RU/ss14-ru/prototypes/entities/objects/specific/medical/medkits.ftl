@@ -14,3 +14,5 @@ ent-MedkitRadiation = набор для выведения радиации
     .desc = Если бы вы приняли свой Рад-X, вам бы это не понадобилось.
 ent-MedkitCombat = боевая аптечка
     .desc = Для любителей больших пушек среди нас.
+ent-MedkitBlood = bloodloss treatment kit
+    .desc = A kit containing blood bags for emergency transfusions.

@@ -2,6 +2,10 @@ alerts-low-oxygen-name = [color=red]Низкий уровень кислород
 alerts-low-oxygen-desc = В воздухе, которым вы дышите, [color=red]недостаточно кислорода[/color]. Используйте [color=green]дыхательную маску и баллон[/color].
 alerts-low-nitrogen-name = [color=red]Низкий уровень азота[/color]
 alerts-low-nitrogen-desc = В воздухе, которым вы дышите, [color=red]недостаточно азота[/color]. Используйте [color=green]дыхательную маску и баллон[/color].
+alerts-low-plasma-name = [color=red]Low Plasma[/color]
+alerts-low-plasma-desc = There is [color=red]not enough plasma[/color] in the air you are breathing. Put on [color=green]internals[/color].
+alerts-high-oxygen-name = [color=red]High Oxygen[/color]
+alerts-high-oxygen-desc = There is [color=red]too much oxygen[/color] in the air you are breathing. Put on [color=green]internals[/color].
 alerts-high-toxin-name = [color=red]Высокий уровень токсинов[/color]
 alerts-high-toxin-desc = В воздухе, которым вы дышите, [color=red]слишком много токсинов[/color]. Используйте [color=green]дыхательную маску и баллон[/color] или покиньте отсек.
 alerts-low-pressure-name = [color=red]Низкий уровень давления[/color]
@@ -76,6 +80,10 @@ alerts-suit-power-name = Заряд костюма
 alerts-suit-power-desc = Запас энергии вашего костюма космического ниндзя.
 alerts-magboots-name = Магнитные ботинки
 alerts-magboots-desc = Вы невосприимчивы к потокам ветра, но двигаетесь немного медленнее.
+alerts-offer-name = Offer
+alerts-offer-desc = Someone offers you an item.
+alerts-deflecting-name = Deflecting
+alerts-deflecting-desc = You have a chance to deflect incoming projectiles. Standing still or moving slowly will increase this chance.
 alerts-revenant-essence-name = Эссенция
 alerts-revenant-essence-desc = Сила душ. Поддерживает вас и используется при использовании способностей. Медленно восстанавливается с течением времени.
 alerts-revenant-corporeal-name = Материальность

@@ -1,3 +1,4 @@
+research-techology-advanced-personal-propulsion = Advanced Personal Propulsion
 research-technology-advanced-food-service = Advanced Food Service
 research-technology-advanced-personal-propulsion = Advanced Personal Propulsion
 research-technology-rapid-construction = Rapid Construction

@@ -32,6 +32,10 @@ rcd-component-windows-and-grilles = Окна и решётки
 rcd-component-airlocks = Шлюзы
 rcd-component-electrical = Электроприборы
 rcd-component-lighting = Освещение
+rcd-component-piping = Piping
+rcd-component-atmosphericutility = Atmospheric Utility
+rcd-component-pumps = Pumps & Valves
+rcd-component-vents = Vents
 
 ### Prototype names (note: constructable items will be puralized)
 

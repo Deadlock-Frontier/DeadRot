@@ -1,3 +1,5 @@
+ent-JugSpaceCleaner = jug (Space Cleaner)
+    .desc = { ent-Jug.desc }
 ent-ReinforcedJug = усиленный кувшин
     .desc = Стерильный пластик этого кувшина усилен металлической оболочкой, позволяющей вмещать впечатляющее количество жидкости.
 ent-JugBluespace = блюспейс-кувшин

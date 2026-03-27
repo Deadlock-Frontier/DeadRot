@@ -182,6 +182,7 @@ flavor-complex-violets = как фиалки
 flavor-complex-pyrotton = как горящий рот
 flavor-complex-mothballs = как нафталиновые шарики
 flavor-complex-paint-thinner = как растворитель для краски
+flavor-complex-plasma = like plasma
 flavor-complex-numbing-tranquility = как оцепенелое спокойствие
 flavor-complex-true-nature = как истинная природа реальности
 flavor-complex-false-meat = как не совсем не мясо
@@ -276,6 +277,8 @@ flavor-complex-xeno-basher = как уничтожение жуков
 flavor-complex-budget-insuls-drink = как взлом шлюза
 flavor-complex-watermelon-wakeup = как сладкое пробуждение
 flavor-complex-irish-slammer = как алкогольный кола-флоат
+flavor-complex-supernova = like a supernova frozen at its apex
+flavor-complex-xelthia = like some exotic kind of sourish calamari
 flavor-complex-rubberneck = как синтетика
 flavor-complex-alien-brain-hemorrhage = как внеземная травма
 flavor-complex-irish-car-bomb = как шипучая пенка колы
@@ -354,6 +357,7 @@ flavor-complex-punishment = как наказание
 flavor-complex-artifact-glue = как размолотый артефакт
 flavor-weh = как вех
 flavor-hew = как хев
-
 flavor-complex-pear = like pears
+
 # Frontier: cottons<cotton
+

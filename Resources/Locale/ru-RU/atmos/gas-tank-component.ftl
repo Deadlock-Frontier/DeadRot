@@ -14,11 +14,12 @@ control-verb-open-control-panel-text = Открыть панель управл�
 
 ## UI
 
+gas-tank-window-label = Gas Tank
 gas-tank-window-internals-toggle-button = Переключить
 gas-tank-window-output-pressure-label = Выходное давление
 gas-tank-window-tank-pressure-text = Давление: { $tankPressure } кПа
 gas-tank-window-internal-text = Маска: { $status }
-gas-tank-window-internal-connected = [color=green]Подключена[/color]
-gas-tank-window-internal-disconnected = [color=red]Не подключена[/color]
+gas-tank-window-internal-connected =  [color=green]Подключена[/color]
+gas-tank-window-internal-disconnected =  [color=red]Не подключена[/color]
 comp-gas-tank-open-valve = Открыть клапан
 comp-gas-tank-close-valve = Закрыть клапан

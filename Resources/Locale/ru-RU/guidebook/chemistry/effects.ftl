@@ -326,6 +326,35 @@ reagent-effect-guidebook-cure-zombie-infection =
         [1] Лечит
        *[other] лечат
     } зомби-вирус
+reagent-effect-guidebook-missing =
+    { $chance ->
+        [1] Causes
+       *[other] cause
+    } an unknown effect as nobody has written this effect yet
+reagent-effect-guidebook-change-glimmer-reaction-effect =
+    { $chance ->
+        [1] Modifies
+       *[other] modify
+    } the glimmer count by { $count } points
+reagent-effect-guidebook-chem-remove-psionic =
+    { $chance ->
+        [1] Removes
+       *[other] remove
+    } psionic powers
+reagent-effect-guidebook-chem-reroll-psionic =
+    { $chance ->
+        [1] Allows
+       *[other] allow
+    } a chance to get a different psionic power
+reagent-effect-guidebook-add-moodlet =
+    Modifies mood by { $amount }
+    { $timeout ->
+        [0] indefinitely
+       *[other] for { $timeout } seconds
+    }
+reagent-effect-guidebook-remove-moodlet = Removes the { $name } moodlet.
+reagent-effect-guidebook-purge-moodlets = Removes all active non-permanent moodlets.
+reagent-effect-guidebook-purify-evil = Purifies evil powers
 reagent-effect-guidebook-cause-zombie-infection =
     { $chance ->
         [1] Заражает
@@ -354,23 +383,44 @@ reagent-effect-guidebook-area-reaction =
         [few] секунды
        *[other] секунд
     }
+reagent-effect-guidebook-stamina-change =
+    { $chance ->
+        [1]
+            { $deltasign ->
+                [-1] Increases
+               *[1] Decreases
+            }
+       *[other]
+            { $deltasign ->
+                [-1] increase
+               *[1] decrease
+            }
+    } stamina by { $amount } points
 reagent-effect-guidebook-artifact-unlock =
     { $chance ->
         [1] Helps
        *[other] help
     } unlock an alien artifact.
+reagent-effect-guidebook-chem-restorereroll-psionic =
+    { $chance ->
+        [1] Restores
+       *[other] restore
+    } one's ability to gain benefit from mind opening reagents
+reagent-effect-guidebook-crit-modifier =
+    { $deltasign ->
+        [-1] Lowers
+       *[1] Raises
+    } critical threshold by { $amount } points
 reagent-effect-guidebook-add-to-solution-reaction =
     { $chance ->
         [1] Заставляет
        *[other] заставляют
     } химикаты, применённые к объекту, добавиться во внутренний контейнер для растворов этого объекта
-
 reagent-effect-guidebook-artifact-durability-restore =
     Восстанавливает { $restored } { $restored ->
         [1] прочность
        *[other] прочности
     } активного узла космического артефакта.
-
 reagent-effect-guidebook-plant-attribute =
     { $chance ->
         [1] Изменяет
@@ -406,25 +456,24 @@ reagent-effect-guidebook-plant-seeds-remove =
         [1] Убирает
        *[other] убирают
     } семена из растения
-
 reagent-effect-guidebook-add-to-chemicals =
     { $chance ->
-        [1] { $deltasign ->
+        [1]
+            { $deltasign ->
                 [1] Adds
-                *[-1] Removes
+               *[-1] Removes
             }
-        *[other]
+       *[other]
             { $deltasign ->
                 [1] add
-                *[-1] remove
+               *[-1] remove
             }
-    } {NATURALFIXED($amount, 2)}u of {$reagent} { $deltasign ->
+    } { NATURALFIXED($amount, 2) }u of { $reagent } { $deltasign ->
         [1] to
-        *[-1] from
+       *[-1] from
     } the solution
-
 reagent-effect-guidebook-revert-polymorph =
     { $chance ->
         [1] Reverts
-        *[other] reverts
+       *[other] reverts
     } the metabolizer from a { $entityname }

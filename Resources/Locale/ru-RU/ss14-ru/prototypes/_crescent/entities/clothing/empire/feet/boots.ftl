@@ -1,0 +1,12 @@
+ent-ClothingShoesBootsImperialGovernorBoots = governor's leather boots
+    .desc = Tall boots of heavy leather, adorned with stamped golden buckles.
+ent-ClothingShoesBootsImperialJackboots = heavy jackboots
+    .desc = Tall boots of heavy leather, adorned with Imperial livery.
+ent-ClothingShoesBootsImperialLongboots = leather longboots
+    .desc = Knee-high boots of heavy leather, adorned with Imperial livery.
+ent-ClothingShoesBootsImperialClogs = doctor's clogs
+    .desc = A pair of medical clogs, made for Imperial doctors to wear.
+ent-ClothingShoesBootsImperialLaceup = leather laceups
+    .desc = A pair of simple laceup shoes, for both formal and casual wear.
+ent-ClothingShoesBootsMagDSM = imperial combat magboots
+    .desc = Combat magnetic boots, often used during extravehicular activity to ensure the user remains safely attached to the vehicle.

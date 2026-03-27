@@ -17,6 +17,7 @@ bank-atm-menu-transaction-denied = Транзакция отклонена
 bank-atm-menu-deposit-successful = Депозит принят
 bank-atm-menu-withdraw-successful = Вывод принят
 bank-atm-menu-wrong-cash = Неправильная валюта!
+station-bank-workorder = Work Order
 station-bank-atm-menu-title = Администрация
 # Withdrawal reasons
 station-bank-payroll = Заработная плата

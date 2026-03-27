@@ -3,9 +3,11 @@ ent-ElectricalDisruptionKit = набор отключения электриче
     .desc = { ent-BoxCardboard.desc }
 ent-ChemicalSynthesisKit = набор химического синтеза
     .desc = Стартовый набор начинающего химика, включающий две пробирки вестина для всех ваших преступных нужд!
+ent-Observationskit = observations kit
+    .suffix = Filled
+    .desc = { ent-BoxCardboard.desc }
 ent-ThrowingKnivesKit = набор метательных ножей
     .desc = Набор из 4 фирменных метательных ножей Синдиката, идеально подходящих для вонзания в тело жертвы.
-ent-BoxDeathRattleImplants = коробка имплантеров Предсмертный хрип
-    .desc = Шесть имплантов Предсмертный хрип для всего отряда.
+
 ent-CombatBakeryKit = набор боевой выпечки
     .desc = Набор подпольного печёного оружия.

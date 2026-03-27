@@ -1,5 +1,6 @@
+station-event-ion-storm-announcement = Ion storm detected near the station. Please check all AI-controlled equipment for errors.
 station-event-ion-storm-start-announcement = Вблизи станции обнаружен ионный шторм. Пожалуйста, проверьте всё оборудование, управляемое ИИ, на наличие ошибок.
-ion-storm-law-scrambled-number = [font="Monospace"][scramble rate=250 length={ $length } chars="@@###$$&%!01"/][/font]
+ion-storm-law-scrambled-number =  [font="Monospace"][scramble rate=250 length={ $length } chars="@@###$$&%!01"/][/font]
 ion-storm-you = ВЫ
 ion-storm-the-station = СТАНЦИЯ
 ion-storm-the-crew = ЧЛЕНЫ ЭКИПАЖА
@@ -82,5 +83,4 @@ ion-storm-law-concept-verb = { $concept } ЭТО { $verb } { $subjects }
 
 # leaving out renaming since its annoying for players to keep track of
 
-
-ion-storm-law-crew-only-species = ALL {$species} ARE {$part} OF THE CREW
+ion-storm-law-crew-only-species = ALL { $species } ARE { $part } OF THE CREW

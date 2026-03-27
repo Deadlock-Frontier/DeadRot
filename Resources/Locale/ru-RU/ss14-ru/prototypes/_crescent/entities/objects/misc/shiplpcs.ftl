@@ -215,8 +215,12 @@ ent-ShipVoucherSuzerain = Диск LPC «Suzerain» DSM
     .desc = Диск LPC с загруженным имперским линейным крейсером класса Suzerain. Для активации требуется консоль верфи.
 ent-ShipVoucherNemesis = Диск LPC «Nemesis» DSM
     .desc = Диск LPC с загруженным имперским авианосцем класса Nemesis. Для активации требуется консоль верфи.
+ent-ShipVoucherKhan = DSM 'Khan' pattern LPC fabprint disk
+    .desc = An LPC fabprint disk loaded with an Imperial Khan-class subshuttle. Has to be redeemed at a shipyard console.
 ent-ShipVoucherJanissary = Диск LPC «Janissary» DSM
     .desc = Диск LPC с загруженным имперским субшаттлом класса Janissary. Для активации требуется консоль верфи.
+ent-ShipVoucherRaider = DSM 'Raider' pattern LPC fabprint disk
+    .desc = An LPC fabprint disk loaded with an Imperial Raider-class cloaked troop transport. Has to be redeemed at a shipyard console.
 ent-ShipVoucherVoruna = Диск LPC «Voruna» DSM
     .desc = Диск LPC с загруженным имперским субшаттлом класса Voruna. Для активации требуется консоль верфи.
 ent-ShipVoucherPerigale = Диск LPC «Perigale» DSM
@@ -245,7 +249,10 @@ ent-ShipVoucherTorturer = Диск LPC «Torturer» DSM
     .desc = Диск LPC с загруженным имперским стелс‑бомбардировщиком класса Torturer. Для активации требуется консоль верфи.
 ent-ShipVoucherMagnate = Диск LPC «Magnate» DSM
     .desc = Диск LPC с загруженным имперским кораблём огневой поддержки класса Magnate. Для активации требуется консоль верфи.
-
+ent-ShipVoucherVasinya = NCWL 'Vasinya' pattern LPC fabprint disk
+    .desc = An LPC fabprint disk loaded with a communard corvette-class combat pattern. Has to be redeemed at a shipyard console.
+ent-ShipVoucherPsoglav = NCWL 'Psoglav' pattern LPC fabprint disk
+    .desc = An LPC fabprint disk loaded with a communard combat mining-carrier barge pattern. Has to be redeemed at a shipyard console.
 ent-ShipVoucherVanguard = Диск LPC «Vanguard» NCWL
     .desc = Диск LPC с загруженным коммунарным канонерским кораблём класса Vanguard. Для активации требуется консоль верфи.
 ent-ShipVoucherZorniy = Диск LPC «Zorniy» NCWL
@@ -264,12 +271,16 @@ ent-ShipVoucherHind = Диск LPC «Hind» NCWL
     .desc = Диск LPC с загруженным коммунарным ракетным фрегатом класса Hind. Для активации требуется консоль верфи.
 ent-ShipVoucherVanguardMarkTwo = Диск LPC «Vanguard Mk.II» NCWL
     .desc = Диск LPC с загруженным коммунарным элитным канонерским кораблём класса Vanguard Mk.II. Для активации требуется консоль верфи.
+ent-ShipVoucherChelubey = NCWL 'Chelubey' pattern LPC fabprint disk
+    .desc = An LPC fabprint disk loaded with a communard Chelubey-class ancient Flagship pattern. Has to be redeemed at a shipyard console.
 ent-ShipVoucherGargut = Диск LPC «Gargut» NCWL
     .desc = Диск LPC с загруженным коммунарным артиллерийским крейсером осадного класса Gargut. Для активации требуется консоль верфи.
 ent-ShipVoucherStern = Диск LPC «Stern» NCWL
     .desc = Диск LPC с загруженным коммунарным тяжёлым линейным крейсером класса Stern. Для активации требуется консоль верфи.
 ent-ShipVoucherBogatyr = Диск LPC «Bogatyr» NCWL
     .desc = Диск LPC с загруженным коммунарным стелс‑бомбардировщиком класса Bogatyr. Для активации требуется консоль верфи.
+ent-ShipVoucherChanchu = CSEC 'Chanchu' pattern LPC fabprint disk
+    .desc = An LPC fabprint disk loaded with a civilian Chanchu-class freight trader pattern. Has to be redeemed at a shipyard console.
 ent-ShipVoucherSunder = Диск LPC «Sunder» NCWL
     .desc = Диск LPC с загруженным коммунарным энергетическим крейсером класса Sunder. Для активации требуется консоль верфи.
 ent-ShipVoucherSasha = Диск LPC «Sasha» NCWL
@@ -278,7 +289,6 @@ ent-ShipVoucherClementine = Диск LPC «Clementine» NCWL
     .desc = Диск LPC с загруженным древним коммунарным флагманом класса Clementine. Для активации требуется консоль верфи.
 ent-ShipVoucherGrishingrad = Диск LPC «Grishingrad» NCWL
     .desc = Диск LPC с загруженным коммунарным штурмовым фрегатом класса Grishingrad. Для активации требуется консоль верфи.
-
 ent-ShipVoucherBuffalo = Диск LPC «Buffalo» SHI
     .desc = Диск LPC с загруженным гражданским грузовым судном класса Buffalo. Для активации требуется консоль верфи.
 ent-ShipVoucherFlea = Диск LPC «Flea» SHI
@@ -289,14 +299,12 @@ ent-ShipVoucherColossus = Диск LPC «Colossus» SHI
     .desc = Диск LPC с загруженным гражданским грузовым судном класса Colossus. Для активации требуется консоль верфи.
 ent-ShipVoucherProbe = Диск LPC «Probe» SHI
     .desc = Диск LPC с загруженным гражданским исследовательским корветом класса Probe. Для активации требуется консоль верфи.
-
 ent-ShipVoucherMusinyane = Диск LPC «Musinyane» CSEC
     .desc = Диск LPC с загруженным корветом безопасности класса Musinyane корпорации CorpSec. Для активации требуется консоль верфи.
 ent-ShipVoucherNazaar = Диск LPC «Nazaar» CSEC
     .desc = Диск LPC с загруженным средним истребителем безопасности класса Nazaar корпорации CorpSec. Для активации требуется консоль верфи.
 ent-ShipVoucherFujin = Диск LPC «Fujin» CSEC
     .desc = Диск LPC с загруженным лёгким эсминцем безопасности класса Fujin корпорации CorpSec. Для активации требуется консоль верфи.
-
 ent-ShipVoucherBodybag = Диск LPC «Bodybag» GSC
     .desc = Диск LPC с загруженным десантной капсулой класса Bodybag компании Gorlex Security Consulting. Для активации требуется консоль верфи.
 ent-ShipVoucherCleaver = Диск LPC «Cleaver» GSC
@@ -309,8 +317,12 @@ ent-ShipVoucherOuroboros = Диск LPC «Ouroboros» GSC
     .desc = Диск LPC с загруженным стелс‑авианосцем класса Ouroboros компании Gorlex Security Consulting. Для активации требуется консоль верфи.
 ent-ShipVoucherItch = Диск LPC «Itch» GSC
     .desc = Диск LPC с загруженным стелс‑истребителем класса Itch компании Gorlex Security Consulting. Для активации требуется консоль верфи.
+ent-ShipVoucherFridge = IPC 'Fridge' pattern LPC fabprint disk
+    .desc = An LPC fabprint disk loaded with a Interdyne Pharmaceuticals Fridge-class medical transport pattern. Has to be redeemed at a shipyard console.
 ent-ShipVoucherTick = Диск LPC «Tick» GSC
     .desc = Диск LPC с загруженным ультралёгким кораблём класса Tick компании Gorlex Security Consulting. Для активации требуется консоль верфи.
+ent-ShipVoucherMatabele = IPC 'Matabele' pattern LPC fabprint disk
+    .desc = An LPC fabprint disk loaded with a Interdyne Pharmaceuticals Matabele-class medical stealth transport pattern. Has to be redeemed at a shipyard console.
 ent-ShipVoucherGnat = Диск LPC «Gnat» GSC
     .desc = Диск LPC с загруженным ультралёгким кораблём класса Gnat компании Gorlex Security Consulting. Для активации требуется консоль верфи.
 ent-ShipVoucherCorvax = Диск LPC «Corvax» GSC
@@ -327,10 +339,8 @@ ent-ShipVoucherReaver = Диск LPC «Reaver» GSC
     .desc = Диск LPC с загруженным тяжёлым истребителем класса Reaver компании Gorlex Security Consulting. Для активации требуется консоль верфи.
 ent-ShipVoucherWolf = Диск LPC «Wolf» GSC
     .desc = Диск LPC с загруженным артиллерийским фрегатом класса Wolf компании Gorlex Security Consulting. Для активации требуется консоль верфи.
-
 ent-ShipVoucherHarpy = Диск LPC «Harpy» IPM
     .desc = Диск LPC с загруженным ракетной платформой класса Harpy корпорации Interdyne Pharmaceutical. Для активации требуется консоль верфи.
-
 ent-ShipVoucherThanapod = Диск LPC «Thanapod» SAW
     .desc = Диск LPC с загруженным универсальным шахтёрским судном класса Thanapod профсоюза Shipfitters Aeronautics. Для активации требуется консоль верфи.
 ent-ShipVoucherHyena = Диск LPC «Hyena» SAW
@@ -339,26 +349,36 @@ ent-ShipVoucherShanty = Диск LPC «Shanty» SAW
     .desc = Диск LPC с загруженным спасательной капсулой класса Shanty профсоюза Shipfitters and Astronautics Workers Union. Для активации требуется консоль верфи.
 ent-ShipVoucherRockchipper = Диск LPC «Rockchipper» SAW
     .desc = Диск LPC с загруженным модернизированным шахтёрским судном класса Rockchipper профсоюза SAW. Для активации требуется консоль верфи.
-
 ent-ShipVoucherHulk = Диск LPC «Hulk» IPC
     .desc = Диск LPC с загруженным медицинским тяжёлым крейсером класса Hulk корпорации Interdyne Pharmaceuticals. Для активации требуется консоль верфи.
 ent-ShipVoucherMeatwagon = Диск LPC «Meatwagon» IPC
     .desc = Диск LPC с загруженным медицинским корветом класса Meatwagon корпорации Interdyne Pharmaceuticals. Для активации требуется консоль верфи.
-
 ent-ShipVoucherTaipan = Диск LPC «Taipan» TFSC
     .desc = Диск LPC с загруженным стелс‑корветом класса Taipan организации TFSC. Для активации требуется консоль верфи.
-
 ent-ShipVoucherWisp = Диск LPC «Wisp» CS
     .desc = Диск LPC с загруженным блокадо‑прорывателем класса Wisp. Для активации требуется консоль верфи.
-
+ent-ShipVoucherArbiter = TS 'Arbiter' pattern LPC fabprint disk
+    .desc = An LPC fabprint disk loaded with a Gliessian arbiter-class destroyer. Has to be redeemed at a shipyard console.
+ent-ShipVoucherCorsair = TS 'Corsair' pattern LPC fabprint disk
+    .desc = An LPC fabprint disk loaded with a Gliessian Corsair-class missile destroyer. Has to be redeemed at a shipyard console.
+ent-ShipVoucherMinuteman = TS 'Minuteman' pattern LPC fabprint disk
+    .desc = An LPC fabprint disk loaded with a Gliessian Minuteman-class hybrid corvette. Has to be redeemed at a shipyard console.
+ent-ShipVoucherSentry = TS 'Sentry' pattern LPC fabprint disk
+    .desc = An LPC fabprint disk loaded with a Gliessian Sentry-class hybrid fighter. Has to be redeemed at a shipyard console.
+ent-ShipVoucherRespondant = TS 'Respondant' pattern LPC fabprint disk
+    .desc = An LPC fabprint disk loaded with a Gliessian Respondant-class ballistic corvette. Has to be redeemed at a shipyard console.
+ent-ShipVoucherGuard = TS 'Guard' pattern LPC fabprint disk
+    .desc = An LPC fabprint disk loaded with a Gliessian Guard-class fighter. Has to be redeemed at a shipyard console.
+ent-ShipVoucherJudge = TS 'Judge' pattern LPC fabprint disk
+    .desc = An LPC fabprint disk loaded with a Gliessian Judge-class fighter. Has to be redeemed at a shipyard console.
+ent-ShipVoucherSentinel = TS 'Sentinel' pattern LPC fabprint disk
+    .desc = An LPC fabprint disk loaded with a Gliessian Sentinel-class fighter. Has to be redeemed at a shipyard console.
 ent-ShipVoucherSpriggan = Диск LPC «Spriggan» NCSP
     .desc = Диск LPC с загруженным шахтёрским кораблём класса Spriggan организации NCSP. Для активации требуется консоль верфи.
 ent-ShipVoucherVelator = Диск LPC «Velator» NCSP
     .desc = Диск LPC с загруженным стелс‑корветом класса Velator организации NCSP. Для активации требуется консоль верфи.
-
 ent-ShipVoucherWreck = Диск LPC «Wreck» RC
     .desc = Диск LPC с загруженным тактическим астероидным судном класса Wreck организации RC. Для активации требуется консоль верфи.
-
 ent-ShipVoucherJusticiar = Диск LPC «Justiciar» TSP
     .desc = Диск LPC с загруженным канонерским кораблём класса Justiciar полиции Taypan Sektor Polizei. Для активации требуется консоль верфи.
 ent-ShipVoucherProvost = Диск LPC «Provost» TSP
@@ -371,28 +391,26 @@ ent-ShipVoucherWhiteBastion = Диск LPC «White Bastion» TSP
     .desc = Диск LPC с загруженным линейным крейсером класса White Bastion командного типа. Для активации требуется консоль верфи.
 ent-ShipVoucherAdjudicator = Диск LPC «Adjudicator» TSP
     .desc = Диск LPC с загруженным штурмовым шаттлом класса Adjudicator полиции Taypan Sektor Polizei. Для активации требуется консоль верфи.
-
 ent-ShipVoucherExecutioner = Диск LPC «Executioner» TS
     .desc = Диск LPC с загруженным продвинутым канонерским кораблём класса Executioner организации Gliessian. Для активации требуется консоль верфи.
-
 ent-ShipVoucherSaintsfall = Диск LPC «Saintsfall» SRM
     .desc = Диск LPC с загруженным канонерским кораблём класса Saintsfall милиции Sixth St. Romaine's. Для активации требуется консоль верфи.
 ent-ShipVoucherSpider = Диск LPC «Spider» SRM
     .desc = Диск LPC с загруженным стелс‑шаттлом класса Spider милиции Sixth St. Romaine's. Для активации требуется консоль верфи.
-
 ent-ShipVoucherExhumer = Диск LPC «Exhumer» ICM
     .desc = Диск LPC с загруженным спасательным корветом класса Exhumer компании Ihikerja Civilian Manufacturing. Для активации требуется консоль верфи.
 ent-ShipVoucherHomesteader = Диск LPC «Homesteader» ICM
     .desc = Диск LPC с загруженным колонизационным корветом класса Homesteader компании Ihikerja Civilian Manufacturing. Для активации требуется консоль верфи.
 ent-ShipVoucherParacelsus = Диск LPC «Paracelsus» ICM
     .desc = Диск LPC с загруженным медицинским корветом класса Paracelsus компании Ihikerja Civilian Manufacturing. Для активации требуется консоль верфи.
+ent-ShipVoucherMercuryMK2 = SAW 'Mercury MKII' pattern LPC fabprint disk
+    .desc = An LPC fabprint disk loaded with an SAW Mercury MKII-class fighter. Has to be redeemed at a shipyard console.
 ent-ShipVoucherTermite = Диск LPC «Termite» ICM
     .desc = Диск LPC с загруженным спасательной капсулой класса Termite компании Ihikerja Civilian Manufacturing. Для активации требуется консоль верфи.
 ent-ShipVoucherMercury = Диск LPC «Mercury» ICM
     .desc = Диск LPC с загруженным спасательным шаттлом класса Mercury компании Ihikerja Civilian Manufacturing. Для активации требуется консоль верфи.
 ent-ShipVoucherKite = Диск LPC «Kite» ICM
     .desc = Диск LPC с загруженным гражданским шаттлом класса Kite компании Ihikerja Civilian Manufacturing. Для активации требуется консоль верфи.
-
 ent-ShipVoucherArchon = Диск LPC «Archon» ATH
     .desc = Диск LPC с загруженным лёгким фрегатом класса Archon Центрального Солярного Авторитета. Для активации требуется консоль верфи.
 ent-ShipVoucherLictor = Диск LPC «Lictor» ATH
@@ -401,10 +419,8 @@ ent-ShipVoucherKhorkoi = Диск LPC «Khorkoi» ATH
     .desc = Диск LPC с загруженным лёгким истребителем класса Khorkoi Центрального Солярного Авторитета. Для активации требуется консоль верфи.
 ent-ShipVoucherCarrum = Диск LPC «Carrum» ATH
     .desc = Диск LPC с загруженным кораблём ATH Carrum. Для активации требуется консоль верфи.
-
 ent-ShipVoucherAntiquarianWarthog = Ваучер «Antiquarian Warthog» Kourindou Limited GNSY Edition
     .desc = Изуродованный техно‑ваучер, дающий право на поездку в одном из лучших «мясомобилей» сектора. Твой мясомобиль. Он покрыт странными пятнами с запахом, о котором лучше забыть.
-
 ent-ShipVoucherGeode = Диск LPC «Geode» SAW
     .desc = Диск LPC с загруженным крейсером класса Geode профсоюза SAW. Для активации требуется консоль верфи.
 ent-ShipVoucherRokh = Диск LPC «Rokh» SAW
@@ -415,9 +431,10 @@ ent-ShipVoucherAmadeus = Диск LPC «Amadeus» SAW
     .desc = Диск LPC с загруженным кораблём SAW Amadeus. Для активации требуется консоль верфи.
 ent-ShipVoucherScabrak = Диск LPC «Scabrak» SAW
     .desc = Диск LPC с загруженным кораблём SAW Scabrak. Для активации требуется консоль верфи.
+ent-ShipVoucherCDLungspot = CD 'Lungspot' pattern LPC fabprint disk
+    .desc = An LPC fabprint disk loaded with a light escort fighter.
 ent-ShipVoucherLockjaw = Диск LPC «Lockjaw» SAW
     .desc = Диск LPC с загруженным кастомным блокадо‑прорывателем класса Lockjaw. Для активации требуется консоль верфи.
-
 ent-ShipVoucherAutoscout = Диск LPC «Autoscout» Ancient NT
     .desc = Диск LPC с загруженным автономным разведчиком Autoscout корпорации Nanotrasen. Для активации требуется консоль верфи.
 ent-ShipVoucherRadiant = Диск LPC «Radiant» Ancient NT
@@ -432,6 +449,5 @@ ent-ShipVoucherBeta = Диск LPC «Beta» Ancient NT
     .desc = Диск LPC с загруженным автономным истребителем класса Beta корпорации Nanotrasen. Для активации требуется консоль верфи.
 ent-ShipVoucherGamma = Диск LPC «Gamma» Ancient NT
     .desc = Диск LPC с загруженным автономным истребителем класса Gamma корпорации Nanotrasen. Для активации требуется консоль верфи.
-
 ent-ShipVoucherTAPBeelzebub = Диск LPC «Beelzebub» TAP
     .desc = Диск LPC с загруженным лёгким эскортным истребителем класса Beelzebub организации TAP. Для активации требуется консоль верфи.

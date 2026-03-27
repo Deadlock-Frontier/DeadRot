@@ -25,6 +25,8 @@ markings-category-Snout = Морда
 markings-category-SnoutCover = Морда (снаружи)
 markings-category-UndergarmentTop = Нижнее бельё (верх)
 markings-category-UndergarmentBottom = Нижнее бельё (низ)
+markings-category-Undershirt = Undershirt
+markings-category-Underwear = Underwear
 
 # Categories
 

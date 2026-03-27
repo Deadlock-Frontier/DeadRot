@@ -88,3 +88,5 @@ ent-FoodSoupBungo = карри бунго
     .desc = Острый овощной карри, приготовленный с использованием скромного фрукта бунго. Экзотика!
 ent-FoodSoupEscargot = эскарго
     .desc = Сытное сливочное блюдо с улитками, бон апетит!
+ent-FoodOusianaDustBowl = ousiana dust bowl
+    .desc = A combination of diametrically opposed forces,

@@ -8,7 +8,6 @@ ent-ShipVoucherUnionfallAegis = старый диск LPC «Aegis» NCWL
     .desc = Диск LPC с загруженным коммунарным артиллерийским кораблём с двойным вооружением класса Aegis. Для активации требуется консоль верфи.
 ent-ShipVoucherUnionfallLodka = старый диск LPC «Lodka» NCWL
     .desc = Диск LPC с загруженным коммунарным вооружённым транспортом для десанта класса Lodka. Для активации требуется консоль верфи.
-
 ent-ShipVoucherUnionfallConquest = старый диск LPC «Conquest» DSM
     .desc = Диск LPC с загруженным имперским ультралёгким энергетическим истребителем класса Conquest. Для активации требуется консоль верфи.
 ent-ShipVoucherUnionfallIbis = старый диск LPC «Ibis» DSM

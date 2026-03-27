@@ -24,7 +24,6 @@ marking-MothAntennasClassicSnow = Antennas (Snow, Classic)
 marking-MothAntennasClassicWhitefly = Antennas (White Fly, Classic)
 marking-MothAntennasClassicWitchking = Antennas (Witch King, Classic)
 
-
 marking-MothWingsClassicAspen = Wings (Aspen, Classic)
 marking-MothWingsClassicAtlas = Wings (Atlas, Classic)
 marking-MothWingsClassicBrown = Wings (Brown, Classic)

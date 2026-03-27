@@ -163,7 +163,6 @@ instruments-component-menu-midi-channel-orchestral-harp = Orchestral Harp
 
 instruments-component-channels-multi = {$channel} {$name} ({$other})
 
-
 # SwappableInstrumentComponent
 
 instruments-component-menu-midi-channel-glockenspiel = Glockenspiel

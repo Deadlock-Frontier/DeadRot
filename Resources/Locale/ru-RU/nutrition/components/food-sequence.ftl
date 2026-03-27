@@ -1,4 +1,6 @@
 food-sequence-no-space = Вы не можете положить больше!
+food-sequence-standart-gen = { $prefix }{ $content }{ $suffix }
+food-sequence-burger-suffix = burger
 
 # GENERAL
 
@@ -110,6 +112,13 @@ food-sequence-burger-content-koibean = кои
 food-sequence-burger-content-watermelon = арбузо
 food-sequence-burger-content-holymelon = свято
 food-sequence-burger-content-cannabis = смехо
+food-sequence-burger-content-cheese = cheese
+food-sequence-burger-content-brain = brain
+food-sequence-burger-content-tongue = tongue
+food-sequence-burger-content-appendix = appendi
+food-sequence-burger-content-ears = ear
+food-sequence-burger-content-stomach = stomach
+food-sequence-burger-content-liver = liver
 food-sequence-burger-content-rainbow-cannabis = СМЕХО
 food-sequence-burger-content-tobacco = табако
 food-sequence-burger-content-suppermatter = супер

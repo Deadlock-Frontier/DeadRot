@@ -46,11 +46,13 @@ signal-port-name-supercrit = Суперкрит
 signal-port-description-supercrit = Этот порт задействуется когда привязанная аномалия взрывается после перехода в суперкритическое состояние.
 signal-port-name-power-charging = Зарядка
 signal-port-description-power-charging = Этот порт задействуется с высоким уровнем сигнала когда батарея заряжается, и с низким когда нет.
+signal-port-name-material-silo = Material silo
+signal-port-description-material-silo = Bluespace storage for station materials
+signal-port-name-fillitems = Fillbot Items
+signal-port-description-fillitems = Items picked up by the Fillbot.
 signal-port-name-power-discharging = Разрядка
 signal-port-description-power-discharging = Этот порт задействуется с высоким уровнем сигнала когда батарея разряжается, и с низким когда нет.
 signal-port-name-item-detected = Обнаружение
 signal-port-description-item-detected = Этот порт даёт сигнал каждый раз, когда обнаруживает предмет.
-
 signal-port-description-timer-trigger = This port is invoked whenever the timer triggers.
-
 signal-port-name-timer-trigger = Timer Trigger

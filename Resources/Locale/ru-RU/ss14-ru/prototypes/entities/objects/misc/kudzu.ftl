@@ -17,3 +17,7 @@ ent-ShadowKudzu = тёмная дымка
     .desc = { ent-BaseKudzu.desc }
 ent-ShadowKudzuWeak = дымка
     .desc = { ent-ShadowKudzu.desc }
+ent-VoidbornShadow = Voidborn Haze
+    .desc = { ent-ShadowKudzuWeak.desc }
+ent-ShadowKudzuTemp = fading haze
+    .desc = { ent-ShadowKudzuWeak.desc }

@@ -62,6 +62,7 @@ marking-MothWingsJungle-jungle = Крыло
 marking-MothWingsJungle = Крылья (Джунгли)
 marking-MothWingsLadybug-ladybug = Крыло
 marking-MothWingsLadybug = Крылья (Божья коровка)
+marking-MothWingsMaple-maple = Wing
 marking-MothWingsMaple-maple_primary = Основной
 marking-MothWingsMaple-maple_secondary = Вторичный
 marking-MothWingsMaple = Крылья (Клён)

@@ -1,5 +1,9 @@
 ent-ClothingEyesBase = { ent-Clothing }
     .desc = { ent-Clothing.desc }
+ent-BallisticGlasses = { "" }
+    .desc = { "" }
+ent-FlippableEyesBase = { ent-Clothing }
+    .desc = { ent-Clothing.desc }
 ent-ClothingHeadEyeBaseFlippable = { ent-ClothingEyesBase }
     .desc = { ent-ClothingEyesBase.desc }
 ent-ClothingHeadEyeBaseFlipped = { ent-ClothingHeadEyeBaseFlippable }

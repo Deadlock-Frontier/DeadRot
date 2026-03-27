@@ -11,14 +11,29 @@ chem-master-bound-user-interface-title = ХимМастер 4000
 
 chem-master-window-input-tab = Вход
 chem-master-window-output-tab = Выход
+chem-master-window-pill-buffer-tab = Pill Buffer
 chem-master-window-container-label = Контейнер
+chem-master-window-amount-placeholder = Transfer Amount
 chem-master-window-eject-button = Извлечь
 chem-master-window-no-container-loaded-text = Контейнер не загружен.
 chem-master-window-buffer-text = Буфер
 chem-master-window-buffer-label = буфер:
 chem-master-window-buffer-all-amount = Всё
 chem-master-window-buffer-empty-text = Буфер пуст.
+chem-master-window-pill-buffer-text = Pill Buffer
+chem-master-window-pill-buffer-label = pill buffer:
+chem-master-window-pill-buffer-empty-text = Pill buffer empty.
+chem-master-window-pill-buffer-low-text = Not enough solution in pill buffer
+chem-master-window-save-as-frequent-label = Save as Frequent
+chem-master-window-set-amount-label = Set Amount
 chem-master-window-buffer-low-text = Недостаточно раствора в буфере
+chem-master-window-sort-method-tooltip = Choose your buffer's sort method.
+chem-master-window-sort-method-Time-text = Last Added
+chem-master-window-sort-method-Alphabetical-text = Alphabetical Order
+chem-master-window-sort-method-Amount-text = Quantity
+chem-master-window-transferring-label = Transferring: [color={ $color }]{ $quantity }[/color]
+chem-master-window-transferring-default-label = Transferring: [color=#ffffff]50[/color]
+chem-master-window-reagent-move-button = Move
 chem-master-window-transfer-button = Перенести
 chem-master-window-discard-button = Уничтожить
 chem-master-window-packaging-text = Упаковка
@@ -34,17 +49,10 @@ chem-master-window-sort-type-none = Сорт. по: Сначала старые
 chem-master-window-sort-type-alphabetical = Сорт. по: По алфавиту
 chem-master-window-sort-type-quantity = Сорт. по: Количество
 chem-master-window-sort-type-latest = Сорт. по: Сначала новые
-
 chem-master-window-beaker-empty-text = Beaker Empty
-
 chem-master-output-source = Packaging source:
-
 chem-master-output-beaker-draw = Beaker
-
 chem-master-no-source = No Source
-
 chem-master-output-buffer-draw = Buffer
-
 chem-master-window-no-beaker-text = No beaker loaded
-
 chem-master-window-beaker-low-text = Not enough solution in beaker

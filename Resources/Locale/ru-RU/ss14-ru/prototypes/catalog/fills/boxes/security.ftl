@@ -1,5 +1,7 @@
 ent-BoxHandcuff = коробка наручников
     .desc = Полная коробка наручников.
+ent-BoxPrisonerHeadset = prisoner headset box
+    .desc = A box of prisoner headsets.
 ent-BoxFlashbang = коробка светошумовых гранат
     .desc = ВНИМАНИЕ: Эти устройства крайне опасны и могут вызвать слепоту или глухоту при многократном использовании.
 ent-BoxSechud = коробка СБ очков

@@ -1,0 +1,12 @@
+ent-Adventure = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-Unionfall = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-HyperwarBots = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-OverworldRemap = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-PrimaryFactionsLowpop = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }
+ent-SecondaryFactionsLowpop = { ent-BaseGameRule }
+    .desc = { ent-BaseGameRule.desc }

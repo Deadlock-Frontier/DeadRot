@@ -7,3 +7,5 @@ objective-condition-steal-Ian = корги главы персонала
 objective-condition-thief-description = { CAPITALIZE($itemName) } станет отличным пополнением моей коллекции!
 objective-condition-thief-animal-description = { CAPITALIZE($itemName) } станет отличным пополнением моей коллекции! Главное - живым.
 objective-condition-thief-multiply-description = Мне нужно собрать { $count } { $itemName } (любых) и увезти их с собой.
+objective-condition-steal-smsliver-title = Cut off a sliver from the supermatter crystal.
+objective-condition-steal-smsliver-description = Use any cutting tool that comes in handy. A scalpel is more recommended. Also, don't die of radiation poisoning.

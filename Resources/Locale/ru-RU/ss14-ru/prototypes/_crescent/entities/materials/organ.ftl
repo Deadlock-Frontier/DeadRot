@@ -1,0 +1,9 @@
+ent-ProteinCan = exotic proteins canister
+    .desc = A canister of freshly-harvested exotic proteins.
+    .suffix = Full
+ent-ProteinCan1 = { ent-ProteinCan }
+    .suffix = Single
+    .desc = { ent-ProteinCan.desc }
+ent-ProteinCan5 = { ent-ProteinCan }
+    .suffix = Five
+    .desc = { ent-ProteinCan.desc }

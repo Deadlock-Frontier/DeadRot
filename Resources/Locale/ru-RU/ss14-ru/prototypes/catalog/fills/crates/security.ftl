@@ -7,6 +7,15 @@ ent-CrateSecurityHelmet = ящик со шлемами
 ent-CrateSecurityNonlethal = ящик нелетального снаряжения
     .desc = Содержит смесь станнеров, дубинок-шокеров и вспышек. Чтобы открыть, необходим уровень доступа Служба безопасности.
     .suffix = Защищённый
+
+ent-CrateSecurityHeavyBallisticArmor = ballistic armor crate
+    .desc = Contains two sets of heavy ballistic armor, helmets, shields, and gas masks. Requires Security access to open.
+ent-CrateSecurityHeavyAblativeArmor = laser-ablative armor crate
+    .desc = Contains two sets of heavy laser-ablative armor, helmets, shields, and gas masks. Requires Security access to open.
+ent-CrateSecurityHeavySecurityArmor = heavy security armor crate
+    .desc = Contains two sets of heavy security armor, helmets, and gas masks. Requires Security access to open.
+ent-CrateSecuritySwat = swat crate
+    .desc = Contains two sets of all encompassing swat suits. Requires Security access to open.
 ent-CrateSecuritySupplies = ящик припасов СБ
     .desc = Содержит различные припасы для службы безопасности станции. Чтобы открыть, необходим уровень доступа Служба безопасности.
     .suffix = Защищённый

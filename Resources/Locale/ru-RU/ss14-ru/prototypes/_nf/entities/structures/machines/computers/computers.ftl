@@ -1,5 +1,4 @@
-ent-ComputerAdvancedRadar = консоль продвинутого сканера масс
-    .desc = Этот продвинутый радар позволяет обнаруживать удалённые объекты, обеспечивая повышенное тактическое преимущество.
+
 ent-ComputerPalletConsoleNFMarket = { ent-ComputerPalletConsole }
     .desc = { ent-ComputerPalletConsole.desc }
     .suffix = Стандартный коэф
@@ -45,7 +44,7 @@ ent-ComputerPirateBountyRedemption = консоль обмена наград И
 ent-ComputerSalvageExpeditionDebug = { ent-ComputerSalvageExpedition }
     .suffix = Debug
     .desc = { ent-ComputerSalvageExpedition.desc }
-ent-GasSaleConsole =  консоль продажи газов
+ent-GasSaleConsole = консоль продажи газов
     .desc = Продаёт газ, закачанный в подключённый газовый порт/точку продажи.
 ent-GasSaleConsoleVeryHigh = { ent-GasSaleConsole }
     .desc = { ent-GasSaleConsole.desc }
@@ -68,7 +67,7 @@ ent-ComputerShuttleFrontierOutpostRemote = консоль сканера мас�
     .desc = { ent-ComputerShuttleFrontierOutpostLocal.desc }
     .suffix = Удалённая
 ent-ComputerShuttleTradeOutpostLocal = консоль сканера масс торгового аванпоста
-    .desc =  Компьютер для отслеживания близлежащих космических тел вокруг торгового аванпоста, отображающий их позицию и массу.
+    .desc = Компьютер для отслеживания близлежащих космических тел вокруг торгового аванпоста, отображающий их позицию и массу.
     .suffix = Локальная
 ent-ComputerShuttleTradeOutpostRemote = консоль сканера масс торгового аванпоста
     .desc = { ent-ComputerShuttleTradeOutpostLocal.desc }

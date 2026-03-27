@@ -2,8 +2,10 @@ ent-GrenadeBase = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
 ent-ExGrenade = разрывная граната
     .desc = Граната, создающая небольшой, но разрушительный взрыв.
+    .suffix = DO NOT MAP
 ent-GrenadeFlashBang = светошумовая граната
     .desc = Пиииииииииииииииииииии.
+    .suffix = DO NOT MAP
 ent-GrenadeFlashEffect = { "" }
     .desc = { "" }
 # Corvax-HiddenDesc-Start
@@ -13,6 +15,8 @@ ent-SyndieMiniBomb = минибомба
 # Corvax-HiddenDesc-End
 ent-SelfDestructSeq = Самоуничтожение
     .desc = Уйти на своих условиях!
+ent-SupermatterGrenade = supermatter grenade
+    .desc = Grenade that simulates delamination of the supermatter engine, pulling things in a heap and exploding after some time.
 ent-SingularityGrenade = граната сингулярности
     .desc = Граната, которая имитирует силу сингулярности, собирая вещи в кучу.
 ent-WhiteholeGrenade = граната белой дыры
@@ -23,6 +27,7 @@ ent-ModularGrenade = модульная граната
     .desc = Корпус гранаты. Требуется триггер и заряд.
 ent-EmpGrenade = ЭМИ граната
     .desc = Граната, предназначенная для поражения электрических систем.
+    .suffix = DO NOT MAP
 # Corvax-HiddenDesc-Start
 ent-HolyHandGrenade = благословлённая держава
     .suffix = святая граната
@@ -30,10 +35,14 @@ ent-HolyHandGrenade = благословлённая держава
 # Corvax-HiddenDesc-End
 ent-SmokeGrenade = дымовая граната
     .desc = Граната тактического применения, при использовании выпускающая большое и продолжительное облако дыма.
+    .suffix = DO NOT MAP
+ent-CleanerGrenadeNuke = the clean solution
+    .desc = A special cleanade designed by an especially tenacious janitor. Its foam can spread over an entire room, leaving it squeaky clean and smelling slightly of lemons.
 ent-CleanerGrenade = чистящая граната
     .desc = Специальная граната для уборщиков, выпускающая большое облако пены для чистки помещений.
 ent-TearGasGrenade = слезоточивая граната
     .desc = Граната со слезоточивым газом для борьбы с беспорядками. Вызывает раздражение, боль и заставляет вас выплакать глаза.
+    .suffix = DO NOT MAP
 ent-MetalFoamGrenade = металлопенная граната
     .desc = Аварийное приспособление, используемое для заделывания пробоин. Почти так же надёжно, как настоящие стены.
 ent-AirGrenade = воздушная граната

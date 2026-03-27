@@ -1,0 +1,28 @@
+ent-WallSpawnAsteroidBananiumCrab = { ent-WallSpawnAsteroid }
+    .desc = { ent-WallSpawnAsteroid.desc }
+
+ent-WallSpawnAsteroidPlasmaCrab = { ent-WallSpawnAsteroid }
+    .desc = { ent-WallSpawnAsteroid.desc }
+ent-WallSpawnAsteroidIronCrabNF = { ent-WallSpawnAsteroid }
+    .desc = { ent-WallSpawnAsteroid.desc }
+ent-WallSpawnAsteroidSilverCrabNF = { ent-WallSpawnAsteroid }
+    .desc = { ent-WallSpawnAsteroid.desc }
+ent-WallSpawnAsteroidQuartzCrabNF = { ent-WallSpawnAsteroid }
+    .desc = { ent-WallSpawnAsteroid.desc }
+ent-WallSpawnAsteroidUraniumCrabNF = { ent-WallSpawnAsteroid }
+    .desc = { ent-WallSpawnAsteroid.desc }
+ent-WallSpawnAsteroidBananiumCrabNF = { ent-WallSpawnAsteroid }
+    .desc = { ent-WallSpawnAsteroid.desc }
+ent-WallSpawnAsteroidCoalCrabNF = { ent-WallSpawnAsteroid }
+    .desc = { ent-WallSpawnAsteroid.desc }
+ent-WallSpawnAsteroidGoldCrabNF = { ent-WallSpawnAsteroid }
+    .desc = { ent-WallSpawnAsteroid.desc }
+ent-WallSpawnAsteroidPlasmaCrabNF = { ent-WallSpawnAsteroid }
+    .desc = { ent-WallSpawnAsteroid.desc }
+ent-WallSpawnAsteroidBananium = { ent-WallSpawnAsteroid }
+    .desc = { ent-WallSpawnAsteroid.desc }
+
+ent-WallSpawnAsteroidPlasma = { ent-WallSpawnAsteroid }
+    .desc = { ent-WallSpawnAsteroid.desc }
+ent-WallSpawnAsteroidSalt = { ent-WallSpawnAsteroid }
+    .desc = { ent-WallSpawnAsteroid.desc }

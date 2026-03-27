@@ -1,7 +1,11 @@
 ent-WeaponEnergyTurretControlPanelFrame = каркас панели управления охранной турелью
     .desc = Незавершённый настенный каркас для панели управления охранной турелью.
+ent-WeaponEnergyTurretStationControlPanel = sentry turret control panel
+    .desc = A wall-mounted interface for remotely configuring the operational parameters of linked sentry turrets.
 ent-WeaponEnergyTurretStationControlPanelBase = панель управления охранной турелью
     .desc = Настенный интерфейс для отдалённой настройки рабочих параметров подключённых охранных турелей.
+ent-WeaponCSAEnergyTurretControlPanel = CSA - 240 turret control panel
+    .desc = A wall-mounted interface that allows a local artifical intelligence to adjust the operational parameters of linked sentry turrets.
 ent-WeaponEnergyTurretAIControlPanel = { ent-WeaponEnergyTurretStationControlPanelBase }
     .suffix = ИИ, Синтетики
     .desc = { ent-WeaponEnergyTurretStationControlPanelBase.desc }
