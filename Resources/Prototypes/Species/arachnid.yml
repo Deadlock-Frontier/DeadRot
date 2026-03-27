@@ -10,7 +10,8 @@
   skinColoration: Hues
   maleFirstNames: names_arachnid_first
   femaleFirstNames: names_arachnid_first
-  lastNames: names_arachnid_last
+  maleLastNames: names_arachnid_last # Ru-Localization
+  femaleLastNames: names_arachnid_last # Ru-Localization
   minHeight: 1
   defaultHeight: 1
   maxHeight: 1

@@ -14,7 +14,8 @@
   youngAge: 50
   maleFirstNames: IpcFirst
   femaleFirstNames: IpcFirst
-  lastNames: IpcLast
+  femaleLastNames: IpcLast # Ru-Localization
+  maleLastNames: IpcLast # Ru-Localization
   naming: FirstDashLast
   minHeight: 1
   defaultHeight: 1
