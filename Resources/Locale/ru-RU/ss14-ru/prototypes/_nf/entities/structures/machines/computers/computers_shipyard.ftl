@@ -1,7 +1,9 @@
+ent-ComputerShipyardCrescent = shipyard console
+    .desc = Used to purchase and sell shuttles
+    .suffix = Crescent
 ent-ComputerShipyardBase = консоль верфи
     .desc = Used to purchase and sell shuttles
-ent-ComputerShipyard = { ent-ComputerShipyardBase }
-    .desc = { ent-ComputerShipyardBase.desc }
+
 ent-ComputerShipyardSecurity = консоль верфи службы безопасности
     .desc = Используется для покупки шаттлов службы безопасности ТСФ.
 ent-ComputerShipyardNfsd = консоль верфи КВП ТСФ

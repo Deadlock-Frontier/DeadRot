@@ -19,6 +19,9 @@ chat-emote-name-deathgasp = Предсмертный хрип
 chat-emote-name-buzz = Жужжать
 chat-emote-name-weh = Вехать
 chat-emote-name-hew = Хевать
+# Silicon
+chat-emote-name-boop = Boop
+chat-emote-name-whirr = Whirr
 chat-emote-name-chirp = Чирикать
 chat-emote-name-beep = Бип
 chat-emote-name-chime = Дзынь
@@ -26,6 +29,26 @@ chat-emote-name-buzztwo = Бип буп
 chat-emote-name-ping = Пинг
 chat-emote-name-sneeze = Чихать
 chat-emote-name-cough = Кашлять
+# Voidborn
+chat-emote-name-mars = Mars
+chat-emote-name-wurble = Wurble
+# Harpy
+chat-emote-name-harpyring = Ring
+chat-emote-name-harpypew = Pew
+chat-emote-name-harpybang = Bang
+chat-emote-name-harpyrev = Rev
+chat-emote-name-harpycaw = Caw
+chat-emote-name-harpyhoot = Hoot
+# Vulp
+chat-emote-name-tailwag = Wag Tail
+chat-emote-name-vulpbark = Bark
+chat-emote-name-vulpsnarl = Snarl
+chat-emote-name-vulpwhine = Whine
+chat-emote-name-vulphowl = Howl
+# Felinid / Tajaran
+chat-emote-name-meow = Meow
+chat-emote-name-mew = Mew
+chat-emote-name-hisses = Hiss
 chat-emote-name-catmeow = Кошачье мяуканье
 chat-emote-name-cathisses = Кошачье шипение
 chat-emote-name-monkeyscreeches = Обезьяньи крики
@@ -67,7 +90,6 @@ chat-emote-msg-cathisses = шипит.
 chat-emote-msg-monkeyscreeches = кричит.
 chat-emote-msg-yawn = зевает.
 chat-emote-msg-snore = храпит.
-
 # Delta-V
 chat-emote-msg-ring = звонит.
 chat-emote-msg-pew = издаёт пиу.

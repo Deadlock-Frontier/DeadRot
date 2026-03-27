@@ -2,6 +2,7 @@ job-description-bailiff = Обеспечивайте порядок на пер�
 job-description-brigmedic-nf = Сражайтесь в тылу на службе у полковника, спасая жизни товарищей! Вы - первая и последняя надежда вашего отряда. Да благословит вас Гиппократ.
 job-description-cadet-nf = Помогайте в охране передовой оперативной базы и уничтожении имперцев. Слушайтесь своих старших сослуживцев и не стесняйтесь просить у них помощи.
 job-description-contractor = Выполняйте свои собственные задачи в пространстве сектора.
+job-description-detective-nf = Investigate crime scenes using forensic tools, ensure that the guilty party is found, and have a couple smokes.
 job-description-deputy = Выслеживайте имперцев и врагов ТСФ, обеспечивайте соблюдение приказов Полковника и наводите порядок из хаоса в этом секторе.
 job-description-nf-detective = Investigate crime scenes using forensic tools, ensure that the guilty party is found, and have a couple smokes.
 job-description-ertmailcarrier = Почту ничто не остановит.

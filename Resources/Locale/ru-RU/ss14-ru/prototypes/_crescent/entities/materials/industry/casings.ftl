@@ -1,0 +1,14 @@
+ent-BaseCasing = basecasing
+    .desc = base casing
+ent-SmallGaugeCasings = small gauge casing crate
+    .desc = A standardized crate of small-arms cartridge casings. Designed to support a wide range of infantry calibers, from sidearms to shotguns. Intended for use in automated ammunition assembly systems.
+    .suffix = Casings
+ent-MediumGaugeCasings = medium gauge casing crate
+    .desc = A standardized crate of autocannon cartridge casings. Designed to support a wide range of autocannon calibers, from rotary cannons to low-calibre artillery. Intended for use in automated ammunition assembly systems.
+    .suffix = Casings
+ent-LargeGaugeCasings = large gauge casing crate
+    .desc = A standardized crate of artillery cartridge casings. Designed to support a wide range of artillery calibers. Intended for use in automated ammunition assembly systems.
+    .suffix = Casings
+ent-CompositeCasing = composite casing crate
+    .desc = A standardized crate of missile shell casings. Designed to support a wide range of missile and torpedo calibers, from torpedos to heavy missiles. Intended for use in automated ammunition assembly systems.
+    .suffix = Casings

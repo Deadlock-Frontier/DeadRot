@@ -1,3 +1,5 @@
+ent-WeaponEnergyTurretStationMachineCircuitboard = sentry turret machine board
+    .desc = A machine printed circuit board for a sentry turret.
 ent-WeaponEnergyTurretStationMachineCircuitboardBase = печатная плата охранной турели
     .desc = Печатная плата для охранной турели.
 ent-WeaponEnergyTurretSecurityMachineCircuitboard = { ent-WeaponEnergyTurretStationMachineCircuitboardBase }

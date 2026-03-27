@@ -40,6 +40,8 @@ artifact-trigger-hint-regular-gases = Стандартные атмосферн�
 artifact-trigger-hint-plasma = Газообразная плазма
 artifact-trigger-hint-land = Активное замедление
 artifact-trigger-hint-examine = Внимательное изучение
+# Psionic Effects
+artifact-effect-hint-psionic = Noöspheric disturbance
 artifact-trigger-hint-medical = Терапевтические химикаты
 xenoarch-trigger-tip-music = Гармоничные звуковые вибрации
 xenoarch-trigger-tip-heat = Газ высокой температуры

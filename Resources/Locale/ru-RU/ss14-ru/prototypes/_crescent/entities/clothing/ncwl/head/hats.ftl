@@ -1,0 +1,16 @@
+ent-ClothingHeadHatNCWLBeret = homeguard officer's beret
+    .desc = An officer's beret in NCWL colors. Has the golden communard insignia on the front.
+ent-ClothingHeadHatNCWLBeretAdmiral = administrator's peaked cap
+    .desc = An officer's cap in high-ranking NCWL colors. Has the golden communard insignia on the front.
+ent-ClothingHeadHatNCWLTanker = flight technician's cap
+    .desc = A communard cap favored often by fighter jockeys and hangar techs.
+ent-ClothingHeadHatNCWLCapsoft = homeguard cap
+    .desc = A patrol cap in communard colors.
+ent-ClothingHeadHatNCWLCapsoftMedical = homeguard combat medic's cap
+    .desc = A combat medic's patrol cap in sterile colors.
+ent-ClothingHeadHatNCWLKommissarHat = kommissar's peaked cap
+    .desc = The kommissar's beloved hat. He doesn't go anywhere without it.
+ent-ClothingHeadHatNCWLBeretMedi = director's beret
+    .desc = An officer's beret in NCWL colors. Has the golden communard insignia on the front.
+ent-ClothingHeadHatMVDHat = mvd officer's peaked cap
+    .desc = A red peaked cap with a shine that would make a proletariat weep.

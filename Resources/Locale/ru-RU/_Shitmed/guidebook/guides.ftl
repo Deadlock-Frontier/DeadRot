@@ -1,2 +1,6 @@
-guide-entry-autodoc = Autodoc
-guide-entry-abductors = Abductors
+guide-entry-surgery = Хирургия
+guide-entry-partmanipulation = Манипуляция частями
+guide-entry-organmanipulation = Манипуляция органами
+guide-entry-utilitysurgeries = Утилитарные операции
+guide-entry-autodoc = Автодок
+guide-entry-abductors = Похитители

@@ -1,4 +1,12 @@
 ent-BaseMagazineBoxAntiMateriel = коробка патронов (.60 крупнокалиберные)
     .desc = { ent-BaseItem.desc }
+ent-MagazineBoxAntiMaterielBig = ammunition box (15.2×169mm)
+    .desc = { ent-BaseMagazineBoxAntiMateriel.desc }
 ent-MagazineBoxAntiMateriel = коробка патронов (.60 крупнокалиберные)
     .desc = { ent-BaseMagazineBoxAntiMateriel.desc }
+ent-MagazineBoxAntiMaterielUranium = ammunition box (15.2×169mm depleted-uranium)
+    .desc = { ent-MagazineBoxAntiMateriel.desc }
+ent-MagazineBoxAntiMaterielIncendiary = ammunition box (15.2×169mm incendiary)
+    .desc = { ent-MagazineBoxAntiMateriel.desc }
+ent-MagazineBoxAntiMaterielShrapnel = ammunition box (15.2×169mm shrapnel)
+    .desc = { ent-MagazineBoxAntiMateriel.desc }

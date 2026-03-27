@@ -23,12 +23,15 @@ verb-categories-set-sensor = Датчики
 verb-categories-timer = Установить задержку
 verb-categories-lever = Рычаг
 verb-categories-select-type = Выбрать тип
+verb-categories-select-faction = Select Faction
+verb-categories-rename = Rename
 verb-categories-fax = Задать место назначения
 verb-categories-power-level = Уровень мощности
+verb-categories-interaction = Interact
+verb-categories-blood-cult = Blood Cult
 verb-common-toggle-light = Переключить свет
 verb-common-close = Закрыть
 verb-common-open = Открыть
 verb-common-close-ui = Закрыть UI
 verb-common-open-ui = Открыть UI
-
 verb-categories-adjust = Adjust

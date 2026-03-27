@@ -8,5 +8,7 @@ ent-SpearUranium = урановое копьё
     .desc = Копьё с осколком уранового стекла в качестве наконечника.
 ent-SpearBone = костяное копьё
     .desc = Копьё, сделанное из костей.
+ent-SalvageHarpoon = salvage harpoon
+    .desc = A spear made of refined steel produced for salvage and hunting purposes. Hunters fancy it when it comes to hunting various carp species.
 ent-SpearSharkMinnow = копьё из зуба карпоакулы
     .desc = Копьё с зубом карпоакулы в качестве наконечника.

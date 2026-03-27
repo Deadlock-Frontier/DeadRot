@@ -1,9 +1,11 @@
 ## UI
+
 ghost-respawn-rules-window-title = Ghost Respawn Rules
 ghost-respawn-rules-window-confirm-button = I understand, respawn me
-ghost-gui-respawn-button-denied = Respawn ({$time}s)
+ghost-gui-respawn-button-denied = Respawn ({ $time }s)
 ghost-gui-respawn-button-allowed = Respawn
-ghost-respawn-rules-window-rules = Respawning follows a strict New Life Rule:
+ghost-respawn-rules-window-rules =
+    Respawning follows a strict New Life Rule:
     No matter which character you decide to return as,
     Forget the last 30 minutes before death.
     Do not seek revenge or act on information related to your death

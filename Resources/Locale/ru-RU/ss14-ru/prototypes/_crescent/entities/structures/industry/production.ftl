@@ -1,0 +1,16 @@
+ent-AdditiveWorkshop = Matter Printer
+    .desc = An industrial additive manufacturing unit capable of printing magazines, tools, and other small equipment.
+ent-EnergeticsMill = Powder ball mill
+    .desc = A heavy rotating drum used to grind and incorporate energetic materials into usable propellant.
+ent-AlloySmelter = Industrial Induction Furnace
+    .desc = an electrically powered machine that uses electromagnetic induction to generate intense, rapid heat directly within conductive materials, melting them without direct contact.
+ent-CasingPress = Industrial Casing Press
+    .desc = { ent-BaseLathe.desc }
+ent-HeavyCasingPress = Heavy Industrial Casing Press
+    .desc = placeholder
+ent-AmmoAssemblyMachine = ammo assembly machine
+    .desc = placeholder
+ent-ArtilleryAssemblyMachine = artillery assembly machine
+    .desc = placeholder
+ent-OrdnanceWorkbench = placeholder!
+    .desc = placeholder

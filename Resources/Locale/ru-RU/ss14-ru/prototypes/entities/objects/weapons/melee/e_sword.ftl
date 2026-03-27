@@ -1,5 +1,7 @@
 ent-BaseMeleeWeaponEnergy = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
+ent-EnergySwordHoS = antique energy sword
+    .desc = An elegant weapon fit for a prince, this otherwise plain silver hilt is engraved with, "My Love".
 # Corvax-HiddenDesc-Start
 ent-EnergySword = игрушечный меч
     .desc = Очень громкий и опасный меч с лучом чистой, концентрированной плазмы. Разрезает небронированные объекты как масло.
@@ -10,6 +12,9 @@ ent-EnergyDaggerLoud = энергокинжал
 ent-EnergyDagger = ручка
     .desc = Ручка с чёрными чернилами.
     .suffix = Энергокинжал
+ent-EnergyCutlassSecurity = energy cutlass
+    .desc = A sleek energy weapon, its blade hums with volatile plasma, expertly contained to cut through nearly any material. The serial number on the hilt marks this gun as belonging to an NT Security Officer.
+    .suffix = Security Loadouts
 ent-EnergyDaggerBox = футляр энергокинжала
     .desc = Небольшая коробочка, содержащая энергокинжал. После вскрытия упаковка дезинтегрируется, не оставив улик.
     .suffix = Энергокинжал

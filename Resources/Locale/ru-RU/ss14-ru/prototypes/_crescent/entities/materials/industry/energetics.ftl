@@ -1,0 +1,15 @@
+ent-Charcoal = charcoal
+    .desc = A stabilized energetic compound used as propellant in low-yield weapon systems.
+ent-Charcoal1 = { ent-Charcoal }
+    .suffix = Single
+    .desc = { ent-Charcoal.desc }
+ent-HullrotGunpowder = Gunpowder
+    .desc = A stabilized energetic compound used as propellant in low-yield weapon systems.
+ent-HullrotGunpowder1 = { ent-HullrotGunpowder }
+    .suffix = Single
+    .desc = { ent-HullrotGunpowder.desc }
+ent-OrdnanceCompound = high-energy explosive compound
+    .desc = A stabilized energetic compound used as propellant in high-yield weapon systems.
+ent-OrdnanceCompound1 = { ent-OrdnanceCompound }
+    .suffix = Single
+    .desc = { ent-OrdnanceCompound.desc }

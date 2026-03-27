@@ -5,8 +5,6 @@ chat-emote-msg-jump = прыгает!
 # Names
 chat-emote-name-trill = Trill
 chat-emote-name-warble = Warble
-chat-emote-name-wurble = Wurble
-chat-emote-name-mars = Mars
 chat-emote-name-bagawk = Bagawk
 chat-emote-name-yip = Yip
 # Message

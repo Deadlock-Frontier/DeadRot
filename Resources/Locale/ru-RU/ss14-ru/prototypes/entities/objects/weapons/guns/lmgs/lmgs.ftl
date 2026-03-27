@@ -5,3 +5,7 @@ ent-WeaponLightMachineGunL6 = L6 SAW
     .suffix = Пулемёт
 ent-WeaponLightMachineGunL6C = L6C ROW
     .desc = L6 SAW для боргов. На ходу создаёт патроны калибра .30 винтовочный из встроенного самозарядного фабрикатора боеприпасов.
+ent-WeaponLightMachineDSMSurplus = IRM L5 5.56x45mm
+    .desc = A light machinegun common among Imperial levy forces. Built to be serviceable by even the most poorly equipped domains.
+ent-WeaponLightMachineGunNCWLSurplus = NCWL DP-29 7.62x51mm
+    .desc = A bulky, belt-fed 7.62mm LMG  cheap to produce and somewhat reliable. HomeGuard rear battalions keep them mounted on transport decks to maintain control over detainees during long ferry runs from Taypan to Malpais. Its simple feed mechanism accepts specialty pan-drum boxes for cost-effective, high-capacity firing. Not efficient, but serviceable.

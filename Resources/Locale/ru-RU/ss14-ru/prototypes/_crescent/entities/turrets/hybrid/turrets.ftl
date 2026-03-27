@@ -1,0 +1,9 @@
+ent-WeaponTurretStarburst = 150cc 'Starburst' Plasma Gatling
+    .desc = A light hybrid weapons platform that superheats unstable units of plasma and flings them at high speeds at targets. The plasma projectiles are inaccurate, but pack a punch.
+    .suffix = Small Hybrid
+ent-WeaponTurretBolter = 300cc 'Bolter' Plasma Caster
+    .desc = A medium hybrid weapons platform that superheats unstable units of plasma and flings them at high speeds at targets. The plasma projectiles are inaccurate, but cause a concentrated explosion on target.
+    .suffix = Medium Hybrid
+ent-WeaponTurretMauler = 500cc 'Mauler' Plasma Howitzer
+    .desc = Fires large and concentrated bolts of plasma capable of dealing with any armor. Quite inaccurate.
+    .suffix = Large Hybrid

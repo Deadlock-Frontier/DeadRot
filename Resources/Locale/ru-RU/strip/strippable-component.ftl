@@ -18,5 +18,8 @@ strip-all-verb-get-data-text = Раздеть
 
 ## UI
 
+# Stealth
+thieving-component-user = Someone
+thieving-component-item = something
 strippable-bound-user-interface-stripping-menu-title = Инвентарь { $ownerName }
 strippable-bound-user-interface-stripping-menu-ensnare-button = Ограничители ног

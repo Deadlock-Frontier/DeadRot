@@ -3,6 +3,7 @@ job-name-bailiff = Капитан КВП ТСФ
 job-name-brigmedic = Санитар КВП ТСФ
 job-name-cadet-nf = Рядовой КВП ТСФ
 job-name-contractor = Авантюрист
+job-name-detective-nf = Detective
 job-name-deputy = Сержант КВП ТСФ
 job-name-ertmailcarrier = Почтальон ОБР
 job-name-mercenary = Наёмник

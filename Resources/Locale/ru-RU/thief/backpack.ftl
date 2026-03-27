@@ -49,6 +49,12 @@ thief-backpack-category-communicator-description =
     Используйте своё красноречие и богатство, чтобы покорить станцию.
     В комплект входят: мастер-ключ шифрования от всех каналов станции, ручка CyberSun,
     голосовая маска-хамелеон, а также 20 тысяч космокредитов в чемоданчике.
+thief-backpack-category-communicator-plasmaman-name = communicator's kit
+thief-backpack-category-communicator-plasmaman-description =
+    A communication enthusiast's kit. Includes a master key
+    for all station channels, a cybersun pen, a portable
+    crew monitor, a voice chameleon mask, a tacticool envirosuit
+    and lots of money for business deals.
 thief-backpack-category-smuggler-name = Набор контрабандиста
 thief-backpack-category-smuggler-description =
     Всем ворам нужно где-то прятать свои вещи.

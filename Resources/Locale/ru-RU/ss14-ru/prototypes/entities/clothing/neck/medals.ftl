@@ -1,3 +1,5 @@
+ent-ClothingNeckMedalBase = medal
+    .desc = not given to anyone
 ent-ClothingNeckBronzeheart = медаль бронзовое сердце
     .desc = Выдаётся членам экипажа за проявленную храбрость перед лицом опасности.
 ent-ClothingNeckGoldmedal = золотая медаль мастерства экипажа

@@ -171,7 +171,6 @@ book-cnc-sheet =
 
     Class (Class)
 
-
     --------------------------------------------------------------------------------------
     SECTION 3:  SAVING THROWS
     --------------------------------------------------------------------------------------
@@ -182,7 +181,6 @@ book-cnc-sheet =
     ( )Intelligence =      +0
     ( )Wisdom       =      +0
     ( )Charisma     =      +0
-
 
     --------------------------------------------------------------------------------------
     SECTION 4:  SKILLS
@@ -198,11 +196,9 @@ book-cnc-sheet =
     ( )  Intimidation (Cha)    +0       ( )  Stealth (Dex)         +0
     ( )  Investigation (Int)   +0       ( )  Survival (Wis)        +0
 
-
     --------------------------------------------------------------------------------------
     SECTION 5:  COMBAT & HEALTH
     --------------------------------------------------------------------------------------
-
 
     Armor Class          :
     Initiative (passive) :
@@ -243,7 +239,6 @@ book-cnc-sheet =
     Equipment List
     Description                 Cost       Weight
 
-
     lbs
 
     Wealth
@@ -257,7 +252,6 @@ book-cnc-sheet =
     Jewelry      :
     Other        :
     Magic Items  :
-
 
     --------------------------------------------------------------------------------------
     SECTION 8: SPELLCASTING

@@ -1,5 +1,7 @@
 ent-ClothingOuterHardsuitEVA = скафандр EVA
     .desc = Лёгкий космический скафандр, способный защитить владельца от космического вакуума во время аварийной ситуации.
+ent-ClothingOuterHardsuitSyndicate = syndicate vacsuit
+    .desc = Has a tag on the back that reads: 'Totally not property of an enemy corporation, honest!'
 ent-ClothingOuterEVASuitSyndicate = кроваво-красный скафандр EVA
     .desc = Лёгкий космический скафандр, способный защитить владельца от космического вакуума во время аварийной ситуации. Выполнен в подозрительном красном цвете.
 ent-ClothingOuterSuitEmergency = аварийный скафандр EVA
@@ -8,5 +10,4 @@ ent-ClothingOuterHardsuitEVAPrisoner = тюремный скафандр EVA
     .desc = Лёгкий космический скафандр, способный защитить заключённого от космического вакуума во время аварийной ситуации.
 ent-ClothingOuterHardsuitAncientEVA = пустотный скафандр NTSRA
     .desc = Древний космический скафандр, разработанный по заказу Центкома подразделением NTSRA - агентством космических исследований NanoTrasen. Он изготовлен с особой тщательностью, обеспечивая большую мобильность, чем большинство современных космических костюмов.
-ent-ClothingOuterHardsuitVoidParamed = пустотный скафандр парамедика
-    .desc = Пустотный скафандр, предназначенный для парамедиков.
+

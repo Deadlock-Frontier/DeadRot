@@ -2,15 +2,20 @@
 
 injector-draw-text = Забор
 injector-inject-text = Введение
+injector-spent-text = Spent
 injector-invalid-injector-toggle-mode = Неверный режим
 injector-volume-label =
     Объём: [color=white]{ $currentVolume }/{ $totalVolume }[/color]
     Режим: [color=white]{ $modeString }[/color] ([color=white]{ $transferVolume } ед.[/color])
+onetime-injector-simple-volume-label =
+    Volume: [color=white]{ $currentVolume }[/color]
+    Mode: [color=white]{ $modeString }[/color]
 
 ## Entity
 
 injector-component-drawing-text = Содержимое набирается
 injector-component-injecting-text = Содержимое вводится
+injector-component-injecting-locked-text = Locked to inject
 injector-component-cannot-transfer-message = Вы не можете ничего переместить в { $target }!
 injector-component-cannot-transfer-message-self = Вы не можете ничего переместить в себя!
 injector-component-cannot-draw-message = Вы не можете ничего набрать из { $target }!
@@ -26,6 +31,7 @@ injector-component-draw-success-message-self = Вы набираете { $amount
 injector-component-target-already-full-message = { CAPITALIZE($target) } полон!
 injector-component-target-already-full-message-self = Вы уже полны!
 injector-component-target-is-empty-message = { CAPITALIZE($target) } пуст!
+injector-component-deny-chitinid = { CAPITALIZE(THE($target)) }'s exoskeleton is too thick for the needle to pierce.
 injector-component-target-is-empty-message-self = Вы пусты!
 injector-component-cannot-toggle-draw-message = Больше не набрать!
 injector-component-cannot-toggle-inject-message = Нечего вводить!
@@ -36,5 +42,4 @@ injector-component-drawing-user = Вы начинаете набирать шп�
 injector-component-injecting-user = Вы начинаете вводить содержимое шприца.
 injector-component-drawing-target = { CAPITALIZE($user) } начинает набирать шприц из вас!
 injector-component-injecting-target = { CAPITALIZE($user) } начинает вводить содержимое шприца в вас!
-
 injector-component-deny-user = Exoskeleton too thick!

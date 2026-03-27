@@ -1,0 +1,12 @@
+ent-SurgeryStepInsertCybernetic = Install Cybernetic
+    .desc = { ent-SurgeryStepInsertOrgan.desc }
+ent-SurgeryInsertDermis = Install Dermal Cybernetic
+    .desc = { ent-SurgeryBase.desc }
+ent-SurgeryRemoveDermis = Remove Dermal Cybernetic
+    .desc = { ent-SurgeryBase.desc }
+ent-SurgeryStepMendSkull = Mend skull
+    .desc = { ent-SurgeryStepBase.desc }
+ent-SurgeryInsertHeadAnchor = Install Cerebral Cybernetic
+    .desc = { ent-SurgeryBase.desc }
+ent-SurgeryRemoveHeadAnchor = Remove Cerebral Cybernetic
+    .desc = { ent-SurgeryBase.desc }

@@ -1,3 +1,5 @@
+ent-ClothingNeckHeadphones = headphones
+    .desc = Quality headphones from Drunk Masters, with good sound insulation.
 ent-ClothingMultipleHeadphones = наушники
     .desc = Качественные наушники от Drunk Masters, с хорошей звукоизоляцией.
 ent-ClothingNeckStethoscope = стетоскоп
@@ -6,6 +8,10 @@ ent-ActionStethoscope = Прослушать стетоскопом
     .desc = { "" }
 ent-ClothingNeckBling = побрякушки
     .desc = Чертовски круто быть гангстером.
+ent-ClothingNeckBellCollar = bell collar
+    .desc = A way to inform others about your presence, or just to annoy everyone around you!
+ent-ClothingNeckDogtags = dogtags
+    .desc = A pair of engraved metal identification tags.
 ent-ClothingNeckLawyerbadge = значок адвоката
     .desc = Значок, свидетельствующий что владелец является "законным" юристом, сдавшим экзамен NanoTrasen, необходимый для занятия юридической практикой.
 ent-Dinkystar = наклейка-звёздочка

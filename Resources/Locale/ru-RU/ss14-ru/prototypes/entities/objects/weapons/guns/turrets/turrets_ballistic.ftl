@@ -1,6 +1,9 @@
 ent-WeaponTurretSyndicate = { ent-BaseWeaponBallisticTurret }
     .suffix = Синдикат
     .desc = { ent-BaseWeaponBallisticTurret.desc }
+ent-WeaponTurretSAN = { ent-BaseWeaponBallisticTurret }
+    .desc = A turret designed to provide protection for Sol Marines during combat drops. It menaces targets with a twin-linked C-20r, although its cheap fire controller lends to poor accuracy.
+    .suffix = Sol Alliance Navy
 ent-WeaponTurretSyndicateDisposable = одноразовая баллистическая турель
     .suffix = Синдикат, Одноразовый
     .desc = { ent-BaseWeaponBallisticTurret.desc }

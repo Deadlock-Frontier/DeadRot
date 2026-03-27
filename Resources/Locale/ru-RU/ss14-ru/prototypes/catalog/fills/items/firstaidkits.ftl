@@ -25,3 +25,6 @@ ent-MedkitCombatFilled = { ent-MedkitCombat }
 ent-StimkitFilled = { ent-Medkit }
     .suffix = Стимпак, Заполненная
     .desc = { ent-Medkit.desc }
+ent-MedkitBloodFilled = { ent-MedkitBlood }
+    .suffix = Filled
+    .desc = { ent-MedkitBlood.desc }

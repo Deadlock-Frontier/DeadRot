@@ -5,6 +5,7 @@ spellbook-blink-name = Прыжок
 spellbook-blink-desc = Не моргайте, иначе вы не заметите, как телепортируетесь.
 spellbook-voidapplause-name = Аплодисменты пустоты
 spellbook-voidapplause-desc = Поменяйтесь местами с целью, разве вам не хочется сделать буги?
+spellbook-polymoprh-spider-name = Spider Polymoprh
 spellbook-knock-name = Стук
 spellbook-knock-desc = Открывает все вокруг.
 spellbook-force-wall-name = Силовой барьер

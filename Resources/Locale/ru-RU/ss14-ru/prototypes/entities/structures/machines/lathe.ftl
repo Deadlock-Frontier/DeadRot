@@ -36,5 +36,7 @@ ent-OreProcessorIndustrial = промышленный переработчик �
     .desc = Переработчик руды, разработанный специально для производства металлов в промышленных масштабах.
 ent-Sheetifier = лист-мастер 2000
     .desc = Довольно мяссивное устройство.
+ent-PrizeCounter = prize counter
+    .desc = Claim your prize and win some toys and cute plushies!
 ent-CutterMachine = плиткорез
     .desc = Это резак. Он режет. Придайте разнообразия полу вашей станции с помощью интересных узоров! Не засовывайте внутрь пальцы.

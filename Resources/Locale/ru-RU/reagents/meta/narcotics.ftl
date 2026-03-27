@@ -26,7 +26,11 @@ reagent-name-tear-gas = слезоточивый газ
 reagent-desc-tear-gas = Химическое вещество, вызывающее слёзы и сильное раздражение, обычно используется для подавления массовых беспорядков.
 reagent-name-happiness = счастье
 reagent-desc-happiness = Доводит до экстатического оцепенения и вызывает лёгкие повреждения мозга. Легко вызывает привыкание. Передозировка вызывает резкие перепады настроения.
-
+reagent-name-cryanobalamin = cryanobalamin
+reagent-desc-cryanobalamin = A formerly popular additive to energy drinks to restore stamina, now banned from commercial use due to its carcinogenic properties.
+reagent-name-liftloversspecial = lift lovers special
+reagent-desc-liftloversspecial = A chemical cocktail that quickly restores stamina. Despite being officially banned, it remains a popular black-market drink among fitness junkies. Carcinogenic in high doses.
+reagent-name-morphine = morphine
+reagent-desc-morphine = A potent analgesic that allows a patient to painlessly undergo surgery even while awake. Highly addictive if overused. Overdose can cause difficulty breathing.
 reagent-name-nitrosyl-plasmide = nitrosyl plasmide
-
 reagent-desc-nitrosyl-plasmide = A powerful stimulant that can prevent drowsiness, stuns and knock downs.

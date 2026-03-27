@@ -1,0 +1,8 @@
+marking-HumanFacialHairChin2 = Борода (подбородочная 2)
+marking-HumanFacialHairSuperLong = Борода (очень длинная)
+marking-HumanFacialHairShort = Борода (короткая)
+marking-HumanFacialHairThick = Борода (густая)
+marking-HumanFacialHairViking = Борода (викинг)
+marking-HumanFacialHairBristle = Борода (щетина)
+marking-HumanFacialHairMoustacheWithStubble = Усы (со щетиной)
+marking-HumanFacialHairThickBristle = Борода (густая щетина)

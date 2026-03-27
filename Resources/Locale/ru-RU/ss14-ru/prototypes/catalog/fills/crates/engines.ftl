@@ -37,3 +37,5 @@ ent-CrateEngineeringTeslaCoil = ящик с катушкой Теслы
     .suffix = Защищённый
 ent-CrateEngineeringTeslaGroundingRod = ящик с заземляющим стержнем Теслы
     .desc = Заземляющий стержень, идеален для защиты от молний.
+ent-CrateEngineeringTEGKit = TEG construction kit crate
+    .desc = A 'build your own TEG' kit. Some assembly required.

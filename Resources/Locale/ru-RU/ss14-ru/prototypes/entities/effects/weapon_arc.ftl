@@ -20,3 +20,5 @@ ent-WeaponArcKick = { ent-WeaponArcStatic }
     .desc = { ent-WeaponArcStatic.desc }
 ent-WeaponArcSmash = { ent-WeaponArcStatic }
     .desc = { ent-WeaponArcStatic.desc }
+ent-WeaponArcPurplePunch = { "" }
+    .desc = { "" }

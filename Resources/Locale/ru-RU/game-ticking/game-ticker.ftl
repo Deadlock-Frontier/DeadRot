@@ -27,21 +27,22 @@ game-ticker-get-info-preround-text =
     >[color=yellow]{ $desc }[/color]
 game-ticker-no-map-selected = [color=red]Карта ещё не выбрана![/color]
 game-ticker-player-no-jobs-available-when-joining = При попытке присоединиться к игре ни одной роли не было доступно.
+game-ticker-welcome-to-the-station = The Hadal Tide has rescinded. All personnel are to resume their normal duties. Anyone who suspects Hadal Contamination is to present to the medbay.
 # Displayed in chat to admins when a player joins
 player-join-message = Игрок { $name } зашёл!
 player-first-join-message = Игрок { $name } зашёл на сервер впервые.
 # Displayed in chat to admins when a player leaves
 player-leave-message = Игрок { $name } вышел!
 latejoin-arrival-announcement =
-    { $character } ({ $job }) { GENDER($entity) ->
+    { $character } ({ $job }) { $gender ->
         [male] прибыл
         [female] прибыла
         [epicene] прибыли
        *[neuter] прибыло
     } на станцию!
-latejoin-arrival-announcement-special = { $job } { $character } на палубе!
-latejoin-arrival-sender = Станции
-latejoin-arrivals-direction = Вскоре прибудет шаттл, который доставит вас на станцию.
+latejoin-arrival-announcement-special = { $job } { $character } на борту!
+latejoin-arrival-sender = Станция
+latejoin-arrivals-direction = Вскоре прибудет шаттл, который доставит вас на вашу станцию.
 latejoin-arrivals-direction-time = Шаттл, который доставит вас на станцию, прибудет через { $time }.
 latejoin-arrivals-dumped-from-shuttle = Таинственная сила не позволяет вам улететь на шаттле прибытия.
 latejoin-arrivals-teleport-to-spawn = Таинственная сила телепортирует вас с шаттла прибытия. Удачной смены!

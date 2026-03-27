@@ -98,3 +98,5 @@ reagent-name-potassium-iodide = иодид калия
 reagent-desc-potassium-iodide = Снижает разрушительное воздействие радиации на 90%. Используется только в профилактических целях.
 reagent-name-haloperidol = галоперидол
 reagent-desc-haloperidol = Выводит из организма большинство стимулирующих и галлюциногенных препаратов. Уменьшает наркотический эффект и дрожание. Вызывает сонливость.
+reagent-name-artiplates = artiplates
+reagent-desc-artiplates = A highly advanced form of artificial blood that expands rapidly when introduced to the bloodstream. Due to its expansive properties, it can cause severe internal hemorrhaging in large doses.

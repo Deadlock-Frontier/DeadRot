@@ -1,0 +1,14 @@
+ent-ClothingNeckImperialBow = noblewoman's bow
+    .desc = An elegant noblewoman's bow.
+ent-ClothingNeckImperialBowJeweled = noblewoman's jeweled bow
+    .desc = An elegant noblewoman's bow encrusted with jewels.
+ent-ClothingNeckCloakImperialGovernor = governor's shoulder cape
+    .desc = Adorned with Imperial livery and meant to be worn by the Imperial Governor.
+ent-ClothingNeckCloakInspector = advocati shoulder cape
+    .desc = Adorned with Advocati Corps livery, an old design no longer in use.
+ent-ClothingNeckCloakImperialAdjutant = adjutant's shoulder cape
+    .desc = Adorned with Imperial livery and meant to be worn by the Adjutant.
+ent-ClothingNeckCloakImperialCapelet = ornate capelet
+    .desc = Adorned with Imperial livery and meant to be worn by Imperial officers.
+ent-ClothingNeckImperialGreatcoat = leather greatcoat
+    .desc = A bulky greatcoat of genuine leather, made for those with a terrifying presence.

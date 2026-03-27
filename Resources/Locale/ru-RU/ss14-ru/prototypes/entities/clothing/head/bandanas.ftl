@@ -1,5 +1,7 @@
 ent-ClothingHeadBandBase = { ent-ClothingHeadBaseButcherable }
     .desc = { ent-ClothingHeadBaseButcherable.desc }
+ent-ClothingHeadBandWhite = bandana
+    .desc = { ent-ClothingHeadBandBase.desc }
 ent-ClothingHeadBandBlack = чёрная бандана
     .desc = { ent-ClothingHeadBandBase.desc }
     .suffix = Голова

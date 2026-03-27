@@ -1,5 +1,5 @@
 ## UI
-
+shipyard-console-error = Temporary embargo is in place, try later?
 shipyard-console-invalid-vessel = Cannot purchase vessel:
 shipyard-console-menu-title = Меню верфи
 shipyard-console-menu-listing-free = Бесплатно
@@ -13,6 +13,8 @@ shipyard-console-no-idcard = Отсутствует ID-карта.
 shipyard-console-already-deeded = К этой ID-карте уже привязан шаттл.
 shipyard-console-invalid-station = Неправильная станция.
 shipyard-console-no-bank = Отсутствует банковский аккаунт.
+shipyard-console-nearby = Your ship was unable to dock with { THE($station) }. It is parked nearby.
+shipyard-console-direction = Your ship is docked at the { $direction } o'clock of { THE($station) }.
 shipyard-console-no-deed = Отсутствует привязанный шаттл.
 shipyard-console-sale-reqs = Шаттл должен быть пристыкован и быть без экипажа на борту.
 shipyard-console-sale-not-docked = Шаттл должен быть пристыкован.

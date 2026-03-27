@@ -8,3 +8,5 @@ ent-CartridgeLightRifleIncendiary = патрон (.30 винтовочный з�
     .desc = { ent-BaseCartridgeLightRifle.desc }
 ent-CartridgeLightRifleUranium = патрон (.30 винтовочный урановый)
     .desc = { ent-BaseCartridgeLightRifle.desc }
+ent-CartridgeLightRifleShrapnel = cartridge (5.56x45mm Imperial shrapnel)
+    .desc = { ent-BaseCartridgeLightRifle.desc }

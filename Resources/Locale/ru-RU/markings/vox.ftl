@@ -1,3 +1,12 @@
+marking-VoxBeak = Vox Beak
+marking-VoxLArmScales = Vox Left Arm
+marking-VoxLFootScales = Vox Left Foot
+marking-VoxLHandScales = Vox Left Hand
+marking-VoxLLegScales = Vox Left Arm
+marking-VoxRArmScales = Vox Right Arm
+marking-VoxRFootScales = Vox Right Foot
+marking-VoxRHandScales = Vox Right hand
+marking-VoxRLegScales = Vox Right Leg
 marking-VoxScarEyeRight-vox_scar_eye_right = Шрам на глазу (Правый)
 marking-VoxScarEyeRight = Шрам на глазу (Правый)
 marking-VoxScarEyeLeft-vox_scar_eye_left = Left Eye Scar

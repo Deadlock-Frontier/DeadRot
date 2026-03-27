@@ -1,2 +1,10 @@
 ent-BulletAntiMateriel = пуля (.60 бронебойная)
     .desc = { ent-BaseBullet.desc }
+ent-BulletAntiMaterielUranium = bullet (15.2×169mm AP-DU)
+    .desc = { ent-BaseBulletUranium.desc }
+ent-BulletAntiMaterielIncendiary = bullet (15.2×169mm incendiary)
+    .desc = { ent-BaseBulletIncendiary.desc }
+ent-BulletAntiMaterielShrapnel = bullet (15.2×169mm shrapnel)
+    .desc = { ent-BaseBullet.desc }
+ent-BulletAntiMaterielShrapnelSpread = { ent-BulletAntiMaterielShrapnel }
+    .desc = { ent-BulletAntiMaterielShrapnel.desc }

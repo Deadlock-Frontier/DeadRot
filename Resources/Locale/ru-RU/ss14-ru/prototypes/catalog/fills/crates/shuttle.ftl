@@ -2,3 +2,5 @@ ent-CrateEngineeringThruster = ящик с ракетным двигателем
     .desc = Содержит упаковку, при помощи которой можно создать ракетный двигатель.
 ent-CrateEngineeringGyroscope = ящик с гироскопом
     .desc = Содержит упаковку, при помощи которой можно создать гироскоп.
+ent-CrateEngineeringDockingPort = docking port crate
+    .desc = Contains 4 docking port flatpacks.

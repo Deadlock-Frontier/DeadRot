@@ -8,6 +8,10 @@ materials-steel = сталь
 materials-gold = золото
 materials-silver = серебро
 materials-plasteel = пласталь
+materials-aluminium = aluminium
+materials-copper = copper
+materials-tungsten = tungsten-carbide
+materials-lead = lead
 # Other
 materials-biomass = биомасса
 materials-cardboard = картон
@@ -25,6 +29,8 @@ materials-bones = кости
 materials-coal = уголь
 materials-diamond = алмазы
 materials-gunpowder = чёрный порох
+materials-bluespace = bluespace
+materials-normality = normality
 materials-cotton = хлопок
 # Ores
 materials-raw-iron = руда железа
@@ -35,4 +41,13 @@ materials-raw-plasma = руда плазмы
 materials-raw-uranium = руда урана
 materials-raw-bananium = руда бананиума
 materials-raw-salt = каменная соль
+materials-raw-bluespace = raw bluespace
+materials-raw-normality = raw normality
+materials-raw-aluminium = raw aluminium
+materials-raw-lead = raw lead
+materials-raw-sulfur = raw sulfur
+materials-raw-copper = raw copper
+materials-raw-tungsten = raw tungsten
+# Material Reclaimer
+material-reclaimer-upgrade-process-rate = process rate
 materials-raw-diamond = необработанные алмазы

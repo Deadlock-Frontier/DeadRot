@@ -1,1 +1,1 @@
-defibrillator-missing-organs = Patient lacks essential vital organs! Revival is impossible.
+defibrillator-missing-organs = У пациента отсутствуют жизненно важные органы! Реанимация невозможна.

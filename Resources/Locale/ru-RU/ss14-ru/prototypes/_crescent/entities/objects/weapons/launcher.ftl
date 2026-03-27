@@ -1,0 +1,15 @@
+ent-WeaponLauncherGM94 = NCWL GPGL-94 Thumper 40mm
+    .desc = An NCWL grenade launcher based on ancient schematics.
+ent-WeaponLauncherMilkor = SHI MGL-6 Milkor 40mm
+    .desc = A large grenade launcher designed by Shinora. For when you need to make hell rain on the enemy.
+ent-WeaponLauncherDisposableRocket = SHI LAM-17 84mm
+    .desc = A single-shot, throwaway rocket launcher designed by Shinora for combating mechs in the field. Fits compactly in a backpack but takes time to ready when needed.
+ent-WeaponLauncherCommando = PTA M-32 Commando 44mm
+    .desc = A four-shot, throwaway rocket launcher designed by Pang Tai Arms for obliterating any infantry and damaging mechs
+ent-WeaponLauncherM320 = IRM M320 40mm
+    .desc = A cheap and light single-shot grenade launcher, designed by Olywir Armaments.
+ent-WeaponLauncherGustav = PTA M-5 Carl Gustaf 84mm
+    .desc = A ruggid, breach-loaded recoiless rifle. Suitable for a variety of large targets.
+ent-WeaponLauncherSmallRocket = NCSP RPG-2
+    .desc = The lesser known predecessor. A rocket launcher often seen in the hands of terrorists and informal militias.
+

@@ -1,0 +1,12 @@
+ent-ClothingEyesBurlapSack = burlap sack
+    .desc = a crude yet effective tool for relocating prisoners to remote locations.
+ent-ClothingNeckWearableCamera = wearable surveying port
+    .desc = a commander's eyes on the battlefield.
+ent-ClothingNeckWearableCameraImperial = imperial wearable surveying port
+    .desc = the lord admiral's eyes on extraction operations.
+ent-ClothingNeckWearableCameraCommunardNCWL = communard wearable surveying port
+    .desc = the major's eyes on the battlefield.
+ent-ClothingNeckWearableCameraInterdyne = interdyne wearable surveying port
+    .desc = the coordinator's eyes on extraction operations.
+ent-ClothingNeckWearableCameraMallcops = old wearable surveying port
+    .desc = some broken tech that barely works, a memory of more orderly days.

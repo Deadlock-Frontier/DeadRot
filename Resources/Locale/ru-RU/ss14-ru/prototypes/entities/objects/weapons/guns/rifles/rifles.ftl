@@ -1,5 +1,7 @@
 ent-BaseWeaponRifle = BaseWeaponRifle
     .desc = Дерзай - налетай, целься и стреляй.
+ent-BaseWeaponRifleDMR = BaseWeaponRifleDMR
+    .desc = A rooty tooty point and shooty, but more accurate.
 ent-WeaponRifleAk = АКМС
     .desc = Культовое оружие всех войн. Использует патроны калибра .30 винтовочный.
     .suffix = Автомат
@@ -9,6 +11,9 @@ ent-WeaponRifleM90GrenadeLauncher = М-90gl
 ent-WeaponRifleLecter = Лектер
     .desc = Первоклассная армейская штурмовая винтовка. Использует патроны калибра .20 винтовочный.
     .suffix = Автомат
+ent-WeaponRifleLecterRubber = SHI PAA-2 Lecter 7.62x51mm
+    .suffix = Non-lethal
+    .desc = { ent-WeaponRifleLecter.desc }
 ent-WeaponRifleFoam = Астро-Ас Сила Пенопласта
     .desc = Первоклассная пенопластовая винтовка высочайшего качества. Её пластик прочен на ощупь, а механизмы надёжны.
 ent-WeaponRifleEstoc = Эсток

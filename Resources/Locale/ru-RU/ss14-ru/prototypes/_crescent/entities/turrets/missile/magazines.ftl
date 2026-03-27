@@ -1,0 +1,12 @@
+ent-Magazine48mmRocket = 48mm loading box
+    .desc = A munitions drum designed to ease loading of 48mm rocket systems. Comes 6 rockets to a box.
+ent-Magazine48mmRocketGorlex = Gorlex 48mm loading box
+    .desc = A munitions drum designed to ease loading of 60mm rocket systems. Comes 6 rockets to a box. This one has been painted red.
+ent-Magazine60mm = 60mm loading box
+    .desc = A munitions drum designed to ease loading of 60mm rocket systems. Comes 6 rockets to a box.
+ent-Magazine60mmGorlex = Gorlex 60mm loading box
+    .desc = A munitions drum designed to ease loading of 60mm rocket systems. Comes 6 rockets to a box. This one has been painted red.
+ent-Magazine60mmNCWL = Homeguard 60mm loading box
+    .desc = A munitions drum designed to ease loading of 60mm rocket systems. Comes 6 rockets to a box. This one has been expertly painted a shade of communard orange.
+ent-Magazine60mmSHI = SHI 60mm loading box
+    .desc = A munitions drum designed to ease loading of 60mm rocket systems. Comes 6 rockets to a box. For the downside of being painted Shinohara grey this one comes with guided missiles.
