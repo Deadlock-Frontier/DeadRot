@@ -46,5 +46,7 @@ ent-N14DoorTentflap = tent flap
     .suffix = smoothed tent
 ent-N14DoorTentLeatherflap = tent flap
     .desc = A door for a tent. Leathery.
+    .suffix = { ent-N14DoorTentflap.suffix }
 ent-N14DoorTentClothflap = tent flap
     .desc = A door for a tent. Cloth.
+    .suffix = { ent-N14DoorTentflap.suffix }

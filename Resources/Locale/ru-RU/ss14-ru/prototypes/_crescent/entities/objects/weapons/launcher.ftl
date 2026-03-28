@@ -12,4 +12,8 @@ ent-WeaponLauncherGustav = PTA M-5 Carl Gustaf 84mm
     .desc = A ruggid, breach-loaded recoiless rifle. Suitable for a variety of large targets.
 ent-WeaponLauncherSmallRocket = NCSP RPG-2
     .desc = The lesser known predecessor. A rocket launcher often seen in the hands of terrorists and informal militias.
+ent-WeaponLauncherRocket = РПГ-7
+    .desc = Древний ручной реактивный гранатомёт.
+ent-WeaponLauncherChinaLake = China Lake
+    .desc = БЛУП.
 

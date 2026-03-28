@@ -1,12 +1,12 @@
 ent-RubberStampNCWLCommand = NCWL command stamp
-    .suffix = DO NOT MAP
     .desc = { ent-RubberStampBase.desc }
+    .suffix = DO NOT MAP
 ent-RubberStampEmpire = imperial rubber stamp
-    .suffix = DO NOT MAP
     .desc = { ent-RubberStampBase.desc }
+    .suffix = DO NOT MAP
 ent-RubberStampHunters = overseer's rubber stamp
-    .suffix = DO NOT MAP
     .desc = { ent-RubberStampBase.desc }
+    .suffix = DO NOT MAP
 ent-RubberStampShinohara = executive's rubber stamp
-    .suffix = DO NOT MAP
     .desc = { ent-RubberStampBase.desc }
+    .suffix = DO NOT MAP

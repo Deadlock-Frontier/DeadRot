@@ -1,5 +1,12 @@
-
-
-ent-AnomalyRockPlasma = { ent-AnomalyRockBase }
-    .suffix = Rock, Plasma
+ent-AnomalyRockBananium = { ent-AnomalyRockBase }
     .desc = { ent-AnomalyRockBase.desc }
+    .suffix = Камень, Бананиум
+ent-AnomalyRockCoal = { ent-AnomalyRockBase }
+    .desc = { ent-AnomalyRockBase.desc }
+    .suffix = Камень, Уголь
+ent-AnomalyRockGold = { ent-AnomalyRockBase }
+    .desc = { ent-AnomalyRockBase.desc }
+    .suffix = Камень, Золото
+ent-AnomalyRockPlasma = { ent-AnomalyRockBase }
+    .desc = { ent-AnomalyRockBase.desc }
+    .suffix = Rock, Plasma

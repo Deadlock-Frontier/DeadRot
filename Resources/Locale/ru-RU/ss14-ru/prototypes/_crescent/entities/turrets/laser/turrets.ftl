@@ -1,5 +1,5 @@
 ent-ShuttleGunExhumer = SHI 250c "Exhumer" kinetic pulser
-    .desc = A fixedpoint mining tool that accelerates sound waves to kinetically slice through rock - mostly seen on civilian miner models.
+    .desc = A fixedpoint mining tool that accelerates sound waves to kinetically slice through rock — mostly seen on civilian miner models.
     .suffix = ShipGun
 ent-WeaponTurretCurse = 300w 'Curse' EMP Projector
     .desc = A medium energy platform that shoots ionized hardlight that interferes with shuttle electronics.

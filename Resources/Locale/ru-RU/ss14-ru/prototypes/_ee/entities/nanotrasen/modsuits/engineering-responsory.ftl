@@ -9,5 +9,5 @@ ent-ClothingModsuitChestplateResponsoryEngineering = Engineering Responsory mods
 ent-ClothingModsuitBootsResponsoryEngineering = Engineering Responsory modsuit boots
     .desc = A state-of-the-art pair of magboots for the Engineering Responsory modsuit. So long as the suit is powered, these will not slow the wearer down.
 ent-SuitStorageResponsoryEngineering = { ent-SuitStorageBase }
-    .suffix = Engineering Responsory Modsuit
     .desc = { ent-SuitStorageBase.desc }
+    .suffix = Engineering Responsory Modsuit

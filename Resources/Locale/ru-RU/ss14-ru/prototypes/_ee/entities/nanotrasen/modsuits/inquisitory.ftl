@@ -9,5 +9,5 @@ ent-ClothingModsuitChestplateInquisitory = Inquisitory modsuit chestplate
 ent-ClothingModsuitBootsInquisitory = Inquisitory modsuit boots
     .desc = A state-of-the-art pair of magboots for the Inquisitory modsuit. So long as the suit is powered, these will not slow the wearer down.
 ent-SuitStorageInquisitory = { ent-SuitStorageBase }
-    .suffix = Inquisitory Modsuit
     .desc = { ent-SuitStorageBase.desc }
+    .suffix = Inquisitory Modsuit

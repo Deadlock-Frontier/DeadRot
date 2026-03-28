@@ -11,10 +11,12 @@ psionics-records-status-none = None
 psionics-records-status-registered = Registered Psionic
 psionics-records-status-suspected = Suspected Psionics
 psionics-records-status-abusing = Abusing Psionics
+
 psionics-records-console-wanted-reason = [color=gray]Psionics Listed[/color]
 psionics-records-console-suspected-reason = [color=gray]Suspected Reason[/color]
 psionics-records-console-reason = Psionics/Reason
 psionics-records-console-reason-placeholder = For example: { $placeholder }
+
 psionics-records-permission-denied = Permission denied
 
 ## Security channel notifications

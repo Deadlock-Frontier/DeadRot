@@ -1,12 +1,12 @@
 ent-SurveillanceCameraRouterImperialDSM = { ent-SurveillanceCameraWirelessRouterBase }
+    .desc = { ent-SurveillanceCameraWirelessRouterBase.desc }
     .suffix = DSM
-    .desc = { ent-SurveillanceCameraWirelessRouterBase.desc }
 ent-SurveillanceCameraRouterCommunardNCWL = { ent-SurveillanceCameraWirelessRouterBase }
+    .desc = { ent-SurveillanceCameraWirelessRouterBase.desc }
     .suffix = NCWL
-    .desc = { ent-SurveillanceCameraWirelessRouterBase.desc }
 ent-SurveillanceCameraRouterInterdyneIPM = { ent-SurveillanceCameraWirelessRouterBase }
+    .desc = { ent-SurveillanceCameraWirelessRouterBase.desc }
     .suffix = IPM
-    .desc = { ent-SurveillanceCameraWirelessRouterBase.desc }
 ent-SurveillanceCameraRouterGliessMallcops = { ent-SurveillanceCameraWirelessRouterBase }
-    .suffix = Gliess
     .desc = { ent-SurveillanceCameraWirelessRouterBase.desc }
+    .suffix = Gliess

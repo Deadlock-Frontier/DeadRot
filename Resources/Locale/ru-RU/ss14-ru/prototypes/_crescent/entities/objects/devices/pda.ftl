@@ -116,7 +116,8 @@ ent-MarshalPDA = marshal's PDA
     .desc = Blue for cops.
 ent-AntiquarianPDA = antiquarian's PDA
     .desc = Why is it gray?
-
+ent-PilotPDA = КПК пилота
+    .desc = Имеет защиту от космической радиации.
 ent-MercenaryPDA = mercenary PDA
     .desc = This PDA smells of war.
 ent-ProphetPDA = prophet's PDA

@@ -3,5 +3,5 @@
 reagent-effect-guidebook-chem-miasma-pool =
     { $chance ->
         [1] Causes
-       *[other] cause
+        *[other] cause
     } diseases

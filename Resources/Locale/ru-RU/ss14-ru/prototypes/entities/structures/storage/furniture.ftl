@@ -1,10 +1,10 @@
 ent-FurnitureWashingmachine = washing machine
     .desc = wishy washy.
 ent-FurnitureWashingmachineIndustrial = { ent-FurnitureWashingmachine }
-    .suffix = Industrial
     .desc = { ent-FurnitureWashingmachine.desc }
+    .suffix = Industrial
 ent-ClosetSafe = safe
     .desc = Might be filled with valuables.
 ent-ClosetSafeSpinner = { ent-ClosetSafe }
-    .suffix = spinner
     .desc = { ent-ClosetSafe.desc }
+    .suffix = spinner

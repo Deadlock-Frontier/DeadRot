@@ -93,7 +93,7 @@ job-description-hangartech = Tend to the Thukker storefront, move freight, mind 
 job-description-techminer = Go scavenging for scrap. Find artifacts and lost technology for the Tinkerers.
 job-description-beltrunner = Move the Izdari product from the Aasim to relevant parties. Ensure the security of your family's operations.
 job-description-draugr = Assert your superiority over the Serviles. Protect the war-freighter. Listen to the Prophet. Their word is law.
-job-description-servile = Listen to your Draugrs - earn your stay in the family. Make a name for yourself.
+job-description-servile = Listen to your Draugrs — earn your stay in the family. Make a name for yourself.
 job-description-antiquarian = Fulfill the system's blackmarketing needs. Make sure your office stays in one piece.
 
 # ath
@@ -112,6 +112,7 @@ job-description-chirurgeon = So many new dissections to catalog. But do you dela
 job-description-vorarbeiter = Guide the Arbeiters in new industrial conquests. Mine the stars and forge the 43rd Battlegroup's might.
 job-description-arbeiter = The industrial life blood of the Authoritat. Follow the Vorarbeiter's direction. Fear the psionicist.
 
+
 # misc
 
 job-description-spacer = Be an independent citizen of Taypan.
@@ -119,6 +120,7 @@ job-description-gliess-sheriff = Maintain law and order on Gliess Santo. Organiz
 job-description-gliess-deputy = Assist the Sheriff in keeping the law. Defend independent spacers and maintain peace with much bigger fish.
 job-description-gliess-dockmaster = Make sure nobody blows up your station.
 job-description-dockhand = Assist the Dockmaster in upkeeping Gliess Santo.
+
 # conscript-ncwl - for PLANETFALL
 job-description-conscript-ncwl-ship-captain = Pilot the Clementine. Ensure it's safety and use its armaments well. Go down with the ship.
 job-description-conscript-ncwl-ship-crew = Man the guns and fix holes. Load ammo. Help the soldiers do their job. Don't leave the ship.
@@ -131,6 +133,7 @@ job-description-conscript-ncwl-shotgun = Punch through enemy lines. Be the first
 job-description-conscript-ncwl-smg = Punish overconfidence. Make them keep their head down. (Submachine Gun)
 job-description-conscript-ncwl-rifleman = Be the rank and file. Be the corpses the League will stand on. (Bolt-action Rifle)
 job-description-conscript-ncwl-cadet = Listen to your superiors. Keep your head down and learn. (Bolt-action Rifle)
+
 # conscript-dsm - for PLANETFALL
 job-description-conscript-dsm-ship-captain = Pilot the Nemesis. Ensure it's safety and use its armaments well. Go down with the ship.
 job-description-conscript-dsm-ship-crew = Man the guns and fix holes. Load ammo. Help the soldiers do their job. Don't leave the ship.
@@ -143,6 +146,7 @@ job-description-conscript-dsm-shotgun = Punch through enemy lines. Be the first 
 job-description-conscript-dsm-smg = Punish overconfidence. Make them keep their head down. (Submachine Gun)
 job-description-conscript-dsm-rifleman = Be the rank and file. Be the corpses the League will stand on. (Lever-action Rifle)
 job-description-conscript-dsm-cadet = Listen to your superiors. Keep your head down and learn. (Lever-action Rifle)
+
 # unionfall-ncwl
 job-description-unionfall-ncwl-ship-captain = Pilot the fleet's anchors. Coordinate with other vessels. Go down with your ship.
 job-description-unionfall-ncwl-ship-crew = Man the guns and fix holes. Load ammo. Don't leave the ship. Listen to the Grand Steward.
@@ -151,6 +155,7 @@ job-description-unionfall-ncwl-officer = Lead small squads. Ensure cohesion. Lis
 job-description-unionfall-ncwl-doctor = Keep your comrades alive.
 job-description-unionfall-ncwl-rifleman = Be the rank and file. Pilot fighters and ultralights. Listen to your superiors.
 job-description-unionfall-ncwl-cadet = Listen to your superiors. Keep your head down and learn.
+
 # unionfall-dsm
 job-description-unionfall-dsm-ship-captain = Pilot the fleet's anchors. Coordinate with other vessels. Go down with your ship.
 job-description-unionfall-dsm-ship-crew = Man the guns and fix holes. Load ammo. Don't leave the ship. Listen to the Grand Steward.
@@ -159,6 +164,7 @@ job-description-unionfall-dsm-officer = Lead small squads. Ensure cohesion. List
 job-description-unionfall-dsm-doctor = Keep your fellow men alive.
 job-description-unionfall-dsm-rifleman = Be the rank and file. Pilot fighters and ultralights. Listen to your superiors.
 job-description-unionfall-dsm-cadet = Listen to your superiors. Keep your head down and learn.
+
 # event roles
 job-description-ncwl-conscript-event = Conscript from the NCWL ground forces militia. Armed with a semi automatic rifle and a dream.
 job-description-ncwl-conscript-event-SMG = Conscript from the NCWL ground forces militia. Armed with an SMG and a dream.

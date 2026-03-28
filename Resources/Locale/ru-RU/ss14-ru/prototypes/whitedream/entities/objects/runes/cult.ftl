@@ -15,6 +15,6 @@ ent-CultRuneSummoning = rune of summoning
 ent-CultRuneBloodBoil = rune of boiling blood
     .desc = Boils the blood of non-believers who can see the rune, rapidly dealing extreme amounts of damage. Requires 3 invokers.
 ent-CultRuneApocalypse = rune of apocalypse
-    .desc = Harbinger of the end times. Grows in strength with the cult's desperation - but at the risk of... side effects. Requires 3 invokers.
+    .desc = Harbinger of the end times. Grows in strength with the cult's desperation — but at the risk of... side effects. Requires 3 invokers.
 ent-CultRuneDimensionalRending = rune of dimensional rending
     .desc = Tears apart dimensional barriers, calling forth the Geometer. Requires 10 invokers

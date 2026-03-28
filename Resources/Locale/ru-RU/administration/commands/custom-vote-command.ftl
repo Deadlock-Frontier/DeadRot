@@ -1,0 +1,1 @@
+custom-vote-webhook-name = Состоялось кастомное голосование

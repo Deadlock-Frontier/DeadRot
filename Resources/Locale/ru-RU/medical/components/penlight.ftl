@@ -4,6 +4,7 @@ pen-light-exam-title = Pen Light
 pen-light-window-entity-eyes-text = { $entityName }'s conditions:
 pen-light-window-no-patient-data-text = No patient data.
 pen-light-window-entity-unknown-text = unknown
+
 pen-light-exam-blind-text = The patient's eyes are glassy and unfocused. They can't follow the light at all.
 pen-light-exam-drunk-text = There's a clear delay between moving the light and the patient's eyes following.
 pen-light-exam-eyedamage-text = The patient's eyes have dark spots within the pupil, evident when the light is shone in them.

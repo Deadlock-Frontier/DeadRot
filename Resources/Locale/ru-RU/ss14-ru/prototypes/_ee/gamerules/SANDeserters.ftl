@@ -1,8 +1,8 @@
 ent-Deserters = { ent-BaseUnknownShuttleRule }
     .desc = { ent-BaseUnknownShuttleRule.desc }
 ent-SpawnPointGhostSANDeserter = ghost role spawn point
-    .suffix = SAN Deserter
     .desc = { ent-MarkerBase.desc }
+    .suffix = SAN Deserter
 ent-MobHumanSANDeserter = SAN Deserter
     .desc = { ent-MobHuman.desc }
 ent-MindRoleDeserter = SAN Deserter Role

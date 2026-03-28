@@ -1,32 +1,30 @@
 reagent-effect-condition-guidebook-stamina-damage-threshold =
     { $max ->
         [2147483648] the target has at least stamina damage
-       *[other]
-            { $min ->
+        *[other] { $min ->
                 [0] the target has at most stamina damage
-               *[other] the target has between and stamina damage
+                *[other] the target has between and stamina damage
             }
     }
+
 reagent-effect-condition-guidebook-unique-bloodstream-chem-threshold =
     { $max ->
-        [2147483648]
-            { $min ->
+        [2147483648] { $min ->
                 [1] there's at least { $min } reagent
-               *[other] there's at least { $min } reagents
+                *[other] there's at least { $min } reagents
             }
-        [1]
-            { $min ->
+        [1] { $min ->
                 [0] there's at most { $max } reagent
-               *[other] there's between { $min } and { $max } reagents
+                *[other] there's between { $min } and { $max } reagents
             }
-       *[other]
-            { $min ->
+        *[other] { $min ->
                 [-1] there's at most { $max } reagents
-               *[other] there's between { $min } and { $max } reagents
+                *[other] there's between { $min } and { $max } reagents
             }
     }
+
 reagent-effect-condition-guidebook-typed-damage-threshold =
     { $inverse ->
         [true] the target has at most
-       *[false] the target has at least
+        *[false] the target has at least
     } { $changes } damage

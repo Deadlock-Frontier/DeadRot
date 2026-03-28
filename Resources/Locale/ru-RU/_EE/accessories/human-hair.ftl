@@ -1,11 +1,17 @@
 marking-HumanHairArabicGathered = Арабская собранная
 marking-HumanHairClassicHair = Классическая причёска
 marking-HumanHairSideComb = Боковой зачёс
+marking-HumanHairLong4 = Длинная 4
 marking-HumanHairManbun2 = Пучок (мужской 2)
 marking-HumanHairPigtailTajaran = Таяранские косички
 marking-HumanHairShavedSide = Выбритый бок
 marking-HumanHairShorthair8 = Короткие волосы 8
 marking-HumanFembun = Женский пучок
+marking-HumanHairAfricanPigtails = Хвостики (Африканские)
+marking-HumanHairAfropuffDouble = Afropuff (Double)
+marking-HumanHairAfropuffLeft = Afropuff (Left)
+marking-HumanHairAfropuffRight = Afropuff (Right)
+marking-HumanHairHightight = Хай-тайт
 marking-HumanHairBuzzhawk = Мохок под ноль
 marking-HumanHairShavedbun = Выбритый свободный пучок
 marking-HumanHairLoosebun = Свободный пучок

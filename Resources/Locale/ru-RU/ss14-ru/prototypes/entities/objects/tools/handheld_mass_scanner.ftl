@@ -1,11 +1,9 @@
 ent-HandHeldMassScannerEE = handheld mass scanner
     .desc = A hand-held mass scanner. It only consumes power when scanning.
     .suffix = Einstein-Engines
-ent-HandHeldMassScanner = ручной сканер массы
-    .desc = Портативный сканер массы.
 ent-HandHeldMassScannerEmpty = { ent-HandHeldMassScanner }
+    .desc = { ent-HandHeldMassScanner.desc }
     .suffix = Пустой
-    .desc = { ent-HandHeldMassScanner.desc }
 ent-HandHeldMassScannerBorg = { ent-HandHeldMassScanner }
-    .suffix = Борг
     .desc = { ent-HandHeldMassScanner.desc }
+    .suffix = Борг

@@ -6,6 +6,7 @@ ent-DrugLathe = interdyne pharmaceutic fablathe
     .desc = An automated fablathe with preloaded pharmaceutic patterns. Bears the Interdyne logo.
 ent-MicroforgeCircuitboard = microforge circuit
     .desc = A machine printed circuit board for a microforge.
+    .suffix = { ent-BaseMachineCircuitboard.suffix }
 ent-PristineMicroforge = pristine microforge
     .desc = Used to print equipment discovered through techdisks, or researched.
 ent-BoriaticRefiner = SHI boriatic composter

@@ -9,6 +9,7 @@ interaction-PinchSelf-delayed-self-popup = You pinch yourself...
 interaction-PinchSelf-message-1 = Ouchh!!
 interaction-PinchSelf-message-2 = Aaaah!!
 interaction-PinchSelf-message-3 = Ow!!
+
 interaction-MakeSleepSelf-name = Sleep
 interaction-MakeSleepSelf-description = Put yourself to sleep.
 interaction-MakeSleepSelf-delayed-self-popup = You are trying to fall asleep...

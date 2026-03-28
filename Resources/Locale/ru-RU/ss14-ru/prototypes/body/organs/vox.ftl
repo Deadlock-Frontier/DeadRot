@@ -1,6 +1,6 @@
-ent-OrganVoxLungs = { ent-OrganHumanLungs }
+ent-OrganVoxLungs = vox lungs
+    .desc = { ent-OrganHumanLungs.desc }
     .suffix = Вокс
-    .desc = Синие, анаэробные лёгкие вокса, используют азот для дыхания. Любая форма газообразного кислорода смертельно токсична при вдыхании.
 ent-OrganVoxStomach = желудок
     .desc = Желудок, пахнущий аммиаком.
     .suffix = Вокс

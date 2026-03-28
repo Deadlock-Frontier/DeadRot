@@ -1,29 +1,25 @@
-ent-BaseMeleeWeaponEnergy = { ent-BaseItem }
-    .desc = { ent-BaseItem.desc }
-ent-EnergySwordHoS = antique energy sword
-    .desc = An elegant weapon fit for a prince, this otherwise plain silver hilt is engraved with, "My Love".
-# Corvax-HiddenDesc-Start
 ent-EnergySword = игрушечный меч
     .desc = Очень громкий и опасный меч с лучом чистой, концентрированной плазмы. Разрезает небронированные объекты как масло.
-    .suffix = энергетический меч
-# Corvax-HiddenDesc-End
-ent-EnergyDaggerLoud = энергокинжал
-    .desc = Не такой громкий и опасный кинжал с лучом из чистой, концентрированной плазмы. Совершенно лишён возможности маскироваться.
+ent-EnergySwordHoS = antique energy sword
+    .desc = An elegant weapon fit for a prince, this otherwise plain silver hilt is engraved with, "My Love".
 ent-EnergyDagger = ручка
     .desc = Ручка с чёрными чернилами.
     .suffix = Энергокинжал
-ent-EnergyCutlassSecurity = energy cutlass
-    .desc = A sleek energy weapon, its blade hums with volatile plasma, expertly contained to cut through nearly any material. The serial number on the hilt marks this gun as belonging to an NT Security Officer.
-    .suffix = Security Loadouts
 ent-EnergyDaggerBox = футляр энергокинжала
     .desc = Небольшая коробочка, содержащая энергокинжал. После вскрытия упаковка дезинтегрируется, не оставив улик.
     .suffix = Энергокинжал
 ent-EnergyCutlass = абордажная энергосабля
     .desc = Экзотическое энергетическое оружие.
-# Corvax-HiddenDesc-Start
+ent-EnergyCutlassSecurity = energy cutlass
+    .desc = A sleek energy weapon, its blade hums with volatile plasma, expertly contained to cut through nearly any material. The serial number on the hilt marks this gun as belonging to an NT Security Officer.
+    .suffix = Security Loadouts
 ent-EnergySwordDouble = игрушечный двухклинковый меч
     .desc = Новый двойной пластиковый меч от Sandy-Cat! В два раза больше эпика и громких звуков!
-    .suffix = двухклинковый энергетический меч
+ent-BaseMeleeWeaponEnergy = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+# Corvax-HiddenDesc-End
+ent-EnergyDaggerLoud = энергокинжал
+    .desc = Не такой громкий и опасный кинжал с лучом из чистой, концентрированной плазмы. Совершенно лишён возможности маскироваться.
 # Corvax-HiddenDesc-End
 ent-HyperEutacticBlade = гиперэвтектический клинок
     .desc = Сверхмассивное оружие, способное разорвать на части саму ткань пространства и времени, гиперэвтектический клинок динамически выковывает гиперэвтектическую кристаллическую наноструктуру, способную проходить сквозь большинство известных форм материи, как горячий нож сквозь масло.

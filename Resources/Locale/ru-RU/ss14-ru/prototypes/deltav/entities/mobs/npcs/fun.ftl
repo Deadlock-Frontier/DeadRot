@@ -1,2 +1,3 @@
 ent-MobSpaceShrimp = space shrimp
     .desc = Shrimply cursed...
+    .suffix = { ent-SimpleMobBase.suffix }

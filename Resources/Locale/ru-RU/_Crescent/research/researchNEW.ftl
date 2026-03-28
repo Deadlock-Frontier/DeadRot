@@ -20,6 +20,7 @@ research-technology-astronautics-basiceva = Basic EVA
 research-technology-astronautics-advancedeva = Specialized EVA
 research-technology-astronautics-shipyardconstruction = Rapid Vessel Construction Device
 research-technology-astronautics-modsuit = MODSuit
+
 # MECHATRONICS
 research-technology-mechatronics-parts = Construction Parts
 research-technology-mechatronics-armaments = Basic Infantry Armaments
@@ -28,12 +29,15 @@ research-technology-biochemical-livestockcubes = Livestock Cubes
 research-technology-biochemical-basicmedical = Basic Medicinals
 research-technology-biochemical-basicchemical = Basic Chemistry
 research-technology-biochemical-defibrillator = Defibrillator
+research-technology-biochemical-stasis = Биохимический стазис
 research-technology-biochemical-hypo = Hypochemistry
+
 # ELECTRONICS
 research-technology-electronics-translators = Translators
 research-technology-electronics-materials = Basic Components
 research-technology-electronics-defense = Civilian Defense Pistols
 research-technology-electronics-terminus = Ogre Shocktrooper Armaments
+
 # MINUTEMEN
 research-technology-minutemen-hybrid-corvettes = minutemen hybrid corvettes
 research-technology-minutemen-light-crafts = minutemen light crafts
@@ -44,6 +48,7 @@ research-technology-minutemen-light-nt-corvette = minutemen high tech NT corvett
 research-technology-minutemen-light-guns = minutemen light firearms
 research-technology-minutemen-ion-destroyer = minutemen hybrid brawler destroyer
 research-technology-minutemen-shotgun = minutemen kammer shotgun
+
 # INTERDYNE
 research-technology-interdyne-clothing = Basic Clothing
 research-technology-interdyne-armor = TraumaSec Armor
@@ -56,6 +61,7 @@ research-technology-interdyne-paineditor = TT-46 Pain Editor
 research-technology-interdyne-adrenalaccelerator = TT-86 Adrenal Accelerator
 research-technology-interdyne-bloodpump = TT-92 Bloodpump
 research-technology-interdyne-pryarms = TT-42 Pryarms
+
 # CYBERDAWN
 research-technology-cyberdawn-clothing = Cyberdawn Clothing
 research-technology-cyberdawn-reverse-engineering = Basic reclamation technology
@@ -78,6 +84,8 @@ research-technology-cyberdawn-CDTDualPhoronBlade = DualPhoronBlade
 research-technology-cyberdawn-CDTMedicalcyborgs = Medical cyborgs
 research-technology-cyberdawn-CDTSaboteurcyborgs = Saboteur cyborgs
 research-technology-cyberdawn-CDTShipT1LPC = Basic stealth ship production
+
+
 # DSM
 research-technology-imperial-basicclothes = Basic Tailoring
 research-technology-imperial-advancedclothes = Advanced Tailoring
@@ -110,6 +118,7 @@ research-technology-imperial-torturer = Imperial Stealth Bomber
 research-technology-imperial-magnate = Imperial Fire Support Vessel
 research-technology-imperial-craftcomps = Imperial Weapon Components
 research-technology-imperial-raider = Imperial Troop Transport
+
 # NCWL
 research-technology-communard-clothes = Communard Clothes
 research-technology-armored-communard-clothes = Communared Armored Clothes
@@ -133,6 +142,7 @@ research-technology-communard-bogatyr = Communard Battle Mech
 research-technology-communard-commienaut = Communard Juggernaut Suit
 research-technology-communard-vibrokukri = Communard Chengridz Vibrokukri
 research-technology-communard-craftcomps = Communard Weapon Components
+
 # SHI
 research-technology-shinohara-clothes = Corporate Uniforms
 research-technology-shinohara-security = Corporate Security

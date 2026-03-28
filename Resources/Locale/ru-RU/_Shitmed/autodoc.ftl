@@ -6,10 +6,12 @@ autodoc-item-part = Часть тела
 autodoc-program-step-store-item = Сохранить предмет
 autodoc-program-step-set-label = Установить метку: '{ $label }'
 autodoc-program-step-wait = Ждать { $length } секунд
+
 autodoc-program-completed = ПРОГРАММА ЗАВЕРШЕНА
 autodoc-error = ОШИБКА: { $error }
 autodoc-fatal-error = КРИТИЧЕСКАЯ ОШИБКА: { $error }
 autodoc-waiting = ПРОГРАММА ОЖИДАЕТ
+
 autodoc-error-missing-patient = ПАЦИЕНТ ОТСУТСТВУЕТ
 autodoc-error-body-part = ЧАСТЬ ТЕЛА НЕ ОБНАРУЖЕНА
 autodoc-error-surgery-impossible = ВЫБРАННАЯ ОПЕРАЦИЯ НЕВОЗМОЖНА
@@ -18,6 +20,7 @@ autodoc-error-surgery-failed = ОПЕРАЦИЯ ПРОВАЛЕНА
 autodoc-error-hand-full = МАНИПУЛЯТОР ПРЕДМЕТОВ ЗАПОЛНЕН
 autodoc-error-storage-full = ЛОТКИ ДЛЯ ПРЕДМЕТОВ ЗАПОЛНЕНЫ
 autodoc-error-patient-unsedated = ПАЦИЕНТ ТРЕБУЕТ СЕДАТИВНОГО СРЕДСТВА
+
 # These intentionally have russian alongside them for ostranauts-like aesthetic.
 # If you are a russian fork, these don't need translating :)
 # Если вы являетесь русскоязычным форком, то они не нуждаются в переводе :)
@@ -26,6 +29,7 @@ autodoc-create-program = НОВАЯ ПРОГРАММА
 autodoc-program-title = НАЗВАНИЕ ПРОГРАММЫ
 autodoc-program-title-placeholder = Программа { $number }
 autodoc-abort-program = ОТМЕНИТЬ ПРОГРАММУ
+
 autodoc-view-program-title = ПРОСМОТРЕТЬ ПРОГРАММУ
 autodoc-safety-enabled = БЕЗОПАСНОСТЬ ВКЛ
 autodoc-safety-disabled = БЕЗОПАСНОСТЬ ВЫКЛ
@@ -33,6 +37,7 @@ autodoc-remove-program = УДАЛИТЬ ПРОГРАММУ
 autodoc-add-step = ДОБАВИТЬ ШАГ
 autodoc-remove-step = УДАЛИТЬ ШАГ
 autodoc-start-program = ЗАПУСТИТЬ ПРОГРАММУ
+
 autodoc-add-step-surgery = ПРОВЕСТИ ОПЕРАЦИЮ
 autodoc-add-step-grab-item = ВЗЯТЬ ПРЕДМЕТ
 autodoc-add-step-grab-item-prompt = Название предмета
@@ -44,6 +49,7 @@ autodoc-add-step-set-label = УСТАНОВИТЬ МЕТКУ
 autodoc-add-step-set-label-prompt = Метка
 autodoc-add-step-wait = ЖДАТЬ
 autodoc-add-step-wait-prompt = Секунд ожидания
+
 autodoc-body-part-Other = Другое
 autodoc-body-part-Torso = Туловище
 autodoc-body-part-Head = Голова
@@ -52,8 +58,10 @@ autodoc-body-part-Hand = Кисть
 autodoc-body-part-Leg = Нога
 autodoc-body-part-Foot = Ступня
 autodoc-body-part-Tail = Хвост
+
 autodoc-body-symmetry-ignored = Любая
 autodoc-body-symmetry-None = Нет
 autodoc-body-symmetry-Left = Левая
 autodoc-body-symmetry-Right = Правая
+
 autodoc-submit = Подтвердить

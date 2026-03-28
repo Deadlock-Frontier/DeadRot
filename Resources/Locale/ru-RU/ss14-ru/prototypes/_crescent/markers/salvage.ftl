@@ -1,6 +1,6 @@
 ent-ScrapSalvageRandomSpawner = Scrap Spawner
-    .suffix = 50
     .desc = { ent-MarkerBase.desc }
+    .suffix = 50
 ent-TechminingSpawner = Techmining Spawner
-    .suffix = 50
     .desc = { ent-MarkerBase.desc }
+    .suffix = 50

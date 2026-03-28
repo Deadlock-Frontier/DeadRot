@@ -21,4 +21,4 @@ ent-LockerNfsdBailiff = nfsd bailiff locker
 ent-LockerNfsdSheriff = nfsd sheriff's locker
     .desc = { ent-LockerBaseSecure.desc }
 ent-LockerStationRepresentative = station representative's locker
-    .desc = { ent-BaseStructureIndestructible.desc }
+    .desc = { ent-LockerBaseSecure.desc }

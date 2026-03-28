@@ -1,9 +1,9 @@
 ent-MailCommandPinpointerNuclear = { ent-BaseMail }
+    .desc = { ent-BaseMail.desc }
     .suffix = pinpointer mail ops
-    .desc = { ent-BaseMail.desc }
 ent-MailStationRepNFNukeDisk = { ent-BaseMail }
+    .desc = { ent-BaseMail.desc }
     .suffix = nuke disk
-    .desc = { ent-BaseMail.desc }
 ent-MailCommandNFPipebombIntern = { ent-BaseMail }
-    .suffix = pipe and bomb
     .desc = { ent-BaseMail.desc }
+    .suffix = pipe and bomb

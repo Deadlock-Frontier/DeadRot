@@ -1,8 +1,12 @@
 ent-DartSyndicateImpedrezene = syndicate impedrezene dart
     .desc = Try not to prick yourself.
+    .suffix = { ent-ConjuredObject10.suffix }
 ent-DartSyndicateTranquilizer = syndicate tranquilizer dart
     .desc = { ent-DartSyndicateImpedrezene.desc }
+    .suffix = { ent-DartSyndicateImpedrezene.suffix }
 ent-DartAberrantFleshHorrorSpike = bone spike
     .desc = { ent-DartSyndicateImpedrezene.desc }
+    .suffix = { ent-DartSyndicateImpedrezene.suffix }
 ent-DartAberrantFleshHorrorSpikeCluster = bone spike
     .desc = { ent-ConjuredObject10.desc }
+    .suffix = { ent-ConjuredObject10.suffix }

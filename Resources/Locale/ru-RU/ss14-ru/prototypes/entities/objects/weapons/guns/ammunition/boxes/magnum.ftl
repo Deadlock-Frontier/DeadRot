@@ -1,5 +1,5 @@
-ent-BaseMagazineBoxMagnum = { ent-BaseItem }
-    .desc = { ent-BaseItem.desc }
+ent-BaseMagazineBoxMagnum = { ent-BaseMagazineBox }
+    .desc = { ent-BaseMagazineBox.desc }
 ent-MagazineBoxMagnum = коробка патронов (.45 магнум)
     .desc = { ent-BaseMagazineBoxMagnum.desc }
 ent-MagazineBoxMagnumPractice = коробка патронов (.45 магнум учебные)

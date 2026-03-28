@@ -1,6 +1,6 @@
 ent-ClothingShoesBootsMagDSMFilled = { ent-ClothingShoesBootsMagDSM }
-    .suffix = Filled
     .desc = { ent-ClothingShoesBootsMagDSM.desc }
-ent-ClothingShoesBootsMagNCWLFilled = { ent-ClothingShoesBootsMagNCWL }
     .suffix = Filled
+ent-ClothingShoesBootsMagNCWLFilled = { ent-ClothingShoesBootsMagNCWL }
     .desc = { ent-ClothingShoesBootsMagNCWL.desc }
+    .suffix = Filled

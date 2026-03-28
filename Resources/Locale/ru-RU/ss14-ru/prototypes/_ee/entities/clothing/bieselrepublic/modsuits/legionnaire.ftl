@@ -9,5 +9,5 @@ ent-ClothingModsuitChestplateTCFLLegionnaire = TCFL-Legionnaire modsuit chestpla
 ent-ClothingModsuitBootsTCFLLegionnaire = TCFL-Legionnaire modsuit boots
     .desc = A state-of-the-art pair of magboots for the Legionnaire modsuit. So long as the suit is powered, these will not slow the wearer down.
 ent-SuitStorageTCFLLegionnaire = { ent-SuitStorageBase }
-    .suffix = TCFL Modsuit
     .desc = { ent-SuitStorageBase.desc }
+    .suffix = TCFL Modsuit

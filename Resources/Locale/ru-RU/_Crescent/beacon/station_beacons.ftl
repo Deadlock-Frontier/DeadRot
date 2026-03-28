@@ -10,6 +10,7 @@ station-beacon-crescent-hoq = HoQ
 station-beacon-crescent-briefing = Briefing
 station-beacon-crescent-conference = Conference
 station-beacon-crescent-pdtconsole = PDT Toggle
+
 station-beacon-crescent-security = Security
 station-beacon-crescent-armory = Armory
 station-beacon-crescent-gunnery = Gunnery
@@ -18,12 +19,14 @@ station-beacon-crescent-gunport = Gunport
 station-beacon-crescent-artillery = Artillery
 station-beacon-crescent-brig = Brig
 station-beacon-crescent-checkpoint = Checkpoint
+
 station-beacon-crescent-medical = Medical
 station-beacon-crescent-medbay = Medbay
 station-beacon-crescent-chemistry = Chemistry
 station-beacon-crescent-cloning = Cloning
 station-beacon-crescent-morgue = Morgue
 station-beacon-crescent-surgery = Surgery
+
 station-beacon-crescent-supply = Supply
 station-beacon-crescent-cargo = Cargo
 station-beacon-crescent-manufacturing = Manufacturing
@@ -35,6 +38,7 @@ station-beacon-crescent-salvage = Salvage
 station-beacon-crescent-commissary = Commissary
 station-beacon-crescent-dispensary = Dispensary
 station-beacon-crescent-deedconsole = Deed Console
+
 station-beacon-crescent-engineering = Engineering
 station-beacon-crescent-ame = AME
 station-beacon-crescent-solars = Solars
@@ -49,6 +53,7 @@ station-beacon-crescent-gravgen = Gravgen
 station-beacon-crescent-anchor = Anchor
 station-beacon-crescent-shield = Shield
 station-beacon-crescent-mechbay = MechBay
+
 station-beacon-crescent-service = Service
 station-beacon-crescent-kitchen = Kitchen
 station-beacon-crescent-bar = Bar
@@ -61,6 +66,7 @@ station-beacon-crescent-docking = Docking
 station-beacon-crescent-church = Church
 station-beacon-crescent-library = Library
 station-beacon-crescent-dorms = Dorms
+
 station-beacon-crescent-cryosleep = Cryosleep
 station-beacon-crescent-disposals = Disposals
 station-beacon-crescent-escapepods = Escape Pod

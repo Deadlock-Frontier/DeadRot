@@ -1,11 +1,11 @@
 ent-ClothingUniformJumpsuitNCWL = homeguard fatigues
-    .desc = Built for the NCWL's Homeguard - combat turtleneck and fatigues for the proletariat warrior.
+    .desc = Built for the NCWL's Homeguard — combat turtleneck and fatigues for the proletariat warrior.
 ent-ClothingUniformJumpsuitNCWLMedic = homeguard combat medic fatigues
-    .desc = Built for the NCWL's Homeguard - combat turtleneck and fatigues for the proletariat combat medic.
+    .desc = Built for the NCWL's Homeguard — combat turtleneck and fatigues for the proletariat combat medic.
 ent-ClothingUniformJumpsuitNCWLArtificer = homeguard artificer fatigues
-    .desc = Built for the NCWL's Homeguard - combat turtleneck and fatigues for the proletariat combat medic.
+    .desc = Built for the NCWL's Homeguard — combat turtleneck and fatigues for the proletariat combat medic.
 ent-ClothingUniformJumpsuitNCWLKommissar = kommissar's turtleneck
-    .desc = Built for the NCWL's Homeguard - combat turtleneck and fatigues for the kommissar.
+    .desc = Built for the NCWL's Homeguard — combat turtleneck and fatigues for the kommissar.
 ent-ClothingUniformJumpsuitNCWLCommunications = administrator's uniform
     .desc = Built for the League's ranking officebodies. This military outfit bears many golden medals and insignias you don't recognize.
 ent-ClothingUniformJumpsuitNCWLTelnikSleeved = communard telnik

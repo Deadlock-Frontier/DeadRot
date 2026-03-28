@@ -9,5 +9,5 @@ ent-ClothingModsuitChestplatePraetorian = Praetorian modsuit chestplate
 ent-ClothingModsuitBootsPraetorian = Praetorian modsuit boots
     .desc = A state-of-the-art pair of magboots for the Praetorian modsuit. So long as the suit is powered, these will not slow the wearer down.
 ent-SuitStoragePraetorian = { ent-SuitStorageBase }
-    .suffix = Praetorian Modsuit
     .desc = { ent-SuitStorageBase.desc }
+    .suffix = Praetorian Modsuit

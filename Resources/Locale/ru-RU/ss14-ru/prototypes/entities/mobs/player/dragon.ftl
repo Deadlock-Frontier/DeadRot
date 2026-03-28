@@ -6,8 +6,8 @@ ent-MobDragon = { ent-BaseMobDragon }
 ent-DragonsBreathGun = драконье лёгкое
     .desc = Для драконьего дыхания.
 ent-MobDragonDungeon = { ent-BaseMobDragon }
-    .suffix = Подземелье
     .desc = { ent-BaseMobDragon.desc }
+    .suffix = Подземелье
 ent-ActionSpawnRift = Создать карповый разлом
     .desc = Создать карповый разлом, который будет периодически призывать карпов.
 ent-ActionDevour =  [color=red]Поглотить[/color]

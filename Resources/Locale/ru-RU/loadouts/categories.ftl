@@ -1,3 +1,5 @@
+# Alphabetically ordered, except for Uncategorized since it is always first
+
 loadout-category-Uncategorized = Без категории
 loadout-category-Accessories = Аксессуары
 loadout-category-Backpacks = Рюкзаки
@@ -5,10 +7,12 @@ loadout-category-Eyes = Глаза
 loadout-category-Hands = Руки
 loadout-category-Head = Голова
 loadout-category-Items = Предметы
-# Профессии
+
+# Jobs
 loadout-category-Jobs = Профессии
 loadout-category-JobsAUncategorized = Без категории
-# Командование
+
+# Command
 loadout-category-JobsCommand = Командование
 loadout-category-JobsCommandAUncategorized = Всё командование
 loadout-category-JobsCommandCaptain = Капитан
@@ -17,7 +21,8 @@ loadout-category-JobsCommandAdminAssistant = Административный а
 loadout-category-JobsCommandBlueshieldOfficer = Офицер "Блющит"
 loadout-category-JobsCommandNanorep = Корпоративный представитель
 loadout-category-JobsCommandMagistrate = Магистрат
-# Инженерный отдел
+
+# Engineering
 loadout-category-JobsEngineering = Инженерный отдел
 loadout-category-JobsEngineeringAAUncategorized = Все инженеры
 loadout-category-JobsEngineeringAtmosphericTechnician = Атмосферный техник
@@ -25,7 +30,8 @@ loadout-category-JobsEngineeringChiefEngineer = Старший инженер
 loadout-category-JobsEngineeringSeniorEngineer = Инженер-стажёр
 loadout-category-JobsEngineeringStationEngineer = Станционный инженер
 loadout-category-JobsEngineeringTechnicalAssistant = Технический ассистент
-# Эпистемика
+
+# Epistemics
 loadout-category-JobsEpistemics = Эпистемика
 loadout-category-JobsEpistemicsAAUncategorized = Все эпистемологи
 loadout-category-JobsEpistemicsAcolyte = Послушник
@@ -36,14 +42,16 @@ loadout-category-JobsEpistemicsMystagogue = Мистагог
 loadout-category-JobsEpistemicsMystic = Мистик
 loadout-category-JobsEpistemicsNoviciate = Новобранец
 loadout-category-JobsEpistemicsPsionicMantis = Псионический богомол
-# Логистика
+
+# Logistics
 loadout-category-JobsLogistics = Логистика
 loadout-category-JobsLogisticsAUncategorized = Вся логистика
 loadout-category-JobsLogisticsCargoTechnician = Грузчик
 loadout-category-JobsLogisticsCourier = Курьер
 loadout-category-JobsLogisticsLogisticsOfficer = Офицер логистики
 loadout-category-JobsLogisticsSalvageSpecialist = Специалист по утилизации
-# Медицинский отдел
+
+# Medical
 loadout-category-JobsMedical = Медицинский отдел
 loadout-category-JobsMedicalAUncategorized = Весь медперсонал
 loadout-category-JobsMedicalChemist = Химик
@@ -53,7 +61,8 @@ loadout-category-JobsMedicalMedicalIntern = Медицинский интерн
 loadout-category-JobsMedicalParamedic = Парамедик
 loadout-category-JobsMedicalPsychologist = Психолог
 loadout-category-JobsMedicalSeniorPhysician = Старший врач
-# Служба безопасности
+
+# Security
 loadout-category-JobsSecurity = Служба безопасности
 loadout-category-JobsSecurityWeapons = Служебное оружие
 loadout-category-JobsSecurityAUncategorized = Вся безопасность
@@ -63,7 +72,8 @@ loadout-category-JobsSecurityDetective = Детектив
 loadout-category-JobsSecurityHeadOfSecurity = Глава службы безопасности
 loadout-category-JobsSecuritySecurityOfficer = Офицер безопасности
 loadout-category-JobsSecurityWarden = Надзиратель
-# Обслуживание
+
+# Service
 loadout-category-JobsService = Обслуживание
 loadout-category-JobsServiceAUncategorized = Весь обслуживающий персонал
 loadout-category-JobsServiceBartender = Бармен
@@ -75,10 +85,12 @@ loadout-category-JobsServiceLawyer = Юрист
 loadout-category-JobsServiceMime = Мим
 loadout-category-JobsServiceMusician = Музыкант
 loadout-category-JobsServiceReporter = Репортёр
-# Разное
+
+# Misc
 loadout-category-JobsZMisc = Разное
 loadout-category-JobsZMiscAUncategorized = Всякое разное
 loadout-category-JobsZMiscPrisoner = Заключённый
+
 loadout-category-Mask = Маска
 loadout-category-Neck = Шея
 loadout-category-Outer = Верхняя одежда

@@ -4,5 +4,6 @@ ent-MobBatRemilia = Ремилия
     .desc = Фамильяр священника. Любит фрукты.
 ent-MobCorgiCerberus = Цербер
     .desc = Этот щеночек совсем не милый.
+    .suffix = { ent-MobCorgiNarsi.suffix }
 ent-MobPsionicFamiliarImp = imp familiar
     .desc = A living mote of flame summoned from Gehenna.

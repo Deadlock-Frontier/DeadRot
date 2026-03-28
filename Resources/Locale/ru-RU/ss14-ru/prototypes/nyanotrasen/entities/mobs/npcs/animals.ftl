@@ -1,2 +1,3 @@
 ent-MobFerretWhite = white ferret
     .desc = { ent-MobFerret.desc }
+    .suffix = { ent-MobFerret.suffix }

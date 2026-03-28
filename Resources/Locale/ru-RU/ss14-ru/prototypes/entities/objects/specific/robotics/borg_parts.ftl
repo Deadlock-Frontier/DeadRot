@@ -1,3 +1,15 @@
+ent-LeftArmBorg = { ent-BaseBorgLeftArm }
+    .desc = { ent-BaseBorgLeftArm.desc }
+ent-RightArmBorg = { ent-BaseBorgRightArm }
+    .desc = { ent-BaseBorgRightArm.desc }
+ent-LeftLegBorg = { ent-BaseBorgLegLeft }
+    .desc = { ent-BaseBorgLegLeft.desc }
+ent-RightLegBorg = { ent-BaseBorgLegRight }
+    .desc = { ent-BaseBorgLegRight.desc }
+ent-LightHeadBorg = { ent-BaseLightHeadBorg }
+    .desc = { ent-BaseLightHeadBorg.desc }
+ent-TorsoBorg = { ent-BaseBorgTorso }
+    .desc = { ent-BaseBorgTorso.desc }
 ent-LeftArmBorgEngineer = engineer cyborg left arm
     .desc = { ent-BaseBorgLeftArm.desc }
 ent-RightArmBorgEngineer = engineer cyborg right arm

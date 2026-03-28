@@ -1,4 +1,5 @@
-
+ent-PrisonerIDCard = ID-карта заключённого
+    .desc = { ent-IDCardStandard.desc }
 ent-GladiatorIDCard = gladiator ID card
     .desc = { ent-IDCardStandard.desc }
 ent-PrisonGuardIDCard = prison guard ID card

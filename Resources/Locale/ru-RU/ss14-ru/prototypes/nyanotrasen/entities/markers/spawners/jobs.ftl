@@ -1,10 +1,15 @@
 ent-SpawnPointGladiator = gladiator
     .desc = { ent-SpawnPointJobBase.desc }
+    .suffix = { ent-SpawnPointJobBase.suffix }
 ent-SpawnPointPrisoner = prisoner
     .desc = { ent-SpawnPointJobBase.desc }
+    .suffix = { ent-SpawnPointJobBase.suffix }
 ent-SpawnPointPrisonGuard = prison guard
     .desc = { ent-SpawnPointJobBase.desc }
+    .suffix = { ent-SpawnPointJobBase.suffix }
 ent-SpawnPointMailCarrier = courier
     .desc = { ent-SpawnPointJobBase.desc }
+    .suffix = { ent-SpawnPointJobBase.suffix }
 ent-SpawnPointMartialArtist = martial artist
     .desc = { ent-SpawnPointJobBase.desc }
+    .suffix = { ent-SpawnPointJobBase.suffix }

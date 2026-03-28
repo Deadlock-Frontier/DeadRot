@@ -1,6 +1,6 @@
 ent-MobTajaranRandom = Urist McTajaran
-    .suffix = Random Appearance
     .desc = { ent-MobTajaran.desc }
-ent-MobVulpkaninRandom = Urist McVulp
     .suffix = Random Appearance
+ent-MobVulpkaninRandom = Urist McVulp
     .desc = { ent-MobVulpkanin.desc }
+    .suffix = Random Appearance

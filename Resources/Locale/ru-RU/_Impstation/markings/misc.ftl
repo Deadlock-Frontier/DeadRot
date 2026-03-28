@@ -10,6 +10,7 @@ marking-SpiderEyesMulti-spidereyesmulti1 = Top
 marking-SpiderEyesMulti-spidereyesmulti2 = Middle Top
 marking-SpiderEyesMulti-spidereyesmulti3 = Middle Bottom
 marking-SpiderEyesMulti-spidereyesmulti4 = Bottom
+
 # diona
 marking-DionaLivingNymph = Living Nymphs
 marking-DionaLivingNymph-dionalivingnymph = Living Nymphs
@@ -23,49 +24,7 @@ marking-DionaFirefly = Fireflies
 marking-DionaFirefly-dionafirefly = Fireflies
 marking-DionaPollenDust = Pollen Cloud
 marking-DionaPollenDust-dionapollendust = Pollen Cloud
-# dwarves
-marking-DwarfBearCheeks = Glowing Cheeks
-marking-DwarfBearCheeks-dwarfbearcheeks = Glowing Cheeks
-marking-DwarfHeadGlow = Glowing Star
-marking-DwarfHeadGlow-dwarfheadglow = Glowing Star
-marking-DwarfConstellationHead = Head Constellation
-marking-DwarfConstellationHead-dwarfconstellationhead = Head Constellation
-marking-DwarfConstellationChest = Chest Constellation
-marking-DwarfConstellationChest-dwarfconstellationchest = Chest Constellation
-marking-DwarfConstellationLArm = Arm Constellation (Left)
-marking-DwarfConstellationLArm-dwarfconstellationlarm = Arm Constellation (Left)
-marking-DwarfConstellationRArm = Arm Constellation (Right)
-marking-DwarfConstellationRArm-dwarfconstellationrarm = Arm Constellation (Right)
-marking-DwarfConstellationLHand = Hand Constellation (Left)
-marking-DwarfConstellationLHand-dwarfconstellationlhand = Hand Constellation (Left)
-marking-DwarfConstellationRHand = Hand Constellation (Right)
-marking-DwarfConstellationRHand-dwarfconstellationrhand = Hand Constellation (Right)
-marking-DwarfConstellationLLeg = Leg Constellation (Left)
-marking-DwarfConstellationLLeg-dwarfconstellationlleg = Leg Constellation (Left)
-marking-DwarfConstellationRLeg = Leg Constellation (Right)
-marking-DwarfConstellationRLeg-dwarfconstellationrleg = Leg Constellation (Right)
-marking-DwarfConstellationLFoot = Foot Constellation (Left)
-marking-DwarfConstellationLFoot-dwarfconstellationlfoot = Foot Constellation (Left)
-marking-DwarfConstellationRFoot = Foot Constellation (Right)
-marking-DwarfConstellationRFoot-dwarfconstellationrfoot = Foot Constellation (Right)
-marking-DwarfChestHair = Chest Hair
-marking-DwarfChestHair-dwarfchesthair = Chest Hair
-marking-DwarfArmHair = Arm Hair
-marking-DwarfArmHair-dwarfarmhair = Arm Hair
-marking-DwarfLegHair = Leg Hair
-marking-DwarfLegHair-dwarfleghair = Leg Hair
-marking-DwarfTattooShootingStar = Shooting Star Tattoo
-marking-DwarfTattooShootingStar-dwarftattooshootingstar = Shooting Star Tattoo
-marking-DwarfMarkBear = Mark of the Bear
-marking-DwarfMarkBear-dwarfmarkbear = Mark of the Bear
-marking-DwarfMarkKangarooLHand = Mark of the Kangaroo (Left)
-marking-DwarfMarkKangarooLHand-dwarfmarkkangaroolhand = Mark of the Kangaroo (Left)
-marking-DwarfMarkKangarooRHand = Mark of the Kangaroo (Right)
-marking-DwarfMarkKangarooRHand-dwarfmarkkangaroo = Mark of the Kangaroo (Right)
-marking-DwarfMarkCobra = Mark of the Cobra
-marking-DwarfMarkCobra-dwarfmarkcobra = Mark of the Cobra
-marking-DwarfMarkSpider = Mark of the Spider
-marking-DwarfMarkSpider-dwafmarkspider = Mark of the Spider
+
 # humans
 marking-VitiligoHeadL = Vitiligo (Left Eye)
 marking-VitiligoHeadR = Vitiligo (Right Eye)
@@ -78,6 +37,7 @@ marking-VitiligoArmL = Vitiligo (Left Arm)
 marking-VitiligoLegL = Vitiligo (Left)
 marking-VitiligoChestF = Vitiligo Spread
 marking-VitiligoChestSpots = Vitiligo Spots
+
 # moths
 marking-MothTrueButterfly = Wings (Rainbow)
 marking-MothTrueButterfly-mothtruebutterfly1 = Stripes
@@ -90,10 +50,8 @@ marking-MothFireflyOverlay-mothfirefly1 = Firefly Overlay
 marking-MothFirefly = Wings (Firefly)
 marking-MothFirefly-mothfirefly2 = Firefly Wings
 marking-MothBee = Wings (Bumblebee)
-# Frontier: stripes < Stripes
 marking-MothBee-bee1 = Outer Stripes
 marking-MothBee-bee2 = Wings
-# Frontier: stripe < Stripe
 marking-MothBee-bee3 = Inner Stripe
 marking-MothBeetleTail = Beetle Wings (Junebug)
 marking-MothBeetleTail-beetle1 = Outline
@@ -116,6 +74,7 @@ marking-MothRhinoBeetle = Beetle Wings (Rhino)
 marking-MothRhinoBeetle-rhinobeetle1 = Outline
 marking-MothRhinoBeetle-rhinobeetle2 = Shine
 marking-MothRhinoBeetle-rhinobeetle3 = Wings
+
 # slimes
 marking-fizz = Fizz
 marking-fizz-fizz = Fizz
@@ -123,12 +82,12 @@ marking-bubble = Bubbles
 marking-bubble-bubble = Bubbles
 marking-fishbowl = Fishbowl
 marking-fishbowl-fishbowl1 = Fish
-# Frontier: bubbles < Bubbles
 marking-fishbowl-fishbowl2 = Fish Bubbles
 marking-FadingStars = Fading Starlight
 marking-FadingStars-fadingstars1 = Brightest
 marking-FadingStars-fadingstars2 = Middling
 marking-FadingStars-fadingstars3 = Darkest
+
 # vox
 marking-VoxCocktail = Cocktail
 marking-VoxCocktail-voxcocktail1 = Feathers
@@ -161,11 +120,6 @@ marking-VoxLegGradientLLeg-voxfootgradientl2 = Solid (Left Leg)
 marking-VoxLegGradientRLeg = Solid (Right Leg)
 marking-VoxLegGradientRLeg-voxfootgradientr2 = Solid (Left Leg)
 marking-VoxHandGradientRHand = Gradient (Right Hand)
-# chitinid
-marking-ChitinidBeetleHorn1 = Beetle Horn (Pronged)
-marking-ChitinidBeetleHorn1-chitinidbeetlehorn1 = Beetle Horn (Lance)
-marking-ChitinidBeetleHorn2 = Beetle Horn (Lance)
-marking-ChitinidBeetleHorn2-chitinidbeetlehorn2 = Beetle Horn (Pronged)
 marking-VoxHandGradientRHand-voxhandgradientr1 = Bottom
 marking-VoxHandGradientRHand-voxhandgradientr2 = Middle
 marking-VoxHandGradientRHand-voxhandgradientr3 = Top
@@ -208,5 +162,11 @@ marking-VoxBelly = Belly
 marking-VoxBelly-voxbelly = Belly
 marking-VoxTailBalled = Thrasher
 marking-VoxTailBalled-voxtailballed = Thrasher
-# upstream vox markings dont have localized names. lmfao
-# these are just straight up broken and shouldnt be visible from the markings menu period but ALAS im not skilled enough to remove them so you get this stupid botch job instead
+marking-VoxTailSplit = Вокс, Хвост (Разделённый)
+marking-VoxTailSplit-voxtailsplit = Twinned
+
+# chitinid
+marking-ChitinidBeetleHorn1 = Beetle Horn (Pronged)
+marking-ChitinidBeetleHorn1-chitinidbeetlehorn1 = Beetle Horn (Lance)
+marking-ChitinidBeetleHorn2 = Beetle Horn (Lance)
+marking-ChitinidBeetleHorn2-chitinidbeetlehorn2 = Beetle Horn (Pronged)

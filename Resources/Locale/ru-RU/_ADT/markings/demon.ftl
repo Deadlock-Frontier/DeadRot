@@ -22,6 +22,7 @@ marking-DemonChestTreeLines = Tree Lines
 marking-DemonChestTreeLines-tree_lines = Tree Lines
 marking-DemonChestTrinitySpots = Trinity Spots
 marking-DemonChestTrinitySpots-trinity_spots = Trinity Spots
+
 marking-DemonCowHorns = Cow Horns
 marking-DemonCowHorns-cow_horns = Cow Horns
 marking-DemonHornsDeer = Deer Horns

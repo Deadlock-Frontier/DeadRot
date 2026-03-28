@@ -1,6 +1,5 @@
 marking-MothAntennasClassicAspen = Antennas (Aspen, Classic)
 marking-MothAntennasClassicBrown = Antennas (Brown, Classic)
-# Frontier: Deathshead < Death's-Head
 marking-MothAntennasClassicDeathshead = Antennas (Death's-Head, Classic)
 marking-MothAntennasClassicFeathery = Antennas (Feathery, Classic)
 marking-MothAntennasClassicFirewatch = Antennas (Firewatch, Classic)
@@ -10,7 +9,6 @@ marking-MothAntennasClassicLovers = Antennas (Lovers, Classic)
 marking-MothAntennasClassicMint = Antennas (Mint, Classic)
 marking-MothAntennasClassicMoffra = Antennas (Moffra, Classic)
 marking-MothAntennasClassicMoonfly = Antennas (Moonfly, Classic)
-# Frontier: Oakworm < Oak Worm
 marking-MothAntennasClassicOakworm = Antennas (Oak Worm, Classic)
 marking-MothAntennasClassicPlain = Antennas (Plain, Classic)
 marking-MothAntennasClassicPlasmafire = Antennas (Plasmafire, Classic)
@@ -20,14 +18,13 @@ marking-MothAntennasClassicRegal = Antennas (Regal, Classic)
 marking-MothAntennasClassicRosy = Antennas (Rosy, Classic)
 marking-MothAntennasClassicRoyal = Antennas (Royal, Classic)
 marking-MothAntennasClassicSnow = Antennas (Snow, Classic)
-# Frontier: Whitefly < White Fly
 marking-MothAntennasClassicWhitefly = Antennas (White Fly, Classic)
 marking-MothAntennasClassicWitchking = Antennas (Witch King, Classic)
+
 
 marking-MothWingsClassicAspen = Wings (Aspen, Classic)
 marking-MothWingsClassicAtlas = Wings (Atlas, Classic)
 marking-MothWingsClassicBrown = Wings (Brown, Classic)
-# Frontier: Deathshead < Death's-Head
 marking-MothWingsClassicDeathshead = Wings (Death's-Head, Classic)
 marking-MothWingsClassicFeathery = Wings (Feathery, Classic)
 marking-MothWingsClassicFirewatch = Wings (Firewatch, Classic)
@@ -39,7 +36,6 @@ marking-MothWingsClassicMint = Wings (Mint, Classic)
 marking-MothWingsClassicMonarch = Wings (Monarch, Classic)
 marking-MothWingsClassicMoonfly = Wings (Moonfly, Classic)
 marking-MothWingsClassicMoffra = Wings (Moffra, Classic)
-# Frontier: Oakworm < Oak Worm
 marking-MothWingsClassicOakworm = Wings (Oak Worm, Classic)
 marking-MothWingsClassicPlain = Wings (Plain, Classic)
 marking-MothWingsClassicPlasmafire = Wings (Plasmafire, Classic)
@@ -49,11 +45,10 @@ marking-MothWingsClassicReddish = Wings (Reddish, Classic)
 marking-MothWingsClassicRosy = Wings (Rosy, Classic)
 marking-MothWingsClassicRoyal = Wings (Royal, Classic)
 marking-MothWingsClassicSnow = Wings (Snow, Classic)
-# Frontier: Whitefly < White Fly
 marking-MothWingsClassicWhitefly = Wings (Whitefly, Classic)
 marking-MothWingsClassicWitchking = Wings (Witch King, Classic)
 
-# Frontier: Deathshead < Death's-Head
+
 marking-MothHeadClassicDeathshead = Moth Head (Death's-Head, Classic)
 marking-MothChestClassicDeathshead = Moth Chest (Death's-Head, Classic)
 marking-MothLArmClassicDeathshead = Moth Left Arm (Death's-Head, Classic)
@@ -96,7 +91,6 @@ marking-MothRArmClassicMoonfly = Moth Right Arm (Moonfly, Classic)
 marking-MothLLegClassicMoonfly = Moth Left Leg (Moonfly, Classic)
 marking-MothRLegClassicMoonfly = Moth Right Leg (Moonfly, Classic)
 
-# Frontier: Oakworm < Oak Worm
 marking-MothHeadClassicOakworm = Moth Head (Oak Worm, Classic)
 marking-MothChestClassicOakworm = Moth Chest (Oak Worm, Classic)
 marking-MothLArmClassicOakworm = Moth Left Arm (Oak Worm, Classic)
@@ -132,7 +126,6 @@ marking-MothRArmClassicRoyal = Moth Right Arm (Royal, Classic)
 marking-MothLLegClassicRoyal = Moth Left Leg (Royal, Classic)
 marking-MothRLegClassicRoyal = Moth Right Leg (Royal, Classic)
 
-# Frontier: Whitefly < White Fly
 marking-MothHeadClassicWhitefly = Moth Head (White Fly, Classic)
 marking-MothChestClassicWhitefly = Moth Chest (White Fly, Classic)
 marking-MothLArmClassicWhitefly = Moth Left Arm (White Fly, Classic)
@@ -140,7 +133,6 @@ marking-MothRArmClassicWhitefly = Moth Right Arm (White Fly, Classic)
 marking-MothLLegClassicWhitefly = Moth Left Leg (White Fly, Classic)
 marking-MothRLegClassicWhitefly = Moth Right Leg (White Fly, Classic)
 
-# Frontier: Witchking < Witch King
 marking-MothHeadClassicWitchking = Moth Head (Witch King, Classic)
 marking-MothChestClassicWitchking = Moth Chest (Witch King, Classic)
 marking-MothLArmClassicWitchking = Moth Left Arm (Witch King, Classic)

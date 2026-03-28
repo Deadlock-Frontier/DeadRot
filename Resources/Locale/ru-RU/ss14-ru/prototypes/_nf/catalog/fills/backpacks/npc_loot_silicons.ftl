@@ -1,11 +1,15 @@
 ent-RogueSiliconGiftBox = rogue unit's bundle
-    .suffix = NPC Loot
     .desc = { ent-BaseItem.desc }
+    .suffix = NPC Loot
 ent-ClothingBackpackRogueSiliconT1 = { ent-RogueSiliconGiftBox }
     .desc = { ent-RogueSiliconGiftBox.desc }
+    .suffix = { ent-RogueSiliconGiftBox.suffix }
 ent-ClothingBackpackRogueSiliconT2 = { ent-RogueSiliconGiftBox }
     .desc = { ent-RogueSiliconGiftBox.desc }
+    .suffix = { ent-RogueSiliconGiftBox.suffix }
 ent-ClothingBackpackRogueSiliconT3 = { ent-RogueSiliconGiftBox }
     .desc = { ent-RogueSiliconGiftBox.desc }
+    .suffix = { ent-RogueSiliconGiftBox.suffix }
 ent-ClothingBackpackRogueSiliconT4 = { ent-RogueSiliconGiftBox }
     .desc = { ent-RogueSiliconGiftBox.desc }
+    .suffix = { ent-RogueSiliconGiftBox.suffix }

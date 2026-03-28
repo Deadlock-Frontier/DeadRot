@@ -1,1 +1,0 @@
-player-tab-balance = Баланс
