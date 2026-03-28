@@ -81,11 +81,19 @@ using Robust.Shared.Audio.Systems;
 using Robust.Shared.Containers;
 using Robust.Shared.Physics.Events;
 using Robust.Shared.Physics.Systems;
+using Content.Server.Station.Systems;
+using Content.Shared._EinsteinEngines.Language;
+using Content.Shared.Humanoid;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Random;
 using Robust.Shared.Player;
 using Content.Shared.Coordinates;
 using Robust.Shared.Utility;
+using Content.Shared.Body.Components; // Frontier: Gib organs
+using Content.Shared.Projectiles; // Frontier: embed triggers
+using Content.Shared.Mind;
+using Content.Shared.Mind.Components;
+using Content.Shared.Roles;
 
 namespace Content.Server.Explosion.EntitySystems
 {
@@ -128,6 +136,7 @@ namespace Content.Server.Explosion.EntitySystems
         [Dependency] private readonly IPrototypeManager _prototypeManager = default!;
         [Dependency] private readonly SolutionContainerSystem _solutionContainerSystem = default!;
         [Dependency] private readonly InventorySystem _inventory = default!;
+        [Dependency] private readonly StationSystem _station = default!; // Frontier: medical insurance
 
         public override void Initialize()
         {
@@ -233,7 +242,7 @@ namespace Content.Server.Explosion.EntitySystems
             if (implanted.ImplantedEntity == null)
                 return;
 
-            // Gets location coords of the implant
+            // Gets location of the implant
             var ownerXform = Transform(uid);
             var pos = ownerXform.MapPosition;
             var x = (int) pos.X;
@@ -245,35 +254,49 @@ namespace Content.Server.Explosion.EntitySystems
             var stationText = station is null ? null : Name(station.Value); // Ru-Localization
 
             if (stationText == null)
-                stationText = "";
+                stationText = "null"; // Ru-Localization
 
             // Frontier: Gets species of the implant user
-            var speciesText = "";
+            var speciesText = "null"; // Ru-Localization
             if (TryComp<HumanoidAppearanceComponent>(implanted.ImplantedEntity, out var humanoid)) // Ru-Localization
             {
                 var species = _prototypeManager.Index(humanoid.Species); // Ru-Localization
                 speciesText = Loc.GetString(species.Name); // Ru-Localization
             }
 
-            var critMessage = Loc.GetString(component.CritMessage, ("user", implanted.ImplantedEntity.Value), ("specie", speciesText), ("grid", stationText!), ("position", posText));
-            var deathMessage = Loc.GetString(component.DeathMessage, ("user", implanted.ImplantedEntity.Value), ("specie", speciesText), ("grid", stationText!), ("position", posText));
+            var critMessage = Loc.GetString(component.CritMessage, ("user", implanted.ImplantedEntity.Value), ("specie", speciesText), ("grid", stationText), ("position", posText));
+            var deathMessage = Loc.GetString(component.DeathMessage, ("user", implanted.ImplantedEntity.Value), ("specie", speciesText), ("grid", stationText), ("position", posText));
 
             if (!TryComp<MobStateComponent>(implanted.ImplantedEntity, out var mobstate))
                 return;
 
-            // Sends a message to the radio channel specified by the implant
-            if (mobstate.CurrentState == MobState.Critical)
-                _radioSystem.SendRadioMessage(uid, critMessage, _prototypeManager.Index<RadioChannelPrototype>(component.RadioChannel), uid);
-            if (mobstate.CurrentState == MobState.Dead)
-                _radioSystem.SendRadioMessage(uid, deathMessage, _prototypeManager.Index<RadioChannelPrototype>(component.RadioChannel), uid);
+            if (mobstate.CurrentState != MobState.Alive)
+            {
+                var radioChannel = _prototypeManager.Index(component.RadioChannel);
+                var language = _prototypeManager.Index(component.Language);
+                switch (mobstate.CurrentState)
+                {
+                    case MobState.Critical:
+                    {
+                        _radioSystem.SendRadioMessage(uid, critMessage, radioChannel, uid, null, language);
+                        break;
+                    }
+                    case MobState.Dead:
+                    {
+                        _radioSystem.SendRadioMessage(uid, deathMessage, radioChannel, uid, null, language);
+                        break;
+                    }
+                }
+            }
 
             args.Handled = true;
         }
+        // End Frontier
 
         private void OnTriggerCollide(EntityUid uid, TriggerOnCollideComponent component, ref StartCollideEvent args)
         {
             if (args.OurFixtureId == component.FixtureID && (!component.IgnoreOtherNonHard || args.OtherFixture.Hard))
-                Trigger(uid);
+                Trigger(uid, args.OtherEntity);
         }
 
         private void OnSpawnTriggered(EntityUid uid, TriggerOnSpawnComponent component, MapInitEvent args)
