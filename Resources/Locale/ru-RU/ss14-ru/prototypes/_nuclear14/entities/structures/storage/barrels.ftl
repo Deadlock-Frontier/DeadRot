@@ -1,8 +1,8 @@
 ent-N14BaseBarrel = barrel
     .desc = This barrel looks like it could contain something.
 ent-N14BaseBarrelOpen = { ent-N14BaseBarrel }
-    .suffix = open
     .desc = { ent-N14BaseBarrel.desc }
+    .suffix = open
 ent-N14BlackBarrel = black barrel
     .desc = A worn out black barrel. The label is torn off.
 ent-N14BlueBarrel = blue barrel

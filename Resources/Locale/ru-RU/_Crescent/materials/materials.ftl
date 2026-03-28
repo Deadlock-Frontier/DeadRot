@@ -1,7 +1,6 @@
 ## scrap
-
 materials-scrap-lowgrade = low-grade metal scrap
-materials-scrap-highgrade = high-grade metal scrap
+materials-scrap-highgrade =  high-grade metal scrap
 materials-scrap-circuit = damaged electronics
 materials-scrap-plasma = plasma isotope salvage
 materials-scrap-uranium = discarded fissiles
@@ -40,6 +39,7 @@ materials-plastitaniumfibrealloy = plastitanium fibre alloy
 
 materials-unit-canister = units
 materials-unit-liter = liters
+
 # Industry
 materials-iron = pig iron
 materials-carbon = carbon

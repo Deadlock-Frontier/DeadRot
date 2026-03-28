@@ -1,8 +1,8 @@
 ent-ClothingHeadEnvirohelm = plasma envirosuit helmet
     .desc = A special containment helmet that allows plasma-based lifeforms to exist safely in an oxygenated environment.
 ent-ClothingHeadEnvirohelmEmpty = { ent-ClothingHeadEnvirohelm }
-    .suffix = Empty
     .desc = { ent-ClothingHeadEnvirohelm.desc }
+    .suffix = Empty
 ent-ClothingHeadEnvirohelmAtmos = atmospherics envirosuit helmet
     .desc = A space-worthy helmet specially designed for atmos technician Plasmamen, the usual purple stripes being replaced by atmos' blue.
 ent-ClothingHeadEnvirohelmCargo = logistics envirosuit helmet

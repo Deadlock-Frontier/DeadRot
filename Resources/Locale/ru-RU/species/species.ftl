@@ -13,5 +13,7 @@ species-name-vox = Вокс
 species-name-ipc = КПБ
 species-name-voidborn = Voidborn
 species-name-plasmaman = Plasmaman
-species-name-gingerbread = вкуснейшая выпечка
+
+## Misc species things
+
 snail-hurt-by-salt-popup = Солевой раствор жжёт как кислота!

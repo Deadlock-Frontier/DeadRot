@@ -1,6 +1,6 @@
 ent-AirlockMailLocked = { ent-AirlockCargo }
-    .suffix = Mail, Locked
     .desc = { ent-AirlockCargo.desc }
-ent-AirlockMailGlassLocked = { ent-AirlockCargoGlass }
     .suffix = Mail, Locked
+ent-AirlockMailGlassLocked = { ent-AirlockCargoGlass }
     .desc = { ent-AirlockCargoGlass.desc }
+    .suffix = Mail, Locked

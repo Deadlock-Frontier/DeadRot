@@ -6,6 +6,7 @@ loadcharacter-command-fetching = Fetching character data for { $name }...
 loadcharacter-command-fetching-failed = Failed to fetch character data!
 loadcharacter-command-failed-fetching = Profile fetching failed???
 loadcharacter-command-hint-select = Select character
+
 spawncharacter-command-description = Spawns your currently selected/specified character
 spawncharacter-command-help = Usage: spawncharacter | spawncharacter <characterName>
 spawncharacter-command-complete = Character spawned.

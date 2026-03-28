@@ -1,5 +1,6 @@
 ent-MetalFoamGrenadeFast = rapid metal foam grenade
     .desc = An emergency tool used for patching up holes. Hopefully as good as real walls.
+    .suffix = { ent-SmokeGrenade.suffix }
 ent-TrollNade = troll plushie
     .desc = Feels mischevious.
     .suffix = FAKE PLUSH FAKE!!!

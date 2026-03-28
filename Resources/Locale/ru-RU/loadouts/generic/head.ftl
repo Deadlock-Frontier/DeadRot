@@ -1,5 +1,6 @@
 loadout-description-LoadoutHeadBeaverHat = Gentlemen.
 loadout-description-LoadoutHeadTophat = A stylish black tophat.
+
 loadout-name-LoadoutHeadFedoraWhite = fedora (colorable)
 loadout-name-LoadoutHeadHatCowboyWhite = cowboy hat (colorable)
 loadout-name-LoadoutHeadHatMimesoft = baseball cap (colorable)

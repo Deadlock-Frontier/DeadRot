@@ -7,10 +7,13 @@ loadout-name-LoadoutEyesGlassesPanto = panto glasses (colorable)
 loadout-description-LoadoutEyesBlindfold = Why would you want this?
 loadout-name-LoadoutEyesBlindfoldColor = blindfold (colorable)
 loadout-description-LoadoutEyesBlindfoldColor = Why would you want this? At least it comes in a wide assortment of colors.
+
 loadout-name-LoadoutEyesGlassesCheapSunglassesAviator = aviators (colorable)
 loadout-name-LoadoutEyesGlassesSunglassesAviator = shielded aviators (colorable)
+
 loadout-name-LoadoutItemBlindfoldFake = "blind"fold
 loadout-description-LoadoutItemBlindfoldFake = This product may not work as advertised.
 loadout-name-LoadoutEyesBlindfoldFakeColor = "blind"fold (colorable)
 loadout-description-LoadoutEyesBlindfoldFakeColor = This product may not work as advertised.
+
 loadout-name-LoadoutEyesGlasses = glasses (colorable)

@@ -1,6 +1,9 @@
-
+ent-MobTomatoKiller = томат-убийца
+    .desc = Похоже, сегодня не вы едите томаты, а томаты едят вас.
+    .suffix = { ent-SimpleSpaceMobBase.suffix }
 ent-MobGiantSpiderVampire = oneirophage
     .desc = The 'dream-eater' spider, rumored to be one of the potential genetic sources for arachne.
+    .suffix = { ent-MobGiantSpider.suffix }
 ent-MobGiantSpiderVampireAngry = oneirophage
-    .suffix = Angry
     .desc = { ent-MobGiantSpiderVampire.desc }
+    .suffix = Angry

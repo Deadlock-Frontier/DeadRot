@@ -1,6 +1,11 @@
+ent-DrinkSakeBottleFull = бутылочка саке
+    .desc = Похоже, сожаление о завтрашнем утре тоже накладывает свой отпечаток на бутылку.
+    .suffix = { ent-DrinkBottleGlassBaseFull.suffix }
 ent-DrinkSojuBottleFull = soju bottle
     .desc = It's like sake but if you're trying to get FUCKED. UP.
+    .suffix = { ent-DrinkBottleGlassBaseFull.suffix }
 ent-DrinkTokkuri = tokkuri
     .desc = Floral and full of osake!
 ent-DrinkHolyWaterFull = flask of holy water
     .desc = A flask of holy water.
+    .suffix = { ent-DrinkBottleGlassBaseFull.suffix }

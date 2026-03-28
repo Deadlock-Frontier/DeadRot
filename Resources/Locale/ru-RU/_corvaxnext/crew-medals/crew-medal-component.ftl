@@ -2,11 +2,10 @@
 comp-crew-medal-inspection-text = Awarded to { $recipient } for { $reason }.
 comp-crew-medal-award-text = { $recipient } has been awarded the { $medal }.
 # round end screen
-comp-crew-medal-round-end-result =
-    { $count ->
-        [one] There was one medal awarded:
-       *[other] There were { $count } medals awarded:
-    }
+comp-crew-medal-round-end-result = { $count ->
+    [one] There was one medal awarded:
+    *[other] There were { $count } medals awarded:
+}
 comp-crew-medal-round-end-list =
     - [color=white]{ $recipient }[/color] earned the [color=white]{ $medal }[/color] for
     { "  " }{ $reason }

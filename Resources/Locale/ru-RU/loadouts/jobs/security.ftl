@@ -10,6 +10,7 @@ loadout-name-LoadoutMagazineMagnumSpare = pistol magazine (.45 magnum, spare)
 loadout-name-LoadoutMagazineMagnumRubberSpare = pistol magazine (.45 magnum rubber, spare)
 loadout-name-LoadoutMagazineUniversalMagnumSpare = mk 32 'Universal' magazine (.45 magnum, spare)
 loadout-name-LoadoutMagazineUniversalMagnumRubberSpare = mk 32 'Universal' magazine (.45 magnum rubber, spare)
+
 # Duty Weapons
 loadout-name-LoadoutSecurityMk58 = Mk58 (lethal)
 loadout-name-LoadoutSecurityMk58NonLethal = Mk58 (non-lethal)
@@ -40,6 +41,7 @@ loadout-name-LoadoutSecurityArgentiNonLethal = Argenti (non-lethal)
 loadout-name-LoadoutSecurityShotgunSawnLumen = Sawn-off Shotgun (Lumenblast)
 loadout-name-LoadoutSecurityPistolUniversal = mk 32 "Universal" (lethal)
 loadout-name-LoadoutSecurityPistolUniversalNonLethal = mk 32 "Universal" (non-lethal)
+
 # Duty Melee
 loadout-name-LoadoutSecurityEquipmentTruncheon = Truncheon
 loadout-name-LoadoutSecurityEquipmentEnergySword = Energy Sword

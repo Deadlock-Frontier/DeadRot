@@ -1,5 +1,3 @@
-ent-BasePercussionInstrument = { ent-BaseHandheldInstrument }
-    .desc = { ent-BaseHandheldInstrument.desc }
 ent-GlockenspielInstrument = глокеншпиль
     .desc = { ent-BaseHandheldInstrument.desc }
 ent-MusicBoxInstrument = музыкальная шкатулка
@@ -18,3 +16,5 @@ ent-ReverseCymbalsInstrument = реверс-цимбалы
     .desc = Вы уверены, что держите их правильно?
 ent-SuperSynthesizerInstrument = суперсинтезатор
     .desc = Разрываем гетто с помощью Touhou MIDIs с 2020 года.
+ent-BasePercussionInstrument = { ent-BaseHandheldInstrument }
+    .desc = { ent-BaseHandheldInstrument.desc }

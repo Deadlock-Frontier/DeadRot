@@ -1,5 +1,5 @@
-ent-BaseSword = { ent-BaseItem }
-    .desc = { ent-BaseItem.desc }
+ent-BaseSword = Sword
+    .desc = A sharp sword.
 ent-CaptainSabre = капитанская сабля
     .desc = Церемониальное оружие, принадлежащее капитану станции.
 ent-Katana = катана

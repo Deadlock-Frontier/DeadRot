@@ -8,6 +8,7 @@ interaction-HelpUp-success-target-popup = { THE($user) } helps you up.
 interaction-HelpUp-success-others-popup = { THE($user) } helps { THE($target) } up.
 interaction-HelpUp-fail-self-popup = You fail to help { THE($target) } get up.
 interaction-HelpUp-fail-target-popup = { THE($user) } fails to help you up.
+
 interaction-ForceDown-name = Force down
 interaction-ForceDown-description = Force the person to lay down on the floor.
 interaction-ForceDown-delayed-self-popup = You try to force { THE($target) } down...
@@ -18,6 +19,7 @@ interaction-ForceDown-success-target-popup = { THE($user) } forces you to lay do
 interaction-ForceDown-success-others-popup = { THE($user) } forces { THE($target) } to lay down.
 interaction-ForceDown-fail-self-popup = You fail to force { THE($target) } down.
 interaction-ForceDown-fail-target-popup = { THE($user) } fails to force you down.
+
 interaction-MakeSleepOther-name = Make sleep
 interaction-MakeSleepOther-description = Put the target to sleep.
 interaction-MakeSleepOther-delayed-self-popup = You are trying to put { THE($target) } to sleep...
@@ -28,6 +30,7 @@ interaction-MakeSleepOther-fail-target-popup = { THE($user) } fails to put you t
 interaction-MakeSleepOther-success-self-popup = You put { THE($target) } to sleep.
 interaction-MakeSleepOther-success-target-popup = { THE($user) } puts you to sleep.
 interaction-MakeSleepOther-success-others-popup = { THE($user) } puts { THE($target) } to sleep.
+
 interaction-ShakeOther-name = Shake
 interaction-ShakeOther-description = Shake the target.
 interaction-ShakeOther-fail-self-popup = You somehow fail to shake { THE($target) }.

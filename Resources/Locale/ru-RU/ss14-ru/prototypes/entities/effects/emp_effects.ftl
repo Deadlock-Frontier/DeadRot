@@ -1,6 +1,6 @@
 ent-EffectEmpPulseNoSound = { "" }
     .desc = { "" }
-ent-EffectEmpPulse = { "" }
-    .desc = { "" }
+ent-EffectEmpPulse = { ent-EffectEmpPulseNoSound }
+    .desc = { ent-EffectEmpPulseNoSound.desc }
 ent-EffectEmpDisabled = { "" }
     .desc = { "" }

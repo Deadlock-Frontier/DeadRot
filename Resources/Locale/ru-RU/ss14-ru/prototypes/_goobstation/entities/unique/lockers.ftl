@@ -1,9 +1,9 @@
 ent-UniqueLockerNanorepFilled = { ent-LockerNanorepFilled }
-    .suffix = MAP THIS, Unique, Filled
     .desc = { ent-LockerNanorepFilled.desc }
+    .suffix = MAP THIS, Unique, Filled
 ent-UniqueLockerBlueshieldOfficerFilled = { ent-LockerBlueshieldOfficerFilled }
-    .suffix = MAP THIS, Unique, Filled
     .desc = { ent-LockerBlueshieldOfficerFilled.desc }
-ent-UniqueLockerMagistrateFilled = { ent-LockerMagistrateFilled }
     .suffix = MAP THIS, Unique, Filled
+ent-UniqueLockerMagistrateFilled = { ent-LockerMagistrateFilled }
     .desc = { ent-LockerMagistrateFilled.desc }
+    .suffix = MAP THIS, Unique, Filled

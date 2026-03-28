@@ -1,6 +1,6 @@
 ent-JetpackBorgFilled = borg jetpack
-    .suffix = Filled
     .desc = { ent-JetpackVoid.desc }
+    .suffix = Filled
 ent-MassScannerEEBorg = handheld mass scanner
     .desc = A cyborg-specific mass scanner.
     .suffix = EE Borg

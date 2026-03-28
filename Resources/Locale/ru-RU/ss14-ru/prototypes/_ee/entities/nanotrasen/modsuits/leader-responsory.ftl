@@ -9,5 +9,5 @@ ent-ClothingModsuitChestplateResponsoryLeader = Leader Responsory modsuit chestp
 ent-ClothingModsuitBootsResponsoryLeader = Leader Responsory modsuit boots
     .desc = A state-of-the-art pair of magboots for the Leader Responsory modsuit. So long as the suit is powered, these will not slow the wearer down.
 ent-SuitStorageResponsoryLeader = { ent-SuitStorageBase }
-    .suffix = Leader Responsory Modsuit
     .desc = { ent-SuitStorageBase.desc }
+    .suffix = Leader Responsory Modsuit

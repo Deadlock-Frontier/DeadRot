@@ -9,17 +9,18 @@ strippable-component-cannot-drop-message = { CAPITALIZE($owner) } не може�
 strippable-component-alert-owner = { CAPITALIZE($user) } снимает с вас { $item }!
 strippable-component-alert-owner-hidden = Вы чувствуете, как кто-то копается в вашем { $slot }!
 strippable-component-alert-owner-insert = { CAPITALIZE($user) } надевает на вас { $item }!
-strippable-component-alert-owner-insert-hand = { CAPITALIZE($user) } вкладывает { $item } в вашу руку!
+
 # generic warning for when a user interacts with your equipped items.
 strippable-component-alert-owner-interact = { CAPITALIZE($user) } возится с вашим { $item }!
+
 # StripVerb
 strip-verb-get-data-text = Обыскать
-strip-all-verb-get-data-text = Раздеть
 
 ## UI
+
+strippable-bound-user-interface-stripping-menu-title = Инвентарь { $ownerName }
+strippable-bound-user-interface-stripping-menu-ensnare-button = Ограничители ног
 
 # Stealth
 thieving-component-user = Someone
 thieving-component-item = something
-strippable-bound-user-interface-stripping-menu-title = Инвентарь { $ownerName }
-strippable-bound-user-interface-stripping-menu-ensnare-button = Ограничители ног

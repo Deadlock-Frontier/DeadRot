@@ -1,6 +1,8 @@
 # Nouns
+# Nouns
 seeds-noun-seeds = семян
 seeds-noun-spores = спор
+
 # Seeds
 seeds-wheat-name = пшеница
 seeds-wheat-display-name = стебли пшеницы
@@ -34,8 +36,6 @@ seeds-potato-name = картофель
 seeds-potato-display-name = картофель
 seeds-sugarcane-name = сахарный тростник
 seeds-sugarcane-display-name = сахарный тростник
-seeds-teaplant-name = чайный куст
-seeds-teaplant-display-name = чайный куст
 seeds-papercane-name = бумажный тростник
 seeds-papercane-display-name = бумажный тростник
 seeds-towercap-name = грибошляпник
@@ -48,8 +48,6 @@ seeds-bluetomato-name = синий томат
 seeds-bluetomato-display-name = куст синего томата
 seeds-bloodtomato-name = кровяной томат
 seeds-bloodtomato-display-name = куст кровяного томата
-seeds-killertomato-name = томат-убийца
-seeds-killertomato-display-name = куст томата-убийцы
 seeds-eggplant-name = баклажан
 seeds-eggplant-display-name = баклажан
 seeds-apple-name = яблоко
@@ -128,8 +126,6 @@ seeds-worldpea-name = горох мира
 seeds-worldpea-display-name = лоза гороха мира
 seeds-pumpkin-name = тыква
 seeds-pumpkin-display-name = тыква
-seeds-blue-pumpkin-name = синяя тыква
-seeds-blue-pumpkin-display-name = синяя тыква
 seeds-cotton-name = хлопок
 seeds-cotton-display-name = куст хлопка
 seeds-pyrotton-name = пирохлопок
@@ -138,7 +134,3 @@ seeds-capfruit-name = пистофрукт
 seeds-capfruit-display-name = пистофруктовое дерево
 seeds-cherry-name = вишня
 seeds-cherry-display-name = вишнёвое дерево
-seeds-anomaly-berry-name = аномальные ягоды
-seeds-anomaly-berry-display-name = куст аномальных ягод
-seeds-bloonion-name = лук-летун
-seeds-bloonion-display-name = луковицы лука-летуна

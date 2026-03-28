@@ -4,5 +4,5 @@ ent-WashingMachineBroken = washing machine
     .desc = A shattered mess of glass and steel that won't be washing anything anytime soon. It looks dusty.
     .suffix = broken
 ent-WashingMachineFilledClothes = washing machine
-    .suffix = random clothes
     .desc = { ent-WashingMachine.desc }
+    .suffix = random clothes

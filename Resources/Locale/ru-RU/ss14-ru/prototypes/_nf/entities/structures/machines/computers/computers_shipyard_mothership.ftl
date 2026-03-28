@@ -1,3 +1,3 @@
-ent-BaseMothershipComputer = { ent-BaseStructureDisableToolUse }
+ent-BaseMothershipComputer = { ent-ComputerShipyardCrescent }
     .desc = Used on motherships to purchase and sell ships without returning to a station.
     .suffix = Mothership

@@ -1,6 +1,6 @@
 ent-SpawnPointGhostBingle = ghost role spawn point
-    .suffix = Bingle
     .desc = { ent-MarkerBase.desc }
+    .suffix = Bingle
 ent-SpawnPointGhostBinglePrime = { ent-SpawnPointGhostBingle }
-    .suffix = Prime
     .desc = { ent-SpawnPointGhostBingle.desc }
+    .suffix = Prime

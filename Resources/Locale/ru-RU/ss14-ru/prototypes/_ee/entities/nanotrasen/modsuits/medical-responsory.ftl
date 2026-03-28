@@ -9,5 +9,5 @@ ent-ClothingModsuitChestplateResponsoryMedical = Medical Responsory modsuit ches
 ent-ClothingModsuitBootsResponsoryMedical = Medical Responsory modsuit boots
     .desc = A state-of-the-art pair of magboots for the Medical Responsory modsuit. So long as the suit is powered, these will not slow the wearer down.
 ent-SuitStorageResponsoryMedical = { ent-SuitStorageBase }
-    .suffix = Medical Responsory Modsuit
     .desc = { ent-SuitStorageBase.desc }
+    .suffix = Medical Responsory Modsuit

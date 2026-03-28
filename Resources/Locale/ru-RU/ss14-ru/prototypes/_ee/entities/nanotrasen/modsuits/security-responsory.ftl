@@ -9,5 +9,5 @@ ent-ClothingModsuitChestplateResponsorySecurity = Security Responsory modsuit ch
 ent-ClothingModsuitBootsResponsorySecurity = Security Responsory modsuit boots
     .desc = A state-of-the-art pair of magboots for the Security Responsory modsuit. So long as the suit is powered, these will not slow the wearer down.
 ent-SuitStorageResponsorySecurity = { ent-SuitStorageBase }
-    .suffix = Security Responsory Modsuit
     .desc = { ent-SuitStorageBase.desc }
+    .suffix = Security Responsory Modsuit

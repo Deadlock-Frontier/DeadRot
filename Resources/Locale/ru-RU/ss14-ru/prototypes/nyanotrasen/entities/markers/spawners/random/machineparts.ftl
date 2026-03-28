@@ -1,6 +1,6 @@
 ent-SalvagePartsSpawnerLow = Salvage Parts Spawner
+    .desc = { ent-MarkerBase.desc }
     .suffix = Low
-    .desc = { ent-MarkerBase.desc }
 ent-SalvagePartsSpawnerMid = Salvage Parts Spawner
-    .suffix = High
     .desc = { ent-MarkerBase.desc }
+    .suffix = High

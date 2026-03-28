@@ -1,8 +1,9 @@
 ent-SimpleArtifactMobBase = { ent-MobAtmosNF }
-    .suffix = AI
     .desc = { ent-MobAtmosNF.desc }
+    .suffix = AI
 ent-BaseMobArtifactConstruct = artifact construct
     .desc = { ent-SimpleArtifactMobBase.desc }
+    .suffix = { ent-SimpleArtifactMobBase.suffix }
 ent-MobGrimForged = Grimforged Construct
     .desc = A towering golem crafted from twisted metal and ancient stones.
     .suffix = AI

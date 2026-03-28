@@ -1,12 +1,12 @@
 ent-SpawnMobArgocyteTiny = argocyte spawner
+    .desc = { ent-MarkerBase.desc }
     .suffix = AI, Hostile, Tiny
-    .desc = { ent-MarkerBase.desc }
 ent-SpawnMobArgocyteSmall = argocyte spawner
+    .desc = { ent-MarkerBase.desc }
     .suffix = AI, Hostile, Small
-    .desc = { ent-MarkerBase.desc }
 ent-SpawnMobArgocyteMedium = argocyte spawner
+    .desc = { ent-MarkerBase.desc }
     .suffix = AI, Hostile, Medium
-    .desc = { ent-MarkerBase.desc }
 ent-SpawnMobArgocyteBig = argocyte spawner
-    .suffix = AI, Hostile, Big
     .desc = { ent-MarkerBase.desc }
+    .suffix = AI, Hostile, Big

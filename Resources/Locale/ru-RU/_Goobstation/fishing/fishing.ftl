@@ -3,6 +3,7 @@ fishing-progress-success = Вы что-то вытащили из воды!
 fishing-progress-fail = Вы упустили...
 fishing-progress-lost-rod = Вы потеряли контроль над { $ent }!
 fishing-progress-start = Вы чувствуете, что что-то зацепилось за наживку!
+
 action-fishing-stop = Подмотать удочку
 action-fishing-stop-desc = Подмотайте удочку, чтобы вытянуть прикреплённый объект или прекратить рыбалку.
 action-fishing-start = Забросить наживку

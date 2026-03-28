@@ -3,9 +3,6 @@ criminal-records-console-records-list-title = Члены экипажа
 criminal-records-console-select-record-info = Выбрать запись.
 criminal-records-console-no-records = Записи не найдены!
 criminal-records-console-no-record-found = Записи о выбранном сотруднике не найдены.
-criminal-records-console-flavor-left = Сначала арест, потом вопросы!
-criminal-records-console-flavor-right = v2.1
-criminal-records-console-show-all = Все
 
 ## Status
 
@@ -16,6 +13,7 @@ criminal-records-status-detained = Под арестом
 criminal-records-status-suspected = Подозревается
 criminal-records-status-discharged = Освобождён
 criminal-records-status-paroled = Освобождён по УДО
+
 criminal-records-console-wanted-reason = Причина розыска
 criminal-records-console-suspected-reason = Причина подозрения
 criminal-records-console-reason = Причина
@@ -28,6 +26,7 @@ criminal-records-history-placeholder = Впишите сюда преступл�
 criminal-records-no-history = У этого сотрудника безупречный послужной список.
 criminal-records-add-history = Добавить
 criminal-records-delete-history = Удалить
+
 criminal-records-permission-denied = Отказано в доступе
 
 ## Security channel notifications
@@ -48,10 +47,7 @@ criminal-records-filter-placeholder = Введите текст и нажмит�
 criminal-records-name-filter = Имя
 criminal-records-prints-filter = Отпечатки пальцев
 criminal-records-dna-filter = ДНК
-criminal-records-job-filter = Должность
-criminal-records-species-filter = Раса
 
 ## Arrest auto history lines
-
 criminal-records-console-auto-history = АРЕСТОВАН: { $reason }
 criminal-records-console-unspecified-reason = <причина не указана>

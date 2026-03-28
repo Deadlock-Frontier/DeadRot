@@ -10,14 +10,18 @@ ent-DrinkLemonDropGlass = { ent-DrinkGlass }
 ent-DrinkGreenGrassGlass = { ent-DrinkGlass }
     .desc = An odd green cocktail, topped with oranges, ice, and a plastic straw. Curious.
     .suffix = green grass
-
+ent-DrinkDaiquiriGlass = { ent-DrinkGlass }
+    .desc = Rum, lime, and simple syrup. Such class, such refinement.
+    .suffix = Дайкири
 ent-DrinkArsonistsBrewGlass = { ent-DrinkGlass }
     .desc = It's probably not concerning that it's glowing faintly. Or bubbling. Or smoking. No, not at all.
     .suffix = arsonist's brew
-
+ent-DrinkKvassGlass = { ent-DrinkGlass }
+    .desc = A cool refreshing drink with a taste of socialism.
+    .suffix = Квас
 ent-DrinkMothamphetamineGlass = { ent-DrinkGlass }
     .desc = A strangely... Fuzzy drink. It has a chaotic aura.
     .suffix = mothamphetamine
 ent-DoubleIceCreamGlass = { ent-DrinkGlass }
-    .suffix = double ice cream
     .desc = { ent-DrinkGlass.desc }
+    .suffix = double ice cream

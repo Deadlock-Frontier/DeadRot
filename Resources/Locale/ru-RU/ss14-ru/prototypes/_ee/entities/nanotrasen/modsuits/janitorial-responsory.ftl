@@ -9,5 +9,5 @@ ent-ClothingModsuitChestplateResponsoryJanitorial = Janitorial Responsory modsui
 ent-ClothingModsuitBootsResponsoryJanitorial = Janitorial Responsory modsuit boots
     .desc = A state-of-the-art pair of magboots for the Janitorial Responsory modsuit. So long as the suit is powered, these will not slow the wearer down.
 ent-SuitStorageResponsoryJanitorial = { ent-SuitStorageBase }
-    .suffix = Janitorial Responsory Modsuit
     .desc = { ent-SuitStorageBase.desc }
+    .suffix = Janitorial Responsory Modsuit

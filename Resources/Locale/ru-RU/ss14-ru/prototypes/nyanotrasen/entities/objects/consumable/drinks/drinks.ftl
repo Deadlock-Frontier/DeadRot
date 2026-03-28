@@ -1,4 +1,6 @@
-
+ent-DrinkSakeGlass = { ent-DrinkGlass }
+    .desc = Wine made from rice, it's sake!
+    .suffix = Саке
 ent-DrinkOrangeCreamiceGlass = { ent-DrinkGlass }
     .desc = Orangy, creamy goodness.
     .suffix = orange creamcicle

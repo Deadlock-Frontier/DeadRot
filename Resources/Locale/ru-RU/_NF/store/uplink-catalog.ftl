@@ -1,11 +1,14 @@
 uplink-emp-grenade-launcher-bundle-name = EMP China-Lake Bundle
 uplink-emp-grenade-launcher-bundle-desc = An old China-Lake grenade launcher bundled with 8 rounds of EMP.
+
 store-category-sechardsuits = EVA Suits
 store-category-secweapons = Weapons
 store-category-secutility = Utility
 store-category-secammo = Ammunition
 store-category-secexplosives = Explosives
 store-category-secbundles = Bundles
+
+
 uplink-security-hardsuit-name = Security HardSuit
 uplink-security-hardsuit-desc = Standard issue armored EVA suit. Bulky armor plating slightly limits movement speed.
 uplink-security-hardsuit-patrol-name = Security Patrol HardSuit
@@ -146,5 +149,4 @@ uplink-security-emp-ammo-name = EMP Projectile Ammo
 uplink-security-emp-ammo-desc = A a box containing 4 EMP projectile grenades.
 uplink-security-trackingdart-ammo-name = Tracking Darts Ammo
 uplink-security-trackingdart-ammo-desc = A a box containing 4 tracking darts.
-uplink-spaceblade-syndicate-name = Contra SpaceBlade
-uplink-spaceblade-syndicate-desc = Made from real metal!
+

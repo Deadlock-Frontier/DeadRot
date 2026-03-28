@@ -11,7 +11,6 @@ ent-RubberStampCentcom = печать Центком
 ent-RubberStampChaplain = печать священника
     .desc = { ent-RubberStampBase.desc }
     .suffix = DO NOT MAP
-
 ent-RubberStampClown = печать клоуна
     .desc = { ent-RubberStampBase.desc }
     .suffix = DO NOT MAP

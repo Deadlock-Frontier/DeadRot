@@ -95,6 +95,7 @@ job-name-hangartech = Thukker Hangar Technician
 job-name-beltrunner = Izdari Beltrunner
 job-name-draugr = Al'Seik Draugr
 job-name-servile = Al'Seik Servile
+
 # ath
 job-name-kommandant = Konteradmiral
 job-name-leutnant = Leutnant
@@ -156,6 +157,7 @@ job-name-unionfall-ncwl-officer = Kommissar
 job-name-unionfall-ncwl-doctor = Doktor
 job-name-unionfall-ncwl-rifleman = Soldat
 job-name-unionfall-ncwl-cadet = Cadet
+
 # unionfall-dsm
 job-name-unionfall-dsm-ship-captain = Ship Grand Steward
 job-name-unionfall-dsm-ship-crew = Ship Steward
@@ -164,6 +166,7 @@ job-name-unionfall-dsm-officer = Knight
 job-name-unionfall-dsm-doctor = Medicant
 job-name-unionfall-dsm-rifleman = Man-at-arms
 job-name-unionfall-dsm-cadet = Levyman
+
 # event roles
 job-name-ncwl-conscript-event = Homeguard Militiaman
 job-name-ncwl-conscript-event-SMG = Homeguard SMG Militiaman

@@ -1,6 +1,6 @@
 ent-LockableButtonShinohara = { ent-LockableButton }
+    .desc = { ent-LockableButton.desc }
     .suffix = Shinohara
-    .desc = { ent-LockableButton.desc }
 ent-LockableButtonNCWL = { ent-LockableButton }
-    .suffix = NCWL
     .desc = { ent-LockableButton.desc }
+    .suffix = NCWL

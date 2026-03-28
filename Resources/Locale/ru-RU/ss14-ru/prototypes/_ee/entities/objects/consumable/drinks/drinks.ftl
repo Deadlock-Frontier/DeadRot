@@ -1,9 +1,9 @@
 ent-DrinkVodkaSportsDrink = { ent-DrinkGlass }
+    .desc = { ent-DrinkGlass.desc }
     .suffix = vodka sports drink
-    .desc = { ent-DrinkGlass.desc }
 ent-DrinkRoninRefresher = { ent-DrinkGlass }
+    .desc = { ent-DrinkGlass.desc }
     .suffix = ronin refresher
-    .desc = { ent-DrinkGlass.desc }
 ent-DrinkDeadlifter = { ent-DrinkGlass }
-    .suffix = deadlifter
     .desc = { ent-DrinkGlass.desc }
+    .suffix = deadlifter

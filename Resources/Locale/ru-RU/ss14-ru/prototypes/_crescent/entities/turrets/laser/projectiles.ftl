@@ -1,4 +1,5 @@
-
+ent-BulletKineticShuttle = { ent-BaseBulletTrigger }
+    .desc = { ent-BaseBulletTrigger.desc }
 ent-BulletCurse = ion ray
     .desc = { ent-BaseBulletTrigger.desc }
 ent-BulletRetribution = volatile hardlight bolt

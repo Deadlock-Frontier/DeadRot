@@ -1,8 +1,8 @@
 ent-BaseMagazineUniversalMagnum = mk 32 'Universal' magazine (8.3×33mm)
     .desc = { ent-BaseMagazinePistol.desc }
 ent-MagazineUniversalMagnumEmpty = mk 32 'Universal' magazine (8.3×33mm any)
-    .suffix = empty
     .desc = { ent-BaseMagazineUniversalMagnum.desc }
+    .suffix = empty
 ent-MagazineUniversalMagnum = mk 32 'Universal' magazine (8.3×33mm)
     .desc = { ent-BaseMagazineUniversalMagnum.desc }
 ent-MagazineUniversalMagnumPractice = mk 32 'Universal' magazine (8.3×33mm practice)

@@ -1,6 +1,6 @@
 ent-AirlockAssemblyRoboticist = { ent-AirlockAssembly }
+    .desc = { ent-AirlockAssembly.desc }
     .suffix = Robotics
-    .desc = { ent-AirlockAssembly.desc }
 ent-AirlockAssemblyRoboticistGlass = { ent-AirlockAssembly }
-    .suffix = Robotics, Glass
     .desc = { ent-AirlockAssembly.desc }
+    .suffix = Robotics, Glass

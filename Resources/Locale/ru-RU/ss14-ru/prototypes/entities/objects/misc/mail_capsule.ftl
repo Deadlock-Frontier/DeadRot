@@ -1,5 +1,5 @@
 ent-MailCapsulePrimed = mail capsule
-    .suffix = Primed
     .desc = { ent-BaseItem.desc }
+    .suffix = Primed
 ent-BoxMailCapsulePrimed = mail capsule box
     .desc = A box of primed mail capsules.

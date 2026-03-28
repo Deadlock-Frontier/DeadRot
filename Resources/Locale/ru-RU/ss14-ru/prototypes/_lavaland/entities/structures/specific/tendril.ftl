@@ -22,5 +22,5 @@ ent-LavalandTendrilMagmaHand = tendril
     .desc = A huge structure.
     .suffix = MagmaHand
 ent-SpawnerRandomTendrilLavaland = tendril spawner
-    .suffix = Lavaland
     .desc = { ent-MarkerBase.desc }
+    .suffix = Lavaland

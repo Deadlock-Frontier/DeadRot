@@ -35,10 +35,12 @@ marking-EarsVoidbornBull = Straight Ears
 marking-EarsVoidbornBullSmooth = Straight Ears, Outlined
 marking-EarsVoidbornAqua = Aqua Ears
 marking-EarsVoidbornAquaIncolor = Aqua Ears, Colored
+
 marking-TailVoidbornShorter = Short Tail
 marking-TailVoidbornShorterBrush = Short Tail, Furry
 marking-TailVoidbornMedium = Medium Tail
 marking-TailVoidbornMediumTwoColored = Medium Tail, Two-Toned
+
 marking-BodyVoidbornArrow = Arrow Marking
 marking-BodyVoidbornBlackHole = Black Hole Marking
 marking-BodyVoidbornBrace = Bracelet Marking

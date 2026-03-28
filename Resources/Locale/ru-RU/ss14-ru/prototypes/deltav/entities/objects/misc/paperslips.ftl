@@ -1,13 +1,13 @@
 ent-PaperBiscuit = biscuit card
     .desc = A biscuit card. On the back, 'DO NOT DIGEST' is printed in large lettering.
 ent-PaperBiscuitFilled = { ent-PaperBiscuit }
-    .suffix = Filled
     .desc = { ent-PaperBiscuit.desc }
+    .suffix = Filled
 ent-PaperBiscuitCorporate = confidential biscuit card
     .desc = A confidential biscuit card. The tasteful blue color and NT logo on the front makes it look a little like a chocolate bar.
 ent-PaperBiscuitCorporateFilled = { ent-PaperBiscuitCorporate }
-    .suffix = Filled
     .desc = { ent-PaperBiscuitCorporate.desc }
+    .suffix = Filled
 ent-PaperBiscuitCorporateSpareID = emergency access biscuit
     .desc = { ent-PaperBiscuitCorporate.desc }
 ent-PaperSlip = paper slip

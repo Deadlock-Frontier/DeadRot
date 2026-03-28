@@ -1,8 +1,12 @@
 ent-BaseOilJar = { ent-DrinkBottleGlassBaseFull }
     .desc = { ent-DrinkBottleGlassBaseFull.desc }
+    .suffix = { ent-DrinkBottleGlassBaseFull.suffix }
 ent-OilJarGhee = jar of ghee
     .desc = A large tinted glass jar with a simple label of butter sticks on it.
+    .suffix = { ent-BaseOilJar.suffix }
 ent-OilJarCorn = jar of corn oil
     .desc = A large tinted glass jar with a simple label of a corn stalk on it.
+    .suffix = { ent-BaseOilJar.suffix }
 ent-OilJarOlive = jar of olive oil
     .desc = A large tinted glass jar with a simple label of olives on it.
+    .suffix = { ent-BaseOilJar.suffix }

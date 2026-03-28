@@ -9,5 +9,5 @@ ent-ClothingModsuitChestplateCorporate = Corporate modsuit chestplate
 ent-ClothingModsuitBootsCorporate = Corporate modsuit boots
     .desc = A state-of-the-art pair of magboots for the Corporate modsuit. So long as the suit is powered, these will not slow the wearer down.
 ent-SuitStorageCorporate = { ent-SuitStorageBase }
-    .suffix = Corporate Modsuit
     .desc = { ent-SuitStorageBase.desc }
+    .suffix = Corporate Modsuit

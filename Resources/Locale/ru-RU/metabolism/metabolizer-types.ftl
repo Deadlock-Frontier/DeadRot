@@ -13,4 +13,3 @@ metabolizer-type-vampiric = Vampiric
 metabolizer-type-liquorlifeline = Liquor Lifeline
 metabolizer-type-voidborn = Voidborn
 metabolizer-type-plasmaman = Plasmaman
-metabolizer-type-kidan = Кидан

@@ -1,5 +1,5 @@
 ent-BoxDonkSoftBase = коробка поролоновых дротиков
-    .desc = { ent-BaseItem.desc }
+    .desc = { ent-BaseMagazineBox.desc }
 ent-BoxDonkSoftBox = коробка поролоновых дротиков
     .desc = { ent-BoxDonkSoftBase.desc }
 ent-BoxCartridgeCap = коробка пистонов

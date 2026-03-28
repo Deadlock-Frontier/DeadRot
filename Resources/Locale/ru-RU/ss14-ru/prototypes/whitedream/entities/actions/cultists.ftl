@@ -29,4 +29,4 @@ ent-ActionForceWallCult = Shield
 ent-ActionPhaseShift = Phase Shift
     .desc = This spell allows you to pass through walls.
 ent-ActionGauntletEcho = Gauntlet Echo
-    .desc = Channels energy into your gauntlet - firing its essence forward in a slow moving, yet devastating, attack
+    .desc = Channels energy into your gauntlet — firing its essence forward in a slow moving, yet devastating, attack

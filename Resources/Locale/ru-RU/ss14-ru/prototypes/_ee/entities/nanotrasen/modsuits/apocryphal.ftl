@@ -9,5 +9,5 @@ ent-ClothingModsuitChestplateApocryphal = Apocryphal modsuit chestplate
 ent-ClothingModsuitBootsApocryphal = Apocryphal modsuit boots
     .desc = A state-of-the-art pair of magboots for the Apocryphal modsuit. So long as the suit is powered, these will not slow the wearer down.
 ent-SuitStorageApocryphal = { ent-SuitStorageBase }
-    .suffix = Apocryphal Modsuit
     .desc = { ent-SuitStorageBase.desc }
+    .suffix = Apocryphal Modsuit

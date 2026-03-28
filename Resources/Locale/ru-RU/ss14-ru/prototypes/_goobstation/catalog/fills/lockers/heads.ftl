@@ -1,9 +1,9 @@
 ent-LockerNanorepFilled = { ent-LockerNanorep }
-    .suffix = Filled
     .desc = { ent-LockerNanorep.desc }
+    .suffix = Filled
 ent-LockerBlueshieldOfficerFilled = { ent-LockerBlueshieldOfficer }
-    .suffix = Filled
     .desc = { ent-LockerBlueshieldOfficer.desc }
-ent-LockerMagistrateFilled = { ent-LockerMagistrate }
     .suffix = Filled
+ent-LockerMagistrateFilled = { ent-LockerMagistrate }
     .desc = { ent-LockerMagistrate.desc }
+    .suffix = Filled

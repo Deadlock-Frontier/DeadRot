@@ -1,8 +1,7 @@
 ent-BaseMagazineBoxLightRifle = коробка патронов (.30 винтовочные)
-    .desc = { ent-BaseItem.desc }
+    .desc = { ent-BaseMagazineBox.desc }
 ent-MagazineBoxLightRifleBig = ящик патронов (.30 винтовочные)
     .desc = { ent-BaseMagazineBoxLightRifle.desc }
-    .suffix = Большой
 ent-MagazineBoxLightRifleBigPractice = bulk ammunition box (5.56x45mm Imperial practice)
     .desc = { ent-MagazineBoxLightRifleBig.desc }
 ent-MagazineBoxLightRifleBigRubber = bulk ammunition box (5.56x45mm Imperial rubber)

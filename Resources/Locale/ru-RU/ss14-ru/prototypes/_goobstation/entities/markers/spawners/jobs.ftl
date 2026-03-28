@@ -1,6 +1,9 @@
 ent-SpawnPointBlueshieldOfficer = blueshieldofficer
     .desc = { ent-SpawnPointJobBase.desc }
+    .suffix = { ent-SpawnPointJobBase.suffix }
 ent-SpawnPointNanotrasenRepresentative = nanotrasenrepresentative
     .desc = { ent-SpawnPointJobBase.desc }
+    .suffix = { ent-SpawnPointJobBase.suffix }
 ent-SpawnPointMagistrate = magistrate
     .desc = { ent-SpawnPointJobBase.desc }
+    .suffix = { ent-SpawnPointJobBase.suffix }

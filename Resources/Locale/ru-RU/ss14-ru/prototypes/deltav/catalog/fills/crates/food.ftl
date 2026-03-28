@@ -1,5 +1,3 @@
-
-
 ent-CrateFoodEmergencyPie = emergency pie delivery
     .desc = "Then let them eat pie."
 ent-CrateHydroCoDairy = HydroCo Dairy crate

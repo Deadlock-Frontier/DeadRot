@@ -1,7 +1,9 @@
 ent-BookSalvageEpistemics = epistemics book
     .desc = A metallic hardcover book.
+    .suffix = { ent-BookRandom.suffix }
 ent-BookSalvageEpistemicsRandom = epistemics book
     .desc = { ent-BookSalvageEpistemics.desc }
+    .suffix = { ent-BookSalvageEpistemics.suffix }
 ent-BookSalvageEpistemics1 = { ent-BookSalvageEpistemics }
-    .suffix = 1
     .desc = { ent-BookSalvageEpistemics.desc }
+    .suffix = 1

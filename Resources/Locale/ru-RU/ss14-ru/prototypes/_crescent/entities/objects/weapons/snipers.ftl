@@ -1,4 +1,5 @@
-
+ent-WeaponSniperHristov = Христов
+    .desc = Портативная крупнокалиберная снайперская винтовка. Стреляет мощными бронебойными патронами, калибра .60 крупнокалиберный.
 ent-WeaponSniperImperator = IRM AVR-H Imperator 15.2x169mm
     .desc = A imperial anti-materiel rifle. Fires the large 15.2×169mm round.
 ent-WeaponSniperMolot = NCWL PTRD-94 Molot 15.2x169mm

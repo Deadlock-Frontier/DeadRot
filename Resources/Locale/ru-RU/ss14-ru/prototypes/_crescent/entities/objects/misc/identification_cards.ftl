@@ -116,7 +116,8 @@ ent-IDCardAntiquarian = nomadic ID card
     .desc = { ent-IDCardStandard.desc }
 ent-MercenaryIDCard = mercenary ID card
     .desc = { ent-IDCardStandard.desc }
-
+ent-PilotIDCard = ID-карта пилота
+    .desc = { ent-IDCardStandard.desc }
 ent-DeparmentPassMagnate = magnate ID card
     .desc = { ent-IDCardStandard.desc }
 ent-TAPIDCardProphet = nomadic ID card

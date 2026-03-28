@@ -1,19 +1,23 @@
 # dont touch this
 rank-ordering = { $rank } { $name }
+
 # default
 crescent-rank-private = Pvt.
+
 # independents
 crescent-rank-ind-gliess-sheriff = Sheriff
 crescent-rank-ind-gliess-deputy = Deputy
 crescent-rank-ind-gliess-dockmaster = Dockmaster
 crescent-rank-ind-spacer = Spacer
 crescent-rank-ind-dockhand = Dockhand
+
 # shi
 crescent-rank-shi-executive = Manager
 crescent-rank-shi-board = Exec.
 crescent-rank-shi-corpsec = CorpSec.
 crescent-rank-shi-employee = Employee
 crescent-rank-shi-medtech = Medtech
+
 # empire
 crescent-rank-baron = Lord Admiral
 crescent-rank-adjutant = Adjutant
@@ -27,6 +31,7 @@ crescent-rank-advocatus = Advocati
 crescent-rank-templar = Knight Templar
 crescent-rank-freeholder = Freeholder
 crescent-rank-dsm-conscript = Fyrdman
+
 # dsm-conscript
 crescent-rank-dsm-captain = Grand Steward
 crescent-rank-dsm-crew = Steward
@@ -37,6 +42,7 @@ crescent-rank-dsm-cqc = Fencer
 crescent-rank-dsm-grunt = Man-at-arms
 crescent-rank-dsm-new = Levyman
 crescent-rank-dsm-doctor = Medicant
+
 # ncwl-conscript
 crescent-rank-ncwl-captain = Captain
 crescent-rank-ncwl-crew = Crewman
@@ -47,6 +53,7 @@ crescent-rank-ncwl-cqc = Breacher
 crescent-rank-ncwl-grunt = Soldat
 crescent-rank-ncwl-new = Cadet
 crescent-rank-ncwl-doctor = Doktor
+
 # ncwl
 crescent-rank-ncwl-faction-leader = General Major
 crescent-rank-ncwl-home-leader = Kommissar
@@ -62,6 +69,7 @@ crescent-rank-ncwl-medi-worker = Sanitar
 crescent-rank-ncwl-logi-leader = Coordinator
 crescent-rank-ncwl-worker = Comrade
 crescent-rank-ncwl-conscript = Conscript
+
 
 # syn
 

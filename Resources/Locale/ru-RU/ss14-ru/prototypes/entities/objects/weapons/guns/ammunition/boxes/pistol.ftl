@@ -1,5 +1,5 @@
 ent-BaseMagazineBoxPistol = коробка патронов (.35 авто)
-    .desc = { ent-BaseItem.desc }
+    .desc = { ent-BaseMagazineBox.desc }
 ent-MagazineBoxPistol = коробка патронов (.35 авто)
     .desc = { ent-BaseMagazineBoxPistol.desc }
 ent-MagazineBoxPistolPractice = коробка патронов (.35 авто учебные)

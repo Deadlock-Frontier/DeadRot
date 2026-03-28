@@ -1,4 +1,4 @@
-# Имена
+# Names
 chat-emote-name-scream = Кричать
 chat-emote-name-laugh = Смеяться
 chat-emote-name-honk = Хонк
@@ -8,27 +8,27 @@ chat-emote-name-crying = Плакать
 chat-emote-name-squish = Хлюпать
 chat-emote-name-chitter = Стрекотать
 chat-emote-name-squeak = Пищать
-chat-emote-name-thump = Стучать хвостом
 chat-emote-name-click = Клацать
 chat-emote-name-clap = Хлопать
-chat-emote-name-clap-single = Хлопок
 chat-emote-name-snap = Щёлкать пальцами
 chat-emote-name-salute = Салютовать
-chat-emote-name-gasp = Задыхаться
 chat-emote-name-deathgasp = Предсмертный хрип
-chat-emote-name-buzz = Жужжать
 chat-emote-name-weh = Вехать
-chat-emote-name-hew = Хевать
+chat-emote-name-sneeze = Чихать
+chat-emote-name-cough = Кашлять
+chat-emote-name-monkeyscreeches = Обезьяньи крики
+chat-emote-name-yawn = Зевать
+chat-emote-name-snore = Храпеть
 # Silicon
 chat-emote-name-boop = Boop
 chat-emote-name-whirr = Whirr
+chat-emote-name-buzz = Жужжать
 chat-emote-name-chirp = Чирикать
 chat-emote-name-beep = Бип
 chat-emote-name-chime = Дзынь
 chat-emote-name-buzztwo = Бип буп
 chat-emote-name-ping = Пинг
-chat-emote-name-sneeze = Чихать
-chat-emote-name-cough = Кашлять
+chat-emote-name-robotbeep = Робот
 # Voidborn
 chat-emote-name-mars = Mars
 chat-emote-name-wurble = Wurble
@@ -48,14 +48,11 @@ chat-emote-name-vulphowl = Howl
 # Felinid / Tajaran
 chat-emote-name-meow = Meow
 chat-emote-name-mew = Mew
+chat-emote-name-purr = Мурлыкать
 chat-emote-name-hisses = Hiss
-chat-emote-name-catmeow = Кошачье мяуканье
-chat-emote-name-cathisses = Кошачье шипение
-chat-emote-name-monkeyscreeches = Обезьяньи крики
-chat-emote-name-robotbeep = Робот
-chat-emote-name-yawn = Зевать
-chat-emote-name-snore = Храпеть
-# Сообщение
+chat-emote-name-growl = Рычать
+
+# Message
 chat-emote-msg-scream = кричит!
 chat-emote-msg-laugh = смеётся.
 chat-emote-msg-honk = хонкает.
@@ -65,19 +62,13 @@ chat-emote-msg-crying = плачет.
 chat-emote-msg-squish = хлюпает.
 chat-emote-msg-chitter = щебечет.
 chat-emote-msg-squeak = пищит.
-chat-emote-msg-thump = стучит своим хвостом.
 chat-emote-msg-click = клацает.
 chat-emote-msg-clap = хлопает!
-chat-emote-msg-clap-single = делает одиночный хлопок.
 chat-emote-msg-snap = щёлкает пальцами.
 chat-emote-msg-salute = салютует.
-chat-emote-msg-gasp = задыхается.
 chat-emote-msg-deathgasp = замирает и бездыханно оседает, { POSS-ADJ($entity) } глаза мертвы и безжизненны...
 chat-emote-msg-deathgasp-monkey = издаёт слабый взвизг, оседает и замирает...
-chat-emote-msg-deathgasp-scurret = издаёт своё последнее "Ва" и замирает...
 chat-emote-msg-buzz = жужжит!
-chat-emote-msg-weh = вехает!
-chat-emote-msg-hew = хевает!
 chat-emote-msg-chirp = щебечет!
 chat-emote-msg-beep = пищит.
 chat-emote-msg-chime = издаёт звон.
@@ -90,12 +81,3 @@ chat-emote-msg-cathisses = шипит.
 chat-emote-msg-monkeyscreeches = кричит.
 chat-emote-msg-yawn = зевает.
 chat-emote-msg-snore = храпит.
-# Delta-V
-chat-emote-msg-ring = звонит.
-chat-emote-msg-pew = издаёт пиу.
-chat-emote-msg-bang = издаёт пау.
-chat-emote-msg-rev = издаёт вжик.
-chat-emote-msg-caw = каркает.
-chat-emote-msg-bark = гавкает.
-chat-emote-msg-snarl = рычит.
-chat-emote-msg-whine = скулит.
