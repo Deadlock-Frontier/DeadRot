@@ -239,8 +239,24 @@ namespace Content.Server.Explosion.EntitySystems
             var x = (int) pos.X;
             var y = (int) pos.Y;
             var posText = $"({x}, {y})";
-            var critMessage = Loc.GetString(component.CritMessage, ("user", implanted.ImplantedEntity.Value), ("position", posText));
-            var deathMessage = Loc.GetString(component.DeathMessage, ("user", implanted.ImplantedEntity.Value), ("position", posText));
+
+            // Frontier: Gets station location of the implant
+            var station = _station.GetOwningStation(uid);
+            var stationText = station is null ? null : Name(station.Value); // Ru-Localization
+
+            if (stationText == null)
+                stationText = "";
+
+            // Frontier: Gets species of the implant user
+            var speciesText = "";
+            if (TryComp<HumanoidAppearanceComponent>(implanted.ImplantedEntity, out var humanoid)) // Ru-Localization
+            {
+                var species = _prototypeManager.Index(humanoid.Species); // Ru-Localization
+                speciesText = Loc.GetString(species.Name); // Ru-Localization
+            }
+
+            var critMessage = Loc.GetString(component.CritMessage, ("user", implanted.ImplantedEntity.Value), ("specie", speciesText), ("grid", stationText!), ("position", posText));
+            var deathMessage = Loc.GetString(component.DeathMessage, ("user", implanted.ImplantedEntity.Value), ("specie", speciesText), ("grid", stationText!), ("position", posText));
 
             if (!TryComp<MobStateComponent>(implanted.ImplantedEntity, out var mobstate))
                 return;
