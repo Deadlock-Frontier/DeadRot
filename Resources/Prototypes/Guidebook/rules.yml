@@ -7,3 +7,8 @@
   id: HullrotRuleset
   name: HULLROT Rules
   text: "/ServerInfo/_Crescent/ServerRules/HullrotRuleset.xml"
+
+- type: guideEntry
+  id: DeadRotRuleset
+  name: DeadRot Rules
+  text: "/ServerInfo/_DeadRot/ServerRules/DeadRotRuleset.xml"
