@@ -272,17 +272,16 @@ namespace Content.Server.Explosion.EntitySystems
             if (mobstate.CurrentState != MobState.Alive)
             {
                 var radioChannel = _prototypeManager.Index(component.RadioChannel);
-                var language = _prototypeManager.Index(component.Language);
                 switch (mobstate.CurrentState)
                 {
                     case MobState.Critical:
                     {
-                        _radioSystem.SendRadioMessage(uid, critMessage, radioChannel, uid, null, language);
+                        _radioSystem.SendRadioMessage(uid, critMessage, radioChannel, uid, null);
                         break;
                     }
                     case MobState.Dead:
                     {
-                        _radioSystem.SendRadioMessage(uid, deathMessage, radioChannel, uid, null, language);
+                        _radioSystem.SendRadioMessage(uid, deathMessage, radioChannel, uid, null);
                         break;
                     }
                 }
