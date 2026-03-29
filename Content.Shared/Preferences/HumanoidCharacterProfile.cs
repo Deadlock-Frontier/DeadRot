@@ -27,7 +27,7 @@ public sealed partial class HumanoidCharacterProfile : ICharacterProfile
     private static readonly Regex ICNameCaseRegex = new(@"^(?<word>\w)|\b(?<word>\w)(?=\w*$)");
 
     public const int MaxNameLength = 64;
-    public const int MaxDescLength = 1024;
+    public const int MaxDescLength = 2048; // DeadRot More Symbols (1024->2048)
 
     public const int DefaultBalance = 25000;
 
