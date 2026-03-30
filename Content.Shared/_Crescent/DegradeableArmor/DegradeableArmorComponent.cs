@@ -1,5 +1,5 @@
 using Content.Shared.Damage;
-using Robust.Shared.Audio;
+using Robust.Shared.Audio; // Ratgore Armor Degree Sound
 using Robust.Shared.GameStates;
 using Robust.Shared.Serialization;
 
@@ -37,7 +37,7 @@ public sealed partial class DegradeableArmorComponent : Component
     public ArmorRepairMaterial armorRepair = ArmorRepairMaterial.PlasteelPlate;
 
     /// <summary>
-    /// Sound played when the armor is fully broken (armorHealth <= 0)
+    /// Sound played when the armor is fully broken (armorHealth <= 0) // Ratgore Armor Degree Sound
     /// </summary>
     [DataField, ViewVariables(VVAccess.ReadWrite), AutoNetworkedField]
     public SoundSpecifier? breakSound = new SoundPathSpecifier("/Audio/_Rat/Effects/armor_break.ogg");

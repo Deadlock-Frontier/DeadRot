@@ -16,7 +16,7 @@ using Content.Shared.Inventory;
 using Content.Shared.Popups;
 using Content.Shared.Tools;
 using Content.Shared.Tools.Systems;
-using Robust.Shared.Audio.Systems;
+using Robust.Shared.Audio.Systems; // Ratgore Armor Degree Sound
 using Robust.Shared.Containers;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Serialization;
@@ -58,7 +58,7 @@ public sealed class DegradeableArmorSystem : EntitySystem
     [Dependency] private readonly ClothingSystem _cloth = default!;
     [Dependency] private readonly SharedContainerSystem _containers = default!;
     [Dependency] private readonly SharedToolSystem _toolSystem = default!;
-    [Dependency] private readonly SharedAudioSystem _audio = default!;
+    [Dependency] private readonly SharedAudioSystem _audio = default!; // Ratgore Armor Degree Sound
 
     private const string conversionPrototype = "PiercingInducedBlunt";
     /// <inheritdoc/>
@@ -200,11 +200,11 @@ public sealed class DegradeableArmorSystem : EntitySystem
             //Logger.Error($"Damage adjusted for type {type}, old {value}, new {Math.Max(0f, (float) value - trueReduction)}  Armor damage {armorDamage}. Armor Health {component.armorHealth}. Stamina damage {trueReduction * component.staminaConversions[type]}");
             damageDictionary[type] = Math.Max(0f, (float) value - trueReduction);
         }
-        var wasBroken = component.armorHealth <= 0;
+        var wasBroken = component.armorHealth <= 0; // Ratgore Armor Degree Sound
         component.armorHealth = Math.Max(0, component.armorHealth - armorDamage);
         if (!wasBroken && component.armorHealth <= 0 && component.breakSound != null)
         {
-            _audio.PlayPredicted(component.breakSound, uid, component.wearer != EntityUid.Invalid ? component.wearer : uid);
+            _audio.PlayPredicted(component.breakSound, uid, component.wearer != EntityUid.Invalid ? component.wearer : uid);  // Ratgore Armor Degree Sound
         }
         Dirty(uid, component);
     }
