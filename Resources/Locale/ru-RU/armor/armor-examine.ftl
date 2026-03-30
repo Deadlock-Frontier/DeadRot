@@ -17,4 +17,7 @@ armor-damage-type-cold = Низкотемпературный
 armor-damage-type-poison = Ядовитый
 armor-damage-type-shock = Электрический
 armor-damage-type-structural = Структурный
-armor-examine-stamina = - Урон по [color=cyan]выносливости[/color] снижен на [color=lightblue]{ $num }%[/color].
+armor-examine-stamina = - Урон по [color=cyan]выносливости[/color] снижен на [color=lightblue]{ $num }%[/color].armor-material-examine = Материал бронепластины:{ $material }
+armor-degradation-ceramic = [color=orange] Керамика [/color]
+armor-degradation-metallic = [color=lightblue] Сталь [/color]
+armor-degradation-plastic = [color=cyan] Пластик [/color]
